@@ -1,0 +1,318 @@
+{
+    "TSLA": "https://www.sec.gov/cgi-bin/browse-edgar?company=&match=&CIK=TSLA&filenum=&State=&Country=&SIC=&owner=exclude&Find=Find+Companies&action=getcompany",
+    "ticker": "TSLA",
+    "data": [
+        {
+            "FileName": "8-K",
+            "File Interaction": "Documents Interactive Data",
+            "File Date": "Current report, items 2.02, 7.01, and 9.01 Acc-no: 0001564590-20-045592\u00a0(34 Act) Size: 174 KB",
+            "File Desc": "2020-10-02",
+            "File Number": "001-34756201218088",
+            "File Link": "https://www.sec.gov/Archives/edgar/data/1318605/000156459020045592/0001564590-20-045592-index.htm"
+        },
+        {
+            "FileName": "8-K",
+            "File Interaction": "Documents Interactive Data",
+            "File Date": "Current report, item 5.07 Acc-no: 0001564590-20-044548\u00a0(34 Act) Size: 191 KB",
+            "File Desc": "2020-09-24",
+            "File Number": "001-34756201196042",
+            "File Link": "https://www.sec.gov/Archives/edgar/data/1318605/000156459020044548/0001564590-20-044548-index.htm"
+        },
+        {
+            "FileName": "CT ORDER",
+            "File Interaction": "Documents",
+            "File Date": "Confidential treatment orderAcc-no: 9999999997-20-004698\u00a0(34 Act) Size: 132 KB",
+            "File Desc": "2020-09-21",
+            "File Number": "001-34756201186022",
+            "File Link": "https://www.sec.gov/Archives/edgar/data/1318605/999999999720004698/9999999997-20-004698-index.htm"
+        },
+        {
+            "FileName": "DEFA14A",
+            "File Interaction": "Documents",
+            "File Date": "Additional definitive proxy soliciting materials and Rule 14(a)(12) materialAcc-no: 0001564590-20-043320\u00a0(34 Act) Size: 53 KB",
+            "File Desc": "2020-09-14",
+            "File Number": "001-34756201172190",
+            "File Link": "https://www.sec.gov/Archives/edgar/data/1318605/000156459020043320/0001564590-20-043320-index.htm"
+        },
+        {
+            "FileName": "8-K",
+            "File Interaction": "Documents Interactive Data",
+            "File Date": "Current report, item 8.01 Acc-no: 0001564590-20-042696\u00a0(34 Act) Size: 158 KB",
+            "File Desc": "2020-09-08",
+            "File Number": "001-34756201162898",
+            "File Link": "https://www.sec.gov/Archives/edgar/data/1318605/000156459020042696/0001564590-20-042696-index.htm"
+        },
+        {
+            "FileName": "SC 13G/A",
+            "File Interaction": "Documents",
+            "File Date": "[Amend] Statement of acquisition of beneficial ownership by individualsAcc-no: 0001088875-20-000084\u00a0(34 Act) Size: 10 KB",
+            "File Desc": "2020-09-02",
+            "File Number": "005-85943201155643",
+            "File Link": "https://www.sec.gov/Archives/edgar/data/1318605/000108887520000084/0001088875-20-000084-index.htm"
+        },
+        {
+            "FileName": "DEFA14A",
+            "File Interaction": "Documents",
+            "File Date": "Additional definitive proxy soliciting materials and Rule 14(a)(12) materialAcc-no: 0001564590-20-042240\u00a0(34 Act) Size: 35 KB",
+            "File Desc": "2020-09-02",
+            "File Number": "001-34756201155570",
+            "File Link": "https://www.sec.gov/Archives/edgar/data/1318605/000156459020042240/0001564590-20-042240-index.htm"
+        },
+        {
+            "FileName": "424B5",
+            "File Interaction": "Documents",
+            "File Date": "Prospectus [Rule 424(b)(5)]Acc-no: 0001193125-20-236699\u00a0(33 Act) Size: 281 KB",
+            "File Desc": "2020-09-01",
+            "File Number": "333-231168201153278",
+            "File Link": "https://www.sec.gov/Archives/edgar/data/1318605/000119312520236699/0001193125-20-236699-index.htm"
+        },
+        {
+            "FileName": "8-K",
+            "File Interaction": "Documents Interactive Data",
+            "File Date": "Current report, items 1.01, 1.02, 8.01, and 9.01 Acc-no: 0001193125-20-236678\u00a0(34 Act) Size: 432 KB",
+            "File Desc": "2020-09-01",
+            "File Number": "001-34756201153268",
+            "File Link": "https://www.sec.gov/Archives/edgar/data/1318605/000119312520236678/0001193125-20-236678-index.htm"
+        },
+        {
+            "FileName": "PX14A6G",
+            "File Interaction": "Documents",
+            "File Date": "Notice of exempt solicitation submitted by non-managementAcc-no: 0001214659-20-007479\u00a0(34 Act) Size: 82 KB",
+            "File Desc": "2020-08-26",
+            "File Number": "001-34756201135615",
+            "File Link": "https://www.sec.gov/Archives/edgar/data/1318605/000121465920007479/0001214659-20-007479-index.htm"
+        },
+        {
+            "FileName": "DEFA14A",
+            "File Interaction": "Documents",
+            "File Date": "Additional definitive proxy soliciting materials and Rule 14(a)(12) materialAcc-no: 0001564590-20-040987\u00a0(34 Act) Size: 1 MB",
+            "File Desc": "2020-08-24",
+            "File Number": "001-34756201124527",
+            "File Link": "https://www.sec.gov/Archives/edgar/data/1318605/000156459020040987/0001564590-20-040987-index.htm"
+        },
+        {
+            "FileName": "DEFA14A",
+            "File Interaction": "Documents",
+            "File Date": "Additional definitive proxy soliciting materials and Rule 14(a)(12) materialAcc-no: 0001564590-20-040042\u00a0(34 Act) Size: 289 KB",
+            "File Desc": "2020-08-13",
+            "File Number": "001-34756201099687",
+            "File Link": "https://www.sec.gov/Archives/edgar/data/1318605/000156459020040042/0001564590-20-040042-index.htm"
+        },
+        {
+            "FileName": "DEFA14A",
+            "File Interaction": "Documents",
+            "File Date": "Additional definitive proxy soliciting materials and Rule 14(a)(12) materialAcc-no: 0001564590-20-040039\u00a0(34 Act) Size: 1 MB",
+            "File Desc": "2020-08-13",
+            "File Number": "001-34756201099659",
+            "File Link": "https://www.sec.gov/Archives/edgar/data/1318605/000156459020040039/0001564590-20-040039-index.htm"
+        },
+        {
+            "FileName": "8-K",
+            "File Interaction": "Documents Interactive Data",
+            "File Date": "Current report, items 8.01 and 9.01 Acc-no: 0001564590-20-039353\u00a0(34 Act) Size: 170 KB",
+            "File Desc": "2020-08-11",
+            "File Number": "001-34756201093265",
+            "File Link": "https://www.sec.gov/Archives/edgar/data/1318605/000156459020039353/0001564590-20-039353-index.htm"
+        },
+        {
+            "FileName": "CT ORDER",
+            "File Interaction": "Documents",
+            "File Date": "Confidential treatment orderAcc-no: 9999999997-20-004329\u00a0(34 Act) Size: 120 KB",
+            "File Desc": "2020-08-07",
+            "File Number": "001-34756201083873",
+            "File Link": "https://www.sec.gov/Archives/edgar/data/1318605/999999999720004329/9999999997-20-004329-index.htm"
+        },
+        {
+            "FileName": "10-Q",
+            "File Interaction": "Documents Interactive Data",
+            "File Date": "Quarterly report [Sections 13 or 15(d)]Acc-no: 0001564590-20-033670\u00a0(34 Act) Size: 19 MB",
+            "File Desc": "2020-07-28",
+            "File Number": "001-34756201051663",
+            "File Link": "https://www.sec.gov/Archives/edgar/data/1318605/000156459020033670/0001564590-20-033670-index.htm"
+        },
+        {
+            "FileName": "8-K",
+            "File Interaction": "Documents Interactive Data",
+            "File Date": "Current report, items 2.02 and 9.01 Acc-no: 0001564590-20-033069\u00a0(34 Act) Size: 21 MB",
+            "File Desc": "2020-07-22",
+            "File Number": "001-34756201041947",
+            "File Link": "https://www.sec.gov/Archives/edgar/data/1318605/000156459020033069/0001564590-20-033069-index.htm"
+        },
+        {
+            "FileName": "DEFA14A",
+            "File Interaction": "Documents",
+            "File Date": "Additional definitive proxy soliciting materials and Rule 14(a)(12) materialAcc-no: 0001564590-20-032196\u00a0(34 Act) Size: 32 KB",
+            "File Desc": "2020-07-10",
+            "File Number": "001-34756201023702",
+            "File Link": "https://www.sec.gov/Archives/edgar/data/1318605/000156459020032196/0001564590-20-032196-index.htm"
+        },
+        {
+            "FileName": "8-K",
+            "File Interaction": "Documents Interactive Data",
+            "File Date": "Current report, items 2.02, 7.01, and 9.01 Acc-no: 0001564590-20-031568\u00a0(34 Act) Size: 176 KB",
+            "File Desc": "2020-07-02",
+            "File Number": "001-34756201007229",
+            "File Link": "https://www.sec.gov/Archives/edgar/data/1318605/000156459020031568/0001564590-20-031568-index.htm"
+        },
+        {
+            "FileName": "8-K",
+            "File Interaction": "Documents Interactive Data",
+            "File Date": "Current report, item 1.01 Acc-no: 0001564590-20-031314\u00a0(34 Act) Size: 161 KB",
+            "File Desc": "2020-06-30",
+            "File Number": "001-34756201003137",
+            "File Link": "https://www.sec.gov/Archives/edgar/data/1318605/000156459020031314/0001564590-20-031314-index.htm"
+        },
+        {
+            "FileName": "DEFA14A",
+            "File Interaction": "Documents",
+            "File Date": "Additional definitive proxy soliciting materials and Rule 14(a)(12) materialAcc-no: 0001564590-20-030017\u00a0(34 Act) Size: 143 KB",
+            "File Desc": "2020-06-22",
+            "File Number": "001-3475620977103",
+            "File Link": "https://www.sec.gov/Archives/edgar/data/1318605/000156459020030017/0001564590-20-030017-index.htm"
+        },
+        {
+            "FileName": "PX14A6G",
+            "File Interaction": "Documents",
+            "File Date": "Notice of exempt solicitation submitted by non-managementAcc-no: 0001214659-20-005791\u00a0(34 Act) Size: 75 KB",
+            "File Desc": "2020-06-19",
+            "File Number": "001-3475620975405",
+            "File Link": "https://www.sec.gov/Archives/edgar/data/1318605/000121465920005791/0001214659-20-005791-index.htm"
+        },
+        {
+            "FileName": "PX14A6G",
+            "File Interaction": "Documents",
+            "File Date": "Notice of exempt solicitation submitted by non-managementAcc-no: 0001214659-20-005699\u00a0(34 Act) Size: 66 KB",
+            "File Desc": "2020-06-17",
+            "File Number": "001-3475620969520",
+            "File Link": "https://www.sec.gov/Archives/edgar/data/1318605/000121465920005699/0001214659-20-005699-index.htm"
+        },
+        {
+            "FileName": "8-K",
+            "File Interaction": "Documents Interactive Data",
+            "File Date": "Current report, item 1.01 Acc-no: 0001564590-20-029536\u00a0(34 Act) Size: 162 KB",
+            "File Desc": "2020-06-16",
+            "File Number": "001-3475620966748",
+            "File Link": "https://www.sec.gov/Archives/edgar/data/1318605/000156459020029536/0001564590-20-029536-index.htm"
+        },
+        {
+            "FileName": "SD",
+            "File Interaction": "Documents",
+            "File Date": "Specialized disclosure reportAcc-no: 0001564590-20-027335\u00a0(34 Act) Size: 371 KB",
+            "File Desc": "2020-05-28",
+            "File Number": "001-3475620921444",
+            "File Link": "https://www.sec.gov/Archives/edgar/data/1318605/000156459020027335/0001564590-20-027335-index.htm"
+        },
+        {
+            "FileName": "DEFA14A",
+            "File Interaction": "Documents",
+            "File Date": "Additional definitive proxy soliciting materials and Rule 14(a)(12) materialAcc-no: 0001564590-20-027325\u00a0(34 Act) Size: 278 KB",
+            "File Desc": "2020-05-28",
+            "File Number": "001-3475620921242",
+            "File Link": "https://www.sec.gov/Archives/edgar/data/1318605/000156459020027325/0001564590-20-027325-index.htm"
+        },
+        {
+            "FileName": "DEF 14A",
+            "File Interaction": "Documents",
+            "File Date": "Other definitive proxy statementsAcc-no: 0001564590-20-027321\u00a0(34 Act) Size: 1 MB",
+            "File Desc": "2020-05-28",
+            "File Number": "001-3475620921203",
+            "File Link": "https://www.sec.gov/Archives/edgar/data/1318605/000156459020027321/0001564590-20-027321-index.htm"
+        },
+        {
+            "FileName": "8-K",
+            "File Interaction": "Documents Interactive Data",
+            "File Date": "Current report, items 1.01 and 2.03 Acc-no: 0001564590-20-023655\u00a0(34 Act) Size: 164 KB",
+            "File Desc": "2020-05-08",
+            "File Number": "001-3475620861706",
+            "File Link": "https://www.sec.gov/Archives/edgar/data/1318605/000156459020023655/0001564590-20-023655-index.htm"
+        },
+        {
+            "FileName": "8-K",
+            "File Interaction": "Documents Interactive Data",
+            "File Date": "Current report, items 8.01 and 9.01 Acc-no: 0001564590-20-022062\u00a0(34 Act) Size: 180 KB",
+            "File Desc": "2020-05-06",
+            "File Number": "001-3475620853702",
+            "File Link": "https://www.sec.gov/Archives/edgar/data/1318605/000156459020022062/0001564590-20-022062-index.htm"
+        },
+        {
+            "FileName": "424B5",
+            "File Interaction": "Documents",
+            "File Date": "Prospectus [Rule 424(b)(5)]Acc-no: 0001193125-20-128995\u00a0(33 Act) Size: 206 KB",
+            "File Desc": "2020-04-30",
+            "File Number": "333-23116820836896",
+            "File Link": "https://www.sec.gov/Archives/edgar/data/1318605/000119312520128995/0001193125-20-128995-index.htm"
+        },
+        {
+            "FileName": "10-Q",
+            "File Interaction": "Documents Interactive Data",
+            "File Date": "Quarterly report [Sections 13 or 15(d)]Acc-no: 0001564590-20-019931\u00a0(34 Act) Size: 15 MB",
+            "File Desc": "2020-04-30",
+            "File Number": "001-3475620833021",
+            "File Link": "https://www.sec.gov/Archives/edgar/data/1318605/000156459020019931/0001564590-20-019931-index.htm"
+        },
+        {
+            "FileName": "8-K",
+            "File Interaction": "Documents Interactive Data",
+            "File Date": "Current report, items 2.02 and 9.01 Acc-no: 0001564590-20-019776\u00a0(34 Act) Size: 17 MB",
+            "File Desc": "2020-04-29",
+            "File Number": "001-3475620831227",
+            "File Link": "https://www.sec.gov/Archives/edgar/data/1318605/000156459020019776/0001564590-20-019776-index.htm"
+        },
+        {
+            "FileName": "10-K/A",
+            "File Interaction": "Documents Interactive Data",
+            "File Date": "[Amend] Annual report [Section 13 and 15(d), not S-K Item 405]Acc-no: 0001564590-20-018984\u00a0(34 Act) Size: 2 MB",
+            "File Desc": "2020-04-28",
+            "File Number": "001-3475620822228",
+            "File Link": "https://www.sec.gov/Archives/edgar/data/1318605/000156459020018984/0001564590-20-018984-index.htm"
+        },
+        {
+            "FileName": "SC 13G",
+            "File Interaction": "Documents",
+            "File Date": "Statement of acquisition of beneficial ownership by individualsAcc-no: 0001104659-20-050982\u00a0(34 Act) Size: 166 KB",
+            "File Desc": "2020-04-24",
+            "File Number": "005-8594320814964",
+            "File Link": "https://www.sec.gov/Archives/edgar/data/1318605/000110465920050982/0001104659-20-050982-index.htm"
+        },
+        {
+            "FileName": "8-K",
+            "File Interaction": "Documents Interactive Data",
+            "File Date": "Current report, items 5.02 and 9.01 Acc-no: 0001564590-20-018196\u00a0(34 Act) Size: 175 KB",
+            "File Desc": "2020-04-23",
+            "File Number": "001-3475620811128",
+            "File Link": "https://www.sec.gov/Archives/edgar/data/1318605/000156459020018196/0001564590-20-018196-index.htm"
+        },
+        {
+            "FileName": "8-K",
+            "File Interaction": "Documents Interactive Data",
+            "File Date": "Current report, items 2.02, 7.01, and 9.01 Acc-no: 0001564590-20-014992\u00a0(34 Act) Size: 177 KB",
+            "File Desc": "2020-04-02",
+            "File Number": "001-3475620769036",
+            "File Link": "https://www.sec.gov/Archives/edgar/data/1318605/000156459020014992/0001564590-20-014992-index.htm"
+        },
+        {
+            "FileName": "8-K",
+            "File Interaction": "Documents Interactive Data",
+            "File Date": "Current report, items 7.01 and 9.01 Acc-no: 0001564590-20-011823\u00a0(34 Act) Size: 173 KB",
+            "File Desc": "2020-03-19",
+            "File Number": "001-3475620729138",
+            "File Link": "https://www.sec.gov/Archives/edgar/data/1318605/000156459020011823/0001564590-20-011823-index.htm"
+        },
+        {
+            "FileName": "8-K",
+            "File Interaction": "Documents Interactive Data",
+            "File Date": "Current report, items 1.01, 3.03, 8.01, and 9.01 Acc-no: 0001564590-20-005288\u00a0(34 Act) Size: 654 KB",
+            "File Desc": "2020-02-19",
+            "File Number": "001-3475620629882",
+            "File Link": "https://www.sec.gov/Archives/edgar/data/1318605/000156459020005288/0001564590-20-005288-index.htm"
+        },
+        {
+            "FileName": "SC 13G/A",
+            "File Interaction": "Documents",
+            "File Date": "[Amend] Statement of acquisition of beneficial ownership by individualsAcc-no: 0001193125-20-038536\u00a0(34 Act) Size: 41 KB",
+            "File Desc": "2020-02-14",
+            "File Number": "005-8594320621530",
+            "File Link": "https://www.sec.gov/Archives/edgar/data/1318605/000119312520038536/0001193125-20-038536-index.htm"
+        }
+    ]
+}

@@ -1,6 +1,6 @@
-import GetEdgar as GetEdgar
-from GetEdgar import fetch
-from GetEdgar import EdgarSearchHashMap
+import GetCompanyDocuments as GetCompanyDocuments
+from GetCompanyDocuments import fetch
+from GetCompanyDocuments import EdgarSearchHashMap
 from bs4 import BeautifulSoup
 from bs4 import BeautifulSoup, SoupStrainer
 
@@ -61,7 +61,7 @@ def parse(ticker,DocLink):
     
 
 # Search for 10-K and/or 10-Q & Extract HTML Elements
-def search(ticker,searchterm):
+def getDocument(ticker,searchterm):
     """1.Search method identifies the search criteria from previously extracted URLs table for a given ticker, and then opens the appropriate URL that matches the search criteria.
     Then, search method calls the extraction method to pull the Document's HTML. """
     data  = fetch(ticker,'QUERY')
@@ -98,4 +98,4 @@ def search(ticker,searchterm):
 
 
 # Main Executable
-search('AAPL','10-K');
+getDocument('GOOGL','10-K');

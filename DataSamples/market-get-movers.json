@@ -1,0 +1,573 @@
+{
+    "finance": {
+        "result": [
+            {
+                "id": "ec5bebb9-b7b2-4474-9e5c-3e258b61cbe6",
+                "title": "Day Gainers - US",
+                "description": "Stocks ordered in descending order by price percent change greater than 3% with respect to the previous close",
+                "canonicalName": "DAY_GAINERS",
+                "criteriaMeta": {
+                    "size": 6,
+                    "offset": 0,
+                    "sortField": "percentchange",
+                    "sortType": "DESC",
+                    "quoteType": "EQUITY",
+                    "topOperator": "AND",
+                    "criteria": [
+                        {
+                            "field": "percentchange",
+                            "operators": [
+                                "GT"
+                            ],
+                            "values": [
+                                3
+                            ],
+                            "labelsSelected": []
+                        },
+                        {
+                            "field": "region",
+                            "operators": [
+                                "EQ"
+                            ],
+                            "values": [],
+                            "labelsSelected": [
+                                53
+                            ]
+                        },
+                        {
+                            "field": "intradaymarketcap",
+                            "operators": [
+                                "EQ"
+                            ],
+                            "values": [],
+                            "labelsSelected": [
+                                1,
+                                2,
+                                3
+                            ]
+                        },
+                        {
+                            "field": "dayvolume",
+                            "operators": [
+                                "GT"
+                            ],
+                            "values": [
+                                15000
+                            ],
+                            "labelsSelected": []
+                        }
+                    ]
+                },
+                "rawCriteria": "{\"offset\":0,\"size\":6,\"sortField\":\"percentchange\",\"sortType\":\"DESC\",\"quoteType\":\"EQUITY\",\"query\":{\"operator\":\"AND\",\"operands\":[{\"operator\":\"GT\",\"operands\":[\"percentchange\",3.0]},{\"operator\":\"eq\",\"operands\":[\"region\",\"us\"]},{\"operator\":\"or\",\"operands\":[{\"operator\":\"BTWN\",\"operands\":[\"intradaymarketcap\",2000000000,10000000000]},{\"operator\":\"BTWN\",\"operands\":[\"intradaymarketcap\",10000000000,100000000000]},{\"operator\":\"GT\",\"operands\":[\"intradaymarketcap\",100000000000]}]},{\"operator\":\"gt\",\"operands\":[\"dayvolume\",15000]}]}}",
+                "start": 0,
+                "count": 6,
+                "total": 380,
+                "quotes": [
+                    {
+                        "language": "US",
+                        "region": "EN-US",
+                        "quoteType": "EQUITY",
+                        "quoteSourceName": "Delayed Quote",
+                        "triggerable": false,
+                        "sourceInterval": 15,
+                        "exchangeDataDelayedBy": 0,
+                        "exchangeTimezoneName": "America/New_York",
+                        "exchangeTimezoneShortName": "EDT",
+                        "gmtOffSetMilliseconds": -14400000,
+                        "esgPopulated": false,
+                        "tradeable": true,
+                        "firstTradeDateMilliseconds": 980865000000,
+                        "priceHint": 2,
+                        "exchange": "NMS",
+                        "market": "us_market",
+                        "fullExchangeName": "NasdaqGS",
+                        "marketState": "PREPRE",
+                        "symbol": "ALGN"
+                    },
+                    {
+                        "language": "US",
+                        "region": "EN-US",
+                        "quoteType": "EQUITY",
+                        "quoteSourceName": "Delayed Quote",
+                        "triggerable": false,
+                        "sourceInterval": 15,
+                        "exchangeDataDelayedBy": 0,
+                        "exchangeTimezoneName": "America/New_York",
+                        "exchangeTimezoneShortName": "EDT",
+                        "gmtOffSetMilliseconds": -14400000,
+                        "esgPopulated": false,
+                        "tradeable": true,
+                        "firstTradeDateMilliseconds": 1536845400000,
+                        "priceHint": 2,
+                        "exchange": "PNK",
+                        "market": "us_market",
+                        "fullExchangeName": "Other OTC",
+                        "marketState": "PREPRE",
+                        "symbol": "NEXOY"
+                    },
+                    {
+                        "language": "US",
+                        "region": "EN-US",
+                        "quoteType": "EQUITY",
+                        "quoteSourceName": "Delayed Quote",
+                        "triggerable": false,
+                        "sourceInterval": 15,
+                        "exchangeDataDelayedBy": 0,
+                        "exchangeTimezoneName": "America/New_York",
+                        "exchangeTimezoneShortName": "EDT",
+                        "gmtOffSetMilliseconds": -14400000,
+                        "esgPopulated": false,
+                        "tradeable": true,
+                        "firstTradeDateMilliseconds": 1344000600000,
+                        "priceHint": 2,
+                        "exchange": "PNK",
+                        "market": "us_market",
+                        "fullExchangeName": "Other OTC",
+                        "marketState": "PREPRE",
+                        "symbol": "MAPGF"
+                    },
+                    {
+                        "language": "US",
+                        "region": "EN-US",
+                        "quoteType": "EQUITY",
+                        "quoteSourceName": "Delayed Quote",
+                        "triggerable": false,
+                        "sourceInterval": 15,
+                        "exchangeDataDelayedBy": 0,
+                        "exchangeTimezoneName": "America/New_York",
+                        "exchangeTimezoneShortName": "EDT",
+                        "gmtOffSetMilliseconds": -14400000,
+                        "esgPopulated": false,
+                        "tradeable": true,
+                        "firstTradeDateMilliseconds": 1397741400000,
+                        "priceHint": 2,
+                        "exchange": "NMS",
+                        "market": "us_market",
+                        "fullExchangeName": "NasdaqGS",
+                        "marketState": "PREPRE",
+                        "symbol": "SABR"
+                    },
+                    {
+                        "language": "US",
+                        "region": "EN-US",
+                        "quoteType": "EQUITY",
+                        "quoteSourceName": "Delayed Quote",
+                        "triggerable": false,
+                        "sourceInterval": 15,
+                        "exchangeDataDelayedBy": 0,
+                        "exchangeTimezoneName": "America/New_York",
+                        "exchangeTimezoneShortName": "EDT",
+                        "gmtOffSetMilliseconds": -14400000,
+                        "esgPopulated": false,
+                        "tradeable": true,
+                        "firstTradeDateMilliseconds": 322151400000,
+                        "priceHint": 2,
+                        "exchange": "NYQ",
+                        "market": "us_market",
+                        "fullExchangeName": "NYSE",
+                        "marketState": "PREPRE",
+                        "symbol": "GPS"
+                    },
+                    {
+                        "language": "US",
+                        "region": "EN-US",
+                        "quoteType": "EQUITY",
+                        "quoteSourceName": "Delayed Quote",
+                        "triggerable": false,
+                        "sourceInterval": 15,
+                        "exchangeDataDelayedBy": 0,
+                        "exchangeTimezoneName": "America/New_York",
+                        "exchangeTimezoneShortName": "EDT",
+                        "gmtOffSetMilliseconds": -14400000,
+                        "esgPopulated": false,
+                        "tradeable": true,
+                        "firstTradeDateMilliseconds": 1602768600000,
+                        "priceHint": 2,
+                        "exchange": "NMS",
+                        "market": "us_market",
+                        "fullExchangeName": "NasdaqGS",
+                        "marketState": "PREPRE",
+                        "symbol": "ARRY"
+                    }
+                ],
+                "predefinedScr": true,
+                "versionId": 6
+            },
+            {
+                "id": "8ecefa87-a8b0-434a-9b39-e061a0baef9b",
+                "title": "Day Losers - US",
+                "description": "Stocks ordered in ascending order by price percent change with respect to the previous close",
+                "canonicalName": "DAY_LOSERS",
+                "criteriaMeta": {
+                    "size": 6,
+                    "offset": 0,
+                    "sortField": "percentchange",
+                    "sortType": "ASC",
+                    "quoteType": "EQUITY",
+                    "topOperator": "AND",
+                    "criteria": [
+                        {
+                            "field": "percentchange",
+                            "operators": [
+                                "LT"
+                            ],
+                            "values": [
+                                -2.5
+                            ],
+                            "labelsSelected": []
+                        },
+                        {
+                            "field": "region",
+                            "operators": [
+                                "EQ"
+                            ],
+                            "values": [],
+                            "labelsSelected": [
+                                53
+                            ]
+                        },
+                        {
+                            "field": "intradaymarketcap",
+                            "operators": [
+                                "EQ"
+                            ],
+                            "values": [],
+                            "labelsSelected": [
+                                1,
+                                2,
+                                3
+                            ]
+                        },
+                        {
+                            "field": "dayvolume",
+                            "operators": [
+                                "GT"
+                            ],
+                            "values": [
+                                20000
+                            ],
+                            "labelsSelected": []
+                        }
+                    ]
+                },
+                "rawCriteria": "{\"offset\":0,\"size\":6,\"sortField\":\"percentchange\",\"sortType\":\"ASC\",\"quoteType\":\"EQUITY\",\"query\":{\"operator\":\"AND\",\"operands\":[{\"operator\":\"LT\",\"operands\":[\"percentchange\",-2.5]},{\"operator\":\"eq\",\"operands\":[\"region\",\"us\"]},{\"operator\":\"or\",\"operands\":[{\"operator\":\"BTWN\",\"operands\":[\"intradaymarketcap\",2000000000,10000000000]},{\"operator\":\"BTWN\",\"operands\":[\"intradaymarketcap\",10000000000,100000000000]},{\"operator\":\"GT\",\"operands\":[\"intradaymarketcap\",100000000000]}]},{\"operator\":\"gt\",\"operands\":[\"dayvolume\",20000]}]}}",
+                "start": 0,
+                "count": 6,
+                "total": 125,
+                "quotes": [
+                    {
+                        "language": "US",
+                        "region": "EN-US",
+                        "quoteType": "EQUITY",
+                        "quoteSourceName": "Delayed Quote",
+                        "triggerable": false,
+                        "sourceInterval": 15,
+                        "exchangeDataDelayedBy": 0,
+                        "exchangeTimezoneName": "America/New_York",
+                        "exchangeTimezoneShortName": "EDT",
+                        "gmtOffSetMilliseconds": -14400000,
+                        "esgPopulated": false,
+                        "tradeable": true,
+                        "firstTradeDateMilliseconds": 1554125400000,
+                        "priceHint": 2,
+                        "exchange": "PNK",
+                        "market": "us_market",
+                        "fullExchangeName": "Other OTC",
+                        "marketState": "PREPRE",
+                        "symbol": "RLLCF"
+                    },
+                    {
+                        "language": "US",
+                        "region": "EN-US",
+                        "quoteType": "EQUITY",
+                        "quoteSourceName": "Delayed Quote",
+                        "triggerable": false,
+                        "sourceInterval": 15,
+                        "exchangeDataDelayedBy": 0,
+                        "exchangeTimezoneName": "America/New_York",
+                        "exchangeTimezoneShortName": "EDT",
+                        "gmtOffSetMilliseconds": -14400000,
+                        "esgPopulated": false,
+                        "tradeable": true,
+                        "firstTradeDateMilliseconds": 1287581400000,
+                        "priceHint": 2,
+                        "exchange": "NYQ",
+                        "market": "us_market",
+                        "fullExchangeName": "NYSE",
+                        "marketState": "PREPRE",
+                        "symbol": "TAL"
+                    },
+                    {
+                        "language": "US",
+                        "region": "EN-US",
+                        "quoteType": "EQUITY",
+                        "quoteSourceName": "Delayed Quote",
+                        "triggerable": false,
+                        "sourceInterval": 15,
+                        "exchangeDataDelayedBy": 0,
+                        "exchangeTimezoneName": "America/New_York",
+                        "exchangeTimezoneShortName": "EDT",
+                        "gmtOffSetMilliseconds": -14400000,
+                        "esgPopulated": false,
+                        "tradeable": true,
+                        "firstTradeDateMilliseconds": 961594200000,
+                        "priceHint": 2,
+                        "exchange": "NYQ",
+                        "market": "us_market",
+                        "fullExchangeName": "NYSE",
+                        "marketState": "PREPRE",
+                        "symbol": "CHU"
+                    },
+                    {
+                        "language": "US",
+                        "region": "EN-US",
+                        "quoteType": "EQUITY",
+                        "quoteSourceName": "Delayed Quote",
+                        "triggerable": false,
+                        "sourceInterval": 15,
+                        "exchangeDataDelayedBy": 0,
+                        "exchangeTimezoneName": "America/New_York",
+                        "exchangeTimezoneShortName": "EDT",
+                        "gmtOffSetMilliseconds": -14400000,
+                        "esgPopulated": false,
+                        "tradeable": true,
+                        "firstTradeDateMilliseconds": 1539955800000,
+                        "priceHint": 2,
+                        "exchange": "NMS",
+                        "market": "us_market",
+                        "fullExchangeName": "NasdaqGS",
+                        "marketState": "PREPRE",
+                        "symbol": "NIU"
+                    },
+                    {
+                        "language": "US",
+                        "region": "EN-US",
+                        "quoteType": "EQUITY",
+                        "quoteSourceName": "Delayed Quote",
+                        "triggerable": false,
+                        "sourceInterval": 15,
+                        "exchangeDataDelayedBy": 0,
+                        "exchangeTimezoneName": "America/New_York",
+                        "exchangeTimezoneShortName": "EDT",
+                        "gmtOffSetMilliseconds": -14400000,
+                        "esgPopulated": false,
+                        "tradeable": true,
+                        "firstTradeDateMilliseconds": 1287149400000,
+                        "priceHint": 2,
+                        "exchange": "PNK",
+                        "market": "us_market",
+                        "fullExchangeName": "Other OTC",
+                        "marketState": "PREPRE",
+                        "symbol": "PHJMF"
+                    },
+                    {
+                        "language": "US",
+                        "region": "EN-US",
+                        "quoteType": "EQUITY",
+                        "quoteSourceName": "Delayed Quote",
+                        "triggerable": false,
+                        "sourceInterval": 15,
+                        "exchangeDataDelayedBy": 0,
+                        "exchangeTimezoneName": "America/New_York",
+                        "exchangeTimezoneShortName": "EDT",
+                        "gmtOffSetMilliseconds": -14400000,
+                        "esgPopulated": false,
+                        "tradeable": true,
+                        "firstTradeDateMilliseconds": 1262097000000,
+                        "priceHint": 2,
+                        "exchange": "PNK",
+                        "market": "us_market",
+                        "fullExchangeName": "Other OTC",
+                        "marketState": "PREPRE",
+                        "symbol": "CIBEY"
+                    }
+                ],
+                "predefinedScr": true,
+                "versionId": 4
+            },
+            {
+                "id": "437465ef-980e-4d8c-a860-de7cbfbab373",
+                "title": "Most Actives - US",
+                "description": "Stocks ordered in descending order by intraday trade volume",
+                "canonicalName": "MOST_ACTIVES",
+                "criteriaMeta": {
+                    "size": 6,
+                    "offset": 0,
+                    "sortField": "dayvolume",
+                    "sortType": "DESC",
+                    "quoteType": "EQUITY",
+                    "topOperator": "AND",
+                    "criteria": [
+                        {
+                            "field": "region",
+                            "operators": [
+                                "EQ"
+                            ],
+                            "values": [],
+                            "labelsSelected": [
+                                53
+                            ]
+                        },
+                        {
+                            "field": "intradaymarketcap",
+                            "operators": [
+                                "EQ"
+                            ],
+                            "values": [],
+                            "labelsSelected": [
+                                1,
+                                2,
+                                3
+                            ]
+                        },
+                        {
+                            "field": "dayvolume",
+                            "operators": [
+                                "GT"
+                            ],
+                            "values": [
+                                5000000
+                            ],
+                            "labelsSelected": []
+                        }
+                    ]
+                },
+                "rawCriteria": "{\"offset\":0,\"size\":6,\"sortField\":\"dayvolume\",\"sortType\":\"DESC\",\"quoteType\":\"EQUITY\",\"query\":{\"operator\":\"AND\",\"operands\":[{\"operator\":\"eq\",\"operands\":[\"region\",\"us\"]},{\"operator\":\"or\",\"operands\":[{\"operator\":\"BTWN\",\"operands\":[\"intradaymarketcap\",2000000000,10000000000]},{\"operator\":\"BTWN\",\"operands\":[\"intradaymarketcap\",10000000000,100000000000]},{\"operator\":\"GT\",\"operands\":[\"intradaymarketcap\",100000000000]}]},{\"operator\":\"gt\",\"operands\":[\"dayvolume\",5000000]}]}}",
+                "start": 0,
+                "count": 6,
+                "total": 196,
+                "quotes": [
+                    {
+                        "language": "US",
+                        "region": "EN-US",
+                        "quoteType": "EQUITY",
+                        "quoteSourceName": "Delayed Quote",
+                        "triggerable": false,
+                        "sourceInterval": 15,
+                        "exchangeDataDelayedBy": 0,
+                        "exchangeTimezoneName": "America/New_York",
+                        "exchangeTimezoneShortName": "EDT",
+                        "gmtOffSetMilliseconds": -14400000,
+                        "esgPopulated": false,
+                        "tradeable": true,
+                        "firstTradeDateMilliseconds": 1488465000000,
+                        "priceHint": 2,
+                        "exchange": "NYQ",
+                        "market": "us_market",
+                        "fullExchangeName": "NYSE",
+                        "marketState": "PREPRE",
+                        "symbol": "SNAP"
+                    },
+                    {
+                        "language": "US",
+                        "region": "EN-US",
+                        "quoteType": "EQUITY",
+                        "quoteSourceName": "Delayed Quote",
+                        "triggerable": false,
+                        "sourceInterval": 15,
+                        "exchangeDataDelayedBy": 0,
+                        "exchangeTimezoneName": "America/New_York",
+                        "exchangeTimezoneShortName": "EDT",
+                        "gmtOffSetMilliseconds": -14400000,
+                        "esgPopulated": false,
+                        "tradeable": true,
+                        "firstTradeDateMilliseconds": 345479400000,
+                        "priceHint": 2,
+                        "exchange": "NMS",
+                        "market": "us_market",
+                        "fullExchangeName": "NasdaqGS",
+                        "marketState": "PREPRE",
+                        "symbol": "AAPL"
+                    },
+                    {
+                        "language": "US",
+                        "region": "EN-US",
+                        "quoteType": "EQUITY",
+                        "quoteSourceName": "Delayed Quote",
+                        "triggerable": false,
+                        "sourceInterval": 15,
+                        "exchangeDataDelayedBy": 0,
+                        "exchangeTimezoneName": "America/New_York",
+                        "exchangeTimezoneShortName": "EDT",
+                        "gmtOffSetMilliseconds": -14400000,
+                        "esgPopulated": false,
+                        "tradeable": true,
+                        "firstTradeDateMilliseconds": -252322200000,
+                        "priceHint": 2,
+                        "exchange": "NYQ",
+                        "market": "us_market",
+                        "fullExchangeName": "NYSE",
+                        "marketState": "PREPRE",
+                        "symbol": "GE"
+                    },
+                    {
+                        "language": "US",
+                        "region": "EN-US",
+                        "quoteType": "EQUITY",
+                        "quoteSourceName": "Delayed Quote",
+                        "triggerable": false,
+                        "sourceInterval": 15,
+                        "exchangeDataDelayedBy": 0,
+                        "exchangeTimezoneName": "America/New_York",
+                        "exchangeTimezoneShortName": "EDT",
+                        "gmtOffSetMilliseconds": -14400000,
+                        "esgPopulated": false,
+                        "tradeable": true,
+                        "firstTradeDateMilliseconds": 438273000000,
+                        "priceHint": 2,
+                        "exchange": "NYQ",
+                        "market": "us_market",
+                        "fullExchangeName": "NYSE",
+                        "marketState": "PREPRE",
+                        "symbol": "T"
+                    },
+                    {
+                        "language": "US",
+                        "region": "EN-US",
+                        "quoteType": "EQUITY",
+                        "quoteSourceName": "Delayed Quote",
+                        "triggerable": false,
+                        "sourceInterval": 15,
+                        "exchangeDataDelayedBy": 0,
+                        "exchangeTimezoneName": "America/New_York",
+                        "exchangeTimezoneShortName": "EDT",
+                        "gmtOffSetMilliseconds": -14400000,
+                        "esgPopulated": false,
+                        "tradeable": true,
+                        "firstTradeDateMilliseconds": 1127827800000,
+                        "priceHint": 2,
+                        "exchange": "NMS",
+                        "market": "us_market",
+                        "fullExchangeName": "NasdaqGS",
+                        "marketState": "PREPRE",
+                        "symbol": "AAL"
+                    },
+                    {
+                        "language": "US",
+                        "region": "EN-US",
+                        "quoteType": "EQUITY",
+                        "quoteSourceName": "Delayed Quote",
+                        "triggerable": false,
+                        "sourceInterval": 15,
+                        "exchangeDataDelayedBy": 0,
+                        "exchangeTimezoneName": "America/New_York",
+                        "exchangeTimezoneShortName": "EDT",
+                        "gmtOffSetMilliseconds": -14400000,
+                        "esgPopulated": false,
+                        "tradeable": true,
+                        "firstTradeDateMilliseconds": 76253400000,
+                        "priceHint": 2,
+                        "exchange": "NYQ",
+                        "market": "us_market",
+                        "fullExchangeName": "NYSE",
+                        "marketState": "PREPRE",
+                        "symbol": "F"
+                    }
+                ],
+                "predefinedScr": true,
+                "versionId": 6
+            }
+        ],
+        "error": null
+    }
+}

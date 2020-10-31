@@ -1,0 +1,87 @@
+{
+    "finance": {
+        "result": [
+            {
+                "ticker": "SNAP",
+                "companyShortName": "Snap Inc.",
+                "startDateTime": 1587427200000,
+                "startDateTimeType": "TNS",
+                "surprisePercent": -6.67,
+                "rank": 1000136
+            },
+            {
+                "ticker": "T",
+                "companyShortName": "AT&T Inc.",
+                "startDateTime": 1587513600000,
+                "startDateTimeType": "TNS",
+                "surprisePercent": -0.94,
+                "rank": 988098
+            },
+            {
+                "ticker": "NFLX",
+                "companyShortName": "Netflix, Inc.",
+                "startDateTime": 1587427200000,
+                "startDateTimeType": "TNS",
+                "surprisePercent": -4.96,
+                "rank": 848246
+            },
+            {
+                "ticker": "INTC",
+                "companyShortName": "Intel Corporation",
+                "startDateTime": 1587600000000,
+                "startDateTimeType": "TNS",
+                "surprisePercent": 13.46,
+                "rank": 686303
+            },
+            {
+                "ticker": "CMG",
+                "companyShortName": "Chipotle Mexican Grill, Inc.",
+                "startDateTime": 1587427200000,
+                "startDateTimeType": "TNS",
+                "surprisePercent": 5.84,
+                "rank": 287490
+            },
+            {
+                "ticker": "IBM",
+                "companyShortName": "International Business Machines Corporation",
+                "startDateTime": 1587340800000,
+                "startDateTimeType": "TNS",
+                "surprisePercent": 2.51,
+                "rank": 283548
+            },
+            {
+                "ticker": "CYDY",
+                "companyShortName": "CytoDyn Inc.",
+                "startDateTime": 1586390400000,
+                "startDateTimeType": "TNS",
+                "surprisePercent": -166.67,
+                "rank": 269009
+            },
+            {
+                "ticker": "VZ",
+                "companyShortName": "Verizon Communications Inc.",
+                "startDateTime": 1587686400000,
+                "startDateTimeType": "TNS",
+                "surprisePercent": 3.03,
+                "rank": 246336
+            },
+            {
+                "ticker": "BAC",
+                "companyShortName": "Bank of America Corporation",
+                "startDateTime": 1586908800000,
+                "startDateTimeType": "TNS",
+                "surprisePercent": -13.23,
+                "rank": 207552
+            },
+            {
+                "ticker": "DAL",
+                "companyShortName": "Delta Air Lines, Inc.",
+                "startDateTime": 1587513600000,
+                "startDateTimeType": "TNS",
+                "surprisePercent": 26.72,
+                "rank": 193009
+            }
+        ],
+        "error": null
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "finance": {
+        "result": [
+            {
+                "portfolio": {
+                    "oneDayPercentChange": -0.16106741575672362,
+                    "oneMonthPercentChange": -3.97857,
+                    "oneYearPercentChange": 8.13591,
+                    "lifetimePercentChange": 24.0281,
+                    "originTimestamp": 0,
+                    "updatedAt": 1603542787
+                },
+                "symbols": {
+                    "^GSPC": {
+                        "oneDayPercentChange": 0.345,
+                        "oneMonthPercentChange": 6.739000000000001,
+                        "oneYearPercentChange": 15.118,
+                        "lifetimePercentChange": 3626.2259999999997,
+                        "originTimestamp": 0,
+                        "updatedAt": 0
+                    }
+                }
+            }
+        ],
+        "error": null
+    }
+}

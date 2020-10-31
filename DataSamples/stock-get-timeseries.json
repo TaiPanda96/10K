@@ -1,0 +1,567 @@
+{
+    "timeseries": {
+        "result": [
+            {
+                "meta": {
+                    "symbol": [
+                        "AMRN"
+                    ],
+                    "type": [
+                        "trailingTotalRevenue"
+                    ]
+                }
+            },
+            {
+                "meta": {
+                    "symbol": [
+                        "AMRN"
+                    ],
+                    "type": [
+                        "quarterlyBasicAverageShares"
+                    ]
+                }
+            },
+            {
+                "meta": {
+                    "symbol": [
+                        "AMRN"
+                    ],
+                    "type": [
+                        "quarterlyCostOfRevenue"
+                    ]
+                }
+            },
+            {
+                "meta": {
+                    "symbol": [
+                        "AMRN"
+                    ],
+                    "type": [
+                        "trailingNetIncomeContinuousOperations"
+                    ]
+                }
+            },
+            {
+                "meta": {
+                    "symbol": [
+                        "AMRN"
+                    ],
+                    "type": [
+                        "trailingStockBasedCompensation"
+                    ]
+                }
+            },
+            {
+                "meta": {
+                    "symbol": [
+                        "AMRN"
+                    ],
+                    "type": [
+                        "trailingBasicAverageShares"
+                    ]
+                }
+            },
+            {
+                "meta": {
+                    "symbol": [
+                        "AMRN"
+                    ],
+                    "type": [
+                        "trailingTaxProvision"
+                    ]
+                }
+            },
+            {
+                "meta": {
+                    "symbol": [
+                        "AMRN"
+                    ],
+                    "type": [
+                        "trailingBasicEPS"
+                    ]
+                }
+            },
+            {
+                "meta": {
+                    "symbol": [
+                        "AMRN"
+                    ],
+                    "type": [
+                        "trailingBeginningCashPosition"
+                    ]
+                }
+            },
+            {
+                "meta": {
+                    "symbol": [
+                        "AMRN"
+                    ],
+                    "type": [
+                        "trailingDilutedEPS"
+                    ]
+                }
+            },
+            {
+                "meta": {
+                    "symbol": [
+                        "AMRN"
+                    ],
+                    "type": [
+                        "trailingCashDividendsPaid"
+                    ]
+                }
+            },
+            {
+                "meta": {
+                    "symbol": [
+                        "AMRN"
+                    ],
+                    "type": [
+                        "trailingNetIncomeFromContinuingOperations"
+                    ]
+                }
+            },
+            {
+                "meta": {
+                    "symbol": [
+                        "AMRN"
+                    ],
+                    "type": [
+                        "quarterlyDilutedEPS"
+                    ]
+                }
+            },
+            {
+                "meta": {
+                    "symbol": [
+                        "AMRN"
+                    ],
+                    "type": [
+                        "trailingPurchaseOfBusiness"
+                    ]
+                }
+            },
+            {
+                "meta": {
+                    "symbol": [
+                        "AMRN"
+                    ],
+                    "type": [
+                        "quarterlyNetIncomeCommonStockholders"
+                    ]
+                }
+            },
+            {
+                "meta": {
+                    "symbol": [
+                        "AMRN"
+                    ],
+                    "type": [
+                        "quarterlyTotalRevenue"
+                    ]
+                }
+            },
+            {
+                "meta": {
+                    "symbol": [
+                        "AMRN"
+                    ],
+                    "type": [
+                        "trailingInvestingCashFlow"
+                    ]
+                }
+            },
+            {
+                "meta": {
+                    "symbol": [
+                        "AMRN"
+                    ],
+                    "type": [
+                        "quarterlyResearchAndDevelopment"
+                    ]
+                }
+            },
+            {
+                "meta": {
+                    "symbol": [
+                        "AMRN"
+                    ],
+                    "type": [
+                        "quarterlySellingGeneralAndAdministration"
+                    ]
+                }
+            },
+            {
+                "meta": {
+                    "symbol": [
+                        "AMRN"
+                    ],
+                    "type": [
+                        "trailingOperatingIncome"
+                    ]
+                }
+            },
+            {
+                "meta": {
+                    "symbol": [
+                        "AMRN"
+                    ],
+                    "type": [
+                        "trailingOperatingCashFlow"
+                    ]
+                }
+            },
+            {
+                "meta": {
+                    "symbol": [
+                        "AMRN"
+                    ],
+                    "type": [
+                        "trailingCapitalExpenditure"
+                    ]
+                }
+            },
+            {
+                "meta": {
+                    "symbol": [
+                        "AMRN"
+                    ],
+                    "type": [
+                        "quarterlyEbitda"
+                    ]
+                }
+            },
+            {
+                "meta": {
+                    "symbol": [
+                        "AMRN"
+                    ],
+                    "type": [
+                        "trailingGrossProfit"
+                    ]
+                }
+            },
+            {
+                "meta": {
+                    "symbol": [
+                        "AMRN"
+                    ],
+                    "type": [
+                        "trailingNetIncomeCommonStockholders"
+                    ]
+                }
+            },
+            {
+                "meta": {
+                    "symbol": [
+                        "AMRN"
+                    ],
+                    "type": [
+                        "trailingChangeInWorkingCapital"
+                    ]
+                }
+            },
+            {
+                "meta": {
+                    "symbol": [
+                        "AMRN"
+                    ],
+                    "type": [
+                        "trailingResearchAndDevelopment"
+                    ]
+                }
+            },
+            {
+                "meta": {
+                    "symbol": [
+                        "AMRN"
+                    ],
+                    "type": [
+                        "trailingNetOtherFinancingCharges"
+                    ]
+                }
+            },
+            {
+                "meta": {
+                    "symbol": [
+                        "AMRN"
+                    ],
+                    "type": [
+                        "trailingInterestExpense"
+                    ]
+                }
+            },
+            {
+                "meta": {
+                    "symbol": [
+                        "AMRN"
+                    ],
+                    "type": [
+                        "quarterlyNetIncome"
+                    ]
+                }
+            },
+            {
+                "meta": {
+                    "symbol": [
+                        "AMRN"
+                    ],
+                    "type": [
+                        "quarterlyGrossProfit"
+                    ]
+                }
+            },
+            {
+                "meta": {
+                    "symbol": [
+                        "AMRN"
+                    ],
+                    "type": [
+                        "quarterlyOperatingIncome"
+                    ]
+                }
+            },
+            {
+                "meta": {
+                    "symbol": [
+                        "AMRN"
+                    ],
+                    "type": [
+                        "quarterlyDilutedAverageShares"
+                    ]
+                }
+            },
+            {
+                "meta": {
+                    "symbol": [
+                        "AMRN"
+                    ],
+                    "type": [
+                        "trailingCashFlowFromContinuingFinancingActivities"
+                    ]
+                }
+            },
+            {
+                "meta": {
+                    "symbol": [
+                        "AMRN"
+                    ],
+                    "type": [
+                        "quarterlyOperatingExpense"
+                    ]
+                }
+            },
+            {
+                "meta": {
+                    "symbol": [
+                        "AMRN"
+                    ],
+                    "type": [
+                        "trailingOperatingExpense"
+                    ]
+                }
+            },
+            {
+                "meta": {
+                    "symbol": [
+                        "AMRN"
+                    ],
+                    "type": [
+                        "trailingSaleOfInvestment"
+                    ]
+                }
+            },
+            {
+                "meta": {
+                    "symbol": [
+                        "AMRN"
+                    ],
+                    "type": [
+                        "quarterlyPretaxIncome"
+                    ]
+                }
+            },
+            {
+                "meta": {
+                    "symbol": [
+                        "AMRN"
+                    ],
+                    "type": [
+                        "quarterlyTaxProvision"
+                    ]
+                }
+            },
+            {
+                "meta": {
+                    "symbol": [
+                        "AMRN"
+                    ],
+                    "type": [
+                        "trailingSellingGeneralAndAdministration"
+                    ]
+                }
+            },
+            {
+                "meta": {
+                    "symbol": [
+                        "AMRN"
+                    ],
+                    "type": [
+                        "trailingPurchaseOfInvestment"
+                    ]
+                }
+            },
+            {
+                "meta": {
+                    "symbol": [
+                        "AMRN"
+                    ],
+                    "type": [
+                        "trailingDilutedAverageShares"
+                    ]
+                }
+            },
+            {
+                "meta": {
+                    "symbol": [
+                        "AMRN"
+                    ],
+                    "type": [
+                        "quarterlyOtherIncomeExpense"
+                    ]
+                }
+            },
+            {
+                "meta": {
+                    "symbol": [
+                        "AMRN"
+                    ],
+                    "type": [
+                        "quarterlyBasicEPS"
+                    ]
+                }
+            },
+            {
+                "meta": {
+                    "symbol": [
+                        "AMRN"
+                    ],
+                    "type": [
+                        "trailingNetIncome"
+                    ]
+                }
+            },
+            {
+                "meta": {
+                    "symbol": [
+                        "AMRN"
+                    ],
+                    "type": [
+                        "quarterlyInterestExpense"
+                    ]
+                }
+            },
+            {
+                "meta": {
+                    "symbol": [
+                        "AMRN"
+                    ],
+                    "type": [
+                        "quarterlyNetIncomeContinuousOperations"
+                    ]
+                }
+            },
+            {
+                "meta": {
+                    "symbol": [
+                        "AMRN"
+                    ],
+                    "type": [
+                        "trailingEndCashPosition"
+                    ]
+                }
+            },
+            {
+                "meta": {
+                    "symbol": [
+                        "AMRN"
+                    ],
+                    "type": [
+                        "trailingCostOfRevenue"
+                    ]
+                }
+            },
+            {
+                "meta": {
+                    "symbol": [
+                        "AMRN"
+                    ],
+                    "type": [
+                        "trailingDepreciationAmortizationDepletion"
+                    ]
+                }
+            },
+            {
+                "meta": {
+                    "symbol": [
+                        "AMRN"
+                    ],
+                    "type": [
+                        "trailingNetOtherInvestingChanges"
+                    ]
+                }
+            },
+            {
+                "meta": {
+                    "symbol": [
+                        "AMRN"
+                    ],
+                    "type": [
+                        "trailingFreeCashFlow"
+                    ]
+                }
+            },
+            {
+                "meta": {
+                    "symbol": [
+                        "AMRN"
+                    ],
+                    "type": [
+                        "trailingOtherIncomeExpense"
+                    ]
+                }
+            },
+            {
+                "meta": {
+                    "symbol": [
+                        "AMRN"
+                    ],
+                    "type": [
+                        "trailingLongTermDebtPayments"
+                    ]
+                }
+            },
+            {
+                "meta": {
+                    "symbol": [
+                        "AMRN"
+                    ],
+                    "type": [
+                        "trailingRepurchaseOfCapitalStock"
+                    ]
+                }
+            },
+            {
+                "meta": {
+                    "symbol": [
+                        "AMRN"
+                    ],
+                    "type": [
+                        "trailingPretaxIncome"
+                    ]
+                }
+            }
+        ],
+        "error": null
+    }
+}
