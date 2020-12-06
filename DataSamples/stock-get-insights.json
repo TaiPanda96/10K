@@ -1,0 +1,74 @@
+{
+    "finance": {
+        "result": {
+            "symbol": "AMRN",
+            "instrumentInfo": {
+                "technicalEvents": {
+                    "provider": "Trading Central",
+                    "shortTerm": "down",
+                    "midTerm": "down",
+                    "longTerm": "down"
+                },
+                "keyTechnicals": {
+                    "provider": "Trading Central",
+                    "support": 4.27,
+                    "resistance": 6.73,
+                    "stopLoss": 3.928196
+                },
+                "valuation": {
+                    "color": 0,
+                    "description": "Overvalued",
+                    "relativeValue": "Premium",
+                    "provider": "Trading Central"
+                }
+            },
+            "reports": [
+                {
+                    "id": "MS_0P0000003P_AnalystReport_1603304333000",
+                    "title": "Analyst Report: Abbott Laboratories",
+                    "provider": "Morningstar",
+                    "publishedOn": "2020-10-21T18:18:53Z",
+                    "summary": "Abbott manufactures and markets medical devices, adult and pediatric nutritional products, diagnostic equipment and testing kits, and branded generic drugs. Products include pacemakers, implantable cardioverter defibrillators, neuromodulation devices, coronary stents, catheters, infant formula, nutritional liquids for adults, and immunoassays and point-of-care diagnostic equipment. Abbott derives approximately 60% of sales outside the United States."
+                },
+                {
+                    "id": "MS_0P0000XPGW_AnalystReport_1603147038000",
+                    "title": "Analyst Report: AbbVie Inc.",
+                    "provider": "Morningstar",
+                    "publishedOn": "2020-10-19T22:37:18Z",
+                    "summary": "AbbVie is a drug company with a strong exposure to immunology and oncology. The company's top drug, Humira, represents over half of the company's current profits. The company was spun off from Abbott in early 2013. The recent announced acquisition of Allergan will add several new drugs in aesthetics and women's health."
+                },
+                {
+                    "id": "MS_0P0000003P_AnalystReport_1598831272000",
+                    "title": "Analyst Report: Abbott Laboratories",
+                    "provider": "Morningstar",
+                    "publishedOn": "2020-08-30T23:47:52Z",
+                    "summary": "Abbott manufactures and markets medical devices, adult and pediatric nutritional products, diagnostic equipment and testing kits, and branded generic drugs. Products include pacemakers, implantable cardioverter defibrillators, neuromodulation devices, coronary stents, catheters, infant formula, nutritional liquids for adults, and immunoassays and point-of-care diagnostic equipment. Abbott derives approximately 60% of sales outside the United States."
+                },
+                {
+                    "id": "MS_0P0000003P_AnalystReport_1598567074000",
+                    "title": "Analyst Report: Abbott Laboratories",
+                    "provider": "Morningstar",
+                    "publishedOn": "2020-08-27T22:24:34Z",
+                    "summary": "Abbott manufactures and markets medical devices, adult and pediatric nutritional products, diagnostic equipment and testing kits, and branded generic drugs. Products include pacemakers, implantable cardioverter defibrillators, neuromodulation devices, coronary stents, catheters, infant formula, nutritional liquids for adults, and immunoassays and point-of-care diagnostic equipment. Abbott derives approximately 60% of sales outside the United States."
+                }
+            ],
+            "companySnapshot": {
+                "sectorInfo": "Healthcare",
+                "company": {
+                    "innovativeness": 0.35009999999999997,
+                    "insiderSentiments": 0.0646,
+                    "earningsReports": 0.023399999999999997
+                },
+                "sector": {
+                    "innovativeness": 0.5,
+                    "hiring": 0.5,
+                    "sustainability": 0.5,
+                    "insiderSentiments": 0.5,
+                    "earningsReports": 0.5,
+                    "dividends": 0.5
+                }
+            }
+        },
+        "error": null
+    }
+}

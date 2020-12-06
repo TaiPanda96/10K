@@ -1,0 +1,699 @@
+{
+    "financialsTemplate": {
+        "code": "N",
+        "maxAge": 1
+    },
+    "price": {
+        "quoteSourceName": "Delayed Quote",
+        "regularMarketOpen": {
+            "raw": 5.02,
+            "fmt": "5.0200"
+        },
+        "averageDailyVolume3Month": {
+            "raw": 8710518,
+            "fmt": "8.71M",
+            "longFmt": "8,710,518"
+        },
+        "exchange": "NMS",
+        "regularMarketTime": 1603483201,
+        "volume24Hr": {},
+        "regularMarketDayHigh": {
+            "raw": 5.0305,
+            "fmt": "5.0305"
+        },
+        "shortName": "Amarin Corporation plc",
+        "averageDailyVolume10Day": {
+            "raw": 4913925,
+            "fmt": "4.91M",
+            "longFmt": "4,913,925"
+        },
+        "longName": "Amarin Corporation plc",
+        "regularMarketChange": {
+            "raw": -0.03999996,
+            "fmt": "-0.0400"
+        },
+        "currencySymbol": "$",
+        "regularMarketPreviousClose": {
+            "raw": 5.02,
+            "fmt": "5.0200"
+        },
+        "postMarketTime": 1603495926,
+        "preMarketPrice": {},
+        "exchangeDataDelayedBy": 0,
+        "toCurrency": null,
+        "postMarketChange": {
+            "raw": 0,
+            "fmt": "0.00"
+        },
+        "postMarketPrice": {
+            "raw": 4.98,
+            "fmt": "4.9800"
+        },
+        "exchangeName": "NasdaqGS",
+        "preMarketChange": {},
+        "circulatingSupply": {},
+        "regularMarketDayLow": {
+            "raw": 4.88,
+            "fmt": "4.8800"
+        },
+        "priceHint": {
+            "raw": 4,
+            "fmt": "4",
+            "longFmt": "4"
+        },
+        "currency": "USD",
+        "regularMarketPrice": {
+            "raw": 4.98,
+            "fmt": "4.9800"
+        },
+        "regularMarketVolume": {
+            "raw": 2748118,
+            "fmt": "2.75M",
+            "longFmt": "2,748,118.00"
+        },
+        "lastMarket": null,
+        "regularMarketSource": "FREE_REALTIME",
+        "openInterest": {},
+        "marketState": "CLOSED",
+        "underlyingSymbol": null,
+        "marketCap": {
+            "raw": 1935591552,
+            "fmt": "1.94B",
+            "longFmt": "1,935,591,552.00"
+        },
+        "quoteType": "EQUITY",
+        "volumeAllCurrencies": {},
+        "postMarketSource": "DELAYED",
+        "strikePrice": {},
+        "symbol": "AMRN",
+        "postMarketChangePercent": {
+            "raw": 0,
+            "fmt": "0.00%"
+        },
+        "preMarketSource": "DELAYED",
+        "maxAge": 1,
+        "fromCurrency": null,
+        "regularMarketChangePercent": {
+            "raw": -0.00796812,
+            "fmt": "-0.80%"
+        }
+    },
+    "secFilings": {
+        "filings": [
+            {
+                "date": "2020-09-03",
+                "epochDate": 1599168093,
+                "type": "8-K",
+                "title": "Other Events, Financial Statements and Exhibits",
+                "edgarUrl": "https://yahoo.brand.edgar-online.com/DisplayFiling.aspx?TabIndex=2&dcn=0001193125-20-239062&nav=1&src=Yahoo",
+                "maxAge": 1
+            },
+            {
+                "date": "2020-08-04",
+                "epochDate": 1596539856,
+                "type": "10-Q",
+                "title": "Quarterly Report",
+                "edgarUrl": "https://yahoo.brand.edgar-online.com/DisplayFiling.aspx?TabIndex=2&dcn=0001564590-20-035730&nav=1&src=Yahoo",
+                "maxAge": 1
+            },
+            {
+                "date": "2020-08-04",
+                "epochDate": 1596539499,
+                "type": "8-K",
+                "title": "Results of Operations and Financial Condition, Financial Statements and Exhibits",
+                "edgarUrl": "https://yahoo.brand.edgar-online.com/DisplayFiling.aspx?TabIndex=2&dcn=0001564590-20-035729&nav=1&src=Yahoo",
+                "maxAge": 1
+            },
+            {
+                "date": "2020-07-14",
+                "epochDate": 1594765247,
+                "type": "8-K",
+                "title": "Submission of Matters to a Vote of Security Holders, Financial Statements and Exhibits",
+                "edgarUrl": "https://yahoo.brand.edgar-online.com/DisplayFiling.aspx?TabIndex=2&dcn=0001193125-20-192691&nav=1&src=Yahoo",
+                "maxAge": 1
+            },
+            {
+                "date": "2020-06-16",
+                "epochDate": 1592346574,
+                "type": "8-K",
+                "title": "Other Events",
+                "edgarUrl": "https://yahoo.brand.edgar-online.com/DisplayFiling.aspx?TabIndex=2&dcn=0001193125-20-170550&nav=1&src=Yahoo",
+                "maxAge": 1
+            },
+            {
+                "date": "2020-05-08",
+                "epochDate": 1588972798,
+                "type": "8-K",
+                "title": "Disclosing Other Events",
+                "edgarUrl": "https://yahoo.brand.edgar-online.com/DisplayFiling.aspx?TabIndex=2&dcn=0001193125-20-137711&nav=1&src=Yahoo",
+                "maxAge": 1
+            },
+            {
+                "date": "2020-04-30",
+                "epochDate": 1588243157,
+                "type": "10-Q",
+                "title": "Quarterly Report",
+                "edgarUrl": "https://yahoo.brand.edgar-online.com/DisplayFiling.aspx?TabIndex=2&dcn=0001564590-20-019937&nav=1&src=Yahoo",
+                "maxAge": 1
+            },
+            {
+                "date": "2020-04-30",
+                "epochDate": 1588242746,
+                "type": "8-K",
+                "title": "Disclosing Results of Operations and Financial Condition, Financial Statements and Exhibi",
+                "edgarUrl": "https://yahoo.brand.edgar-online.com/DisplayFiling.aspx?TabIndex=2&dcn=0001564590-20-019933&nav=1&src=Yahoo",
+                "maxAge": 1
+            },
+            {
+                "date": "2020-04-13",
+                "epochDate": 1586810252,
+                "type": "8-K",
+                "title": "Disclosing Results of Operations and Financial Condition",
+                "edgarUrl": "https://yahoo.brand.edgar-online.com/DisplayFiling.aspx?TabIndex=2&dcn=0001193125-20-105284&nav=1&src=Yahoo",
+                "maxAge": 1
+            },
+            {
+                "date": "2020-03-31",
+                "epochDate": 1585660981,
+                "type": "8-K",
+                "title": "Disclosing Other Events, Financial Statements and Exhibits",
+                "edgarUrl": "https://yahoo.brand.edgar-online.com/DisplayFiling.aspx?TabIndex=2&dcn=0001193125-20-092017&nav=1&src=Yahoo",
+                "maxAge": 1
+            },
+            {
+                "date": "2020-02-25",
+                "epochDate": 1582665115,
+                "type": "10-K",
+                "title": "Annual Report",
+                "edgarUrl": "https://yahoo.brand.edgar-online.com/DisplayFiling.aspx?TabIndex=2&dcn=0001564590-20-006390&nav=1&src=Yahoo",
+                "maxAge": 1
+            },
+            {
+                "date": "2020-02-25",
+                "epochDate": 1582664850,
+                "type": "8-K",
+                "title": "Disclosing Results of Operations and Financial Condition, Financial Statements and Exhibi",
+                "edgarUrl": "https://yahoo.brand.edgar-online.com/DisplayFiling.aspx?TabIndex=2&dcn=0001564590-20-006386&nav=1&src=Yahoo",
+                "maxAge": 1
+            },
+            {
+                "date": "2020-01-07",
+                "epochDate": 1578431806,
+                "type": "8-K",
+                "title": "Disclosing Results of Operations and Financial Condition, Financial Statements and Exhibi",
+                "edgarUrl": "https://yahoo.brand.edgar-online.com/DisplayFiling.aspx?TabIndex=2&dcn=0001193125-20-003036&nav=1&src=Yahoo",
+                "maxAge": 1
+            },
+            {
+                "date": "2019-11-05",
+                "epochDate": 1572992959,
+                "type": "8-K/A",
+                "title": "AMARIN CORP PLC\\UK FILES (8-K/A) Disclosing Results of Operations and Financial Condition, Financial Statements and Exhi",
+                "edgarUrl": "https://yahoo.brand.edgar-online.com/DisplayFiling.aspx?TabIndex=2&dcn=0001564590-19-040492&nav=1&src=Yahoo",
+                "maxAge": 1
+            },
+            {
+                "date": "2019-11-05",
+                "epochDate": 1572953848,
+                "type": "10-Q",
+                "title": "Quarterly Report",
+                "edgarUrl": "https://yahoo.brand.edgar-online.com/DisplayFiling.aspx?TabIndex=2&dcn=0001564590-19-040047&nav=1&src=Yahoo",
+                "maxAge": 1
+            },
+            {
+                "date": "2019-11-05",
+                "epochDate": 1572953498,
+                "type": "8-K",
+                "title": "Disclosing Results of Operations and Financial Condition, Financial Statements and Exhibi",
+                "edgarUrl": "https://yahoo.brand.edgar-online.com/DisplayFiling.aspx?TabIndex=2&dcn=0001564590-19-040044&nav=1&src=Yahoo",
+                "maxAge": 1
+            },
+            {
+                "date": "2019-08-09",
+                "epochDate": 1565349733,
+                "type": "8-K",
+                "title": "Disclosing Other Events, Financial Statements and Exhibits",
+                "edgarUrl": "https://yahoo.brand.edgar-online.com/DisplayFiling.aspx?TabIndex=2&dcn=0001193125-19-217425&nav=1&src=Yahoo",
+                "maxAge": 1
+            },
+            {
+                "date": "2019-07-31",
+                "epochDate": 1564569288,
+                "type": "10-Q",
+                "title": "Quarterly Report",
+                "edgarUrl": "https://yahoo.brand.edgar-online.com/DisplayFiling.aspx?TabIndex=2&dcn=0001564590-19-027188&nav=1&src=Yahoo",
+                "maxAge": 1
+            },
+            {
+                "date": "2019-07-31",
+                "epochDate": 1564569041,
+                "type": "8-K",
+                "title": "Disclosing Results of Operations and Financial Condition, Financial Statements and Exhibi",
+                "edgarUrl": "https://yahoo.brand.edgar-online.com/DisplayFiling.aspx?TabIndex=2&dcn=0001564590-19-027186&nav=1&src=Yahoo",
+                "maxAge": 1
+            },
+            {
+                "date": "2019-07-24",
+                "epochDate": 1564000378,
+                "type": "8-K",
+                "title": "Disclosing Entry into a Material Definitive Agreement, Other Events, Financial Statements",
+                "edgarUrl": "https://yahoo.brand.edgar-online.com/DisplayFiling.aspx?TabIndex=2&dcn=0001193125-19-201274&nav=1&src=Yahoo",
+                "maxAge": 1
+            },
+            {
+                "date": "2019-07-17",
+                "epochDate": 1563395924,
+                "type": "8-K",
+                "title": "Disclosing Other Events",
+                "edgarUrl": "https://yahoo.brand.edgar-online.com/DisplayFiling.aspx?TabIndex=2&dcn=0001193125-19-195687&nav=1&src=Yahoo",
+                "maxAge": 1
+            },
+            {
+                "date": "2019-07-02",
+                "epochDate": 1562069719,
+                "type": "8-K",
+                "title": "Disclosing Results of Operations and Financial Condition, Financial Statements and Exhibi",
+                "edgarUrl": "https://yahoo.brand.edgar-online.com/DisplayFiling.aspx?TabIndex=2&dcn=0001193125-19-187778&nav=1&src=Yahoo",
+                "maxAge": 1
+            }
+        ],
+        "maxAge": 86400
+    },
+    "quoteType": {
+        "exchange": "NMS",
+        "shortName": "Amarin Corporation plc",
+        "longName": "Amarin Corporation plc",
+        "exchangeTimezoneName": "America/New_York",
+        "exchangeTimezoneShortName": "EDT",
+        "isEsgPopulated": false,
+        "gmtOffSetMilliseconds": "-14400000",
+        "quoteType": "EQUITY",
+        "symbol": "AMRN",
+        "messageBoardId": "finmb_407863",
+        "market": "us_market"
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                {
+                    "raw": 1604534400,
+                    "fmt": "2020-11-05"
+                }
+            ],
+            "earningsAverage": {
+                "raw": 0.01,
+                "fmt": "0.01"
+            },
+            "earningsLow": {
+                "raw": -0.04,
+                "fmt": "-0.04"
+            },
+            "earningsHigh": {
+                "raw": 0.04,
+                "fmt": "0.04"
+            },
+            "revenueAverage": {
+                "raw": 154630000,
+                "fmt": "154.63M",
+                "longFmt": "154,630,000"
+            },
+            "revenueLow": {
+                "raw": 136700000,
+                "fmt": "136.7M",
+                "longFmt": "136,700,000"
+            },
+            "revenueHigh": {
+                "raw": 167000000,
+                "fmt": "167M",
+                "longFmt": "167,000,000"
+            }
+        },
+        "exDividendDate": {},
+        "dividendDate": {}
+    },
+    "summaryDetail": {
+        "previousClose": {
+            "raw": 5.02,
+            "fmt": "5.0200"
+        },
+        "regularMarketOpen": {
+            "raw": 5.02,
+            "fmt": "5.0200"
+        },
+        "twoHundredDayAverage": {
+            "raw": 6.297929,
+            "fmt": "6.2979"
+        },
+        "trailingAnnualDividendYield": {},
+        "payoutRatio": {
+            "raw": 0,
+            "fmt": "0.00%"
+        },
+        "volume24Hr": {},
+        "regularMarketDayHigh": {
+            "raw": 5.0305,
+            "fmt": "5.0305"
+        },
+        "navPrice": {},
+        "averageDailyVolume10Day": {
+            "raw": 4913925,
+            "fmt": "4.91M",
+            "longFmt": "4,913,925"
+        },
+        "totalAssets": {},
+        "regularMarketPreviousClose": {
+            "raw": 5.02,
+            "fmt": "5.0200"
+        },
+        "fiftyDayAverage": {
+            "raw": 4.512857,
+            "fmt": "4.5129"
+        },
+        "trailingAnnualDividendRate": {},
+        "open": {
+            "raw": 5.02,
+            "fmt": "5.0200"
+        },
+        "toCurrency": null,
+        "averageVolume10days": {
+            "raw": 4913925,
+            "fmt": "4.91M",
+            "longFmt": "4,913,925"
+        },
+        "expireDate": {},
+        "yield": {},
+        "algorithm": null,
+        "dividendRate": {},
+        "exDividendDate": {},
+        "beta": {
+            "raw": 2.807501,
+            "fmt": "2.81"
+        },
+        "circulatingSupply": {},
+        "startDate": {},
+        "regularMarketDayLow": {
+            "raw": 4.88,
+            "fmt": "4.8800"
+        },
+        "priceHint": {
+            "raw": 4,
+            "fmt": "4",
+            "longFmt": "4"
+        },
+        "currency": "USD",
+        "regularMarketVolume": {
+            "raw": 2748118,
+            "fmt": "2.75M",
+            "longFmt": "2,748,118"
+        },
+        "lastMarket": null,
+        "maxSupply": {},
+        "openInterest": {},
+        "marketCap": {
+            "raw": 1935591552,
+            "fmt": "1.94B",
+            "longFmt": "1,935,591,552"
+        },
+        "volumeAllCurrencies": {},
+        "strikePrice": {},
+        "averageVolume": {
+            "raw": 8710518,
+            "fmt": "8.71M",
+            "longFmt": "8,710,518"
+        },
+        "priceToSalesTrailing12Months": {
+            "raw": 3.5450718,
+            "fmt": "3.55"
+        },
+        "dayLow": {
+            "raw": 4.88,
+            "fmt": "4.8800"
+        },
+        "ask": {
+            "raw": 4.99,
+            "fmt": "4.9900"
+        },
+        "ytdReturn": {},
+        "askSize": {
+            "raw": 3100,
+            "fmt": "3.1k",
+            "longFmt": "3,100"
+        },
+        "volume": {
+            "raw": 2748118,
+            "fmt": "2.75M",
+            "longFmt": "2,748,118"
+        },
+        "fiftyTwoWeekHigh": {
+            "raw": 26.12,
+            "fmt": "26.1200"
+        },
+        "forwardPE": {
+            "raw": 12.146341,
+            "fmt": "12.15"
+        },
+        "maxAge": 1,
+        "fromCurrency": null,
+        "fiveYearAvgDividendYield": {},
+        "fiftyTwoWeekLow": {
+            "raw": 3.36,
+            "fmt": "3.3600"
+        },
+        "bid": {
+            "raw": 4.95,
+            "fmt": "4.9500"
+        },
+        "tradeable": false,
+        "dividendYield": {},
+        "bidSize": {
+            "raw": 900,
+            "fmt": "900",
+            "longFmt": "900"
+        },
+        "dayHigh": {
+            "raw": 5.0305,
+            "fmt": "5.0305"
+        }
+    },
+    "symbol": "AMRN",
+    "assetProfile": {
+        "zip": "2",
+        "sector": "Healthcare",
+        "fullTimeEmployees": 965,
+        "compensationRisk": 7,
+        "auditRisk": 2,
+        "longBusinessSummary": "Amarin Corporation plc, a pharmaceutical company, develops and commercializes therapeutics for the treatment of cardiovascular diseases in the United States. The company's lead product is Vascepa, a prescription-only omega-3 fatty acid capsule, used as an adjunct to diet for reducing triglyceride levels in adult patients with severe hypertriglyceridemia. It is also involved in developing REDUCE-IT for the treatment of patients with high triglyceride levels who are also on statin therapy for elevated low-density lipoprotein cholesterol levels. The company sells its products principally to wholesalers and specialty pharmacy providers through direct sales force. It has a collaboration with Mochida Pharmaceutical Co., Ltd. to develop and commercialize drug products and indications based on the active pharmaceutical ingredient in Vascepa, the omega-3 acid, and eicosapentaenoic acid. The company was formerly known as Ethical Holdings plc and changed its name to Amarin Corporation plc in 1999. Amarin Corporation plc was incorporated in 1989 and is headquartered in Dublin, Ireland.",
+        "city": "Dublin",
+        "phone": "353 1 669 9020",
+        "shareHolderRightsRisk": 9,
+        "compensationAsOfEpochDate": 1577750400,
+        "governanceEpochDate": 1601942400,
+        "boardRisk": 8,
+        "country": "Ireland",
+        "companyOfficers": [
+            {
+                "totalPay": {
+                    "raw": 1339029,
+                    "fmt": "1.34M",
+                    "longFmt": "1,339,029"
+                },
+                "exercisedValue": {
+                    "raw": 2787458,
+                    "fmt": "2.79M",
+                    "longFmt": "2,787,458"
+                },
+                "yearBorn": 1961,
+                "name": "Mr. John F. Thero",
+                "title": "Pres, CEO & Director",
+                "maxAge": 1,
+                "fiscalYear": 2019,
+                "unexercisedValue": {
+                    "raw": 81114024,
+                    "fmt": "81.11M",
+                    "longFmt": "81,114,024"
+                },
+                "age": 58
+            },
+            {
+                "totalPay": {
+                    "raw": 672602,
+                    "fmt": "672.6k",
+                    "longFmt": "672,602"
+                },
+                "exercisedValue": {
+                    "raw": 6742863,
+                    "fmt": "6.74M",
+                    "longFmt": "6,742,863"
+                },
+                "yearBorn": 1971,
+                "name": "Mr. Michael W. Kalb",
+                "title": "CFO, Sr. VP & Assistant Sec.",
+                "maxAge": 1,
+                "fiscalYear": 2019,
+                "unexercisedValue": {
+                    "raw": 2388921,
+                    "fmt": "2.39M",
+                    "longFmt": "2,388,921"
+                },
+                "age": 48
+            },
+            {
+                "totalPay": {
+                    "raw": 837700,
+                    "fmt": "837.7k",
+                    "longFmt": "837,700"
+                },
+                "exercisedValue": {
+                    "raw": 1545950,
+                    "fmt": "1.55M",
+                    "longFmt": "1,545,950"
+                },
+                "yearBorn": 1965,
+                "name": "Dr. Steven B. Ketchum",
+                "title": "Pres of R&D, Sr. VP and Chief Scientific Officer",
+                "maxAge": 1,
+                "fiscalYear": 2019,
+                "unexercisedValue": {
+                    "raw": 7650791,
+                    "fmt": "7.65M",
+                    "longFmt": "7,650,791"
+                },
+                "age": 54
+            },
+            {
+                "totalPay": {
+                    "raw": 797700,
+                    "fmt": "797.7k",
+                    "longFmt": "797,700"
+                },
+                "exercisedValue": {
+                    "raw": 12402954,
+                    "fmt": "12.4M",
+                    "longFmt": "12,402,954"
+                },
+                "yearBorn": 1968,
+                "name": "Mr. Joseph T. Kennedy",
+                "title": "Exec. VP, Gen. Counsel & Strategic Initiatives and Sec.",
+                "maxAge": 1,
+                "fiscalYear": 2019,
+                "unexercisedValue": {
+                    "raw": 998220,
+                    "fmt": "998.22k",
+                    "longFmt": "998,220"
+                },
+                "age": 51
+            },
+            {
+                "totalPay": {
+                    "raw": 673590,
+                    "fmt": "673.59k",
+                    "longFmt": "673,590"
+                },
+                "exercisedValue": {
+                    "raw": 5433272,
+                    "fmt": "5.43M",
+                    "longFmt": "5,433,272"
+                },
+                "yearBorn": 1963,
+                "name": "Mr. Aaron D. Berg",
+                "title": "Sr. VP & Chief Commercial Officer",
+                "maxAge": 1,
+                "fiscalYear": 2019,
+                "unexercisedValue": {
+                    "raw": 2683887,
+                    "fmt": "2.68M",
+                    "longFmt": "2,683,887"
+                },
+                "age": 56
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Elisabeth  Schwartz",
+                "title": "Sr. Director of Investor Relations",
+                "exercisedValue": {
+                    "raw": 0,
+                    "fmt": null,
+                    "longFmt": "0"
+                },
+                "unexercisedValue": {
+                    "raw": 0,
+                    "fmt": null,
+                    "longFmt": "0"
+                }
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Daniel S. Dunham",
+                "title": "Sr. VP & Chief Pharmaceutical Compliance Officer",
+                "exercisedValue": {
+                    "raw": 0,
+                    "fmt": null,
+                    "longFmt": "0"
+                },
+                "unexercisedValue": {
+                    "raw": 0,
+                    "fmt": null,
+                    "longFmt": "0"
+                }
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Gwen  Fisher",
+                "title": "VP of Corp. Communications",
+                "exercisedValue": {
+                    "raw": 0,
+                    "fmt": null,
+                    "longFmt": "0"
+                },
+                "unexercisedValue": {
+                    "raw": 0,
+                    "fmt": null,
+                    "longFmt": "0"
+                }
+            },
+            {
+                "maxAge": 1,
+                "name": "Mr. Rami  Daoud",
+                "title": "Sr. VP of Corp. Devel.",
+                "exercisedValue": {
+                    "raw": 0,
+                    "fmt": null,
+                    "longFmt": "0"
+                },
+                "unexercisedValue": {
+                    "raw": 0,
+                    "fmt": null,
+                    "longFmt": "0"
+                }
+            },
+            {
+                "maxAge": 1,
+                "name": "Ms. Donna  Pasek",
+                "title": "Sr. VP of HR",
+                "exercisedValue": {
+                    "raw": 0,
+                    "fmt": null,
+                    "longFmt": "0"
+                },
+                "unexercisedValue": {
+                    "raw": 0,
+                    "fmt": null,
+                    "longFmt": "0"
+                }
+            }
+        ],
+        "website": "http://www.amarincorp.com",
+        "maxAge": 86400,
+        "overallRisk": 8,
+        "address1": "Grand Canal Docklands",
+        "industry": "Biotechnology",
+        "address2": "Block C 77 Sir John Rogerson's Quay"
+    },
+    "pageViews": {
+        "shortTermTrend": "DOWN",
+        "midTermTrend": "UP",
+        "longTermTrend": "UP",
+        "maxAge": 1
+    }
+}

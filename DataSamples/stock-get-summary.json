@@ -1,0 +1,5053 @@
+{
+    "defaultKeyStatistics": {
+        "annualHoldingsTurnover": {},
+        "enterpriseToRevenue": {
+            "raw": 2.639,
+            "fmt": "2.64"
+        },
+        "beta3Year": {},
+        "profitMargins": {
+            "raw": -0.022950001,
+            "fmt": "-2.30%"
+        },
+        "enterpriseToEbitda": {
+            "raw": -83.025,
+            "fmt": "-83.03"
+        },
+        "52WeekChange": {
+            "raw": -0.6992754,
+            "fmt": "-69.93%"
+        },
+        "morningStarRiskRating": {},
+        "forwardEps": {
+            "raw": 0.41,
+            "fmt": "0.41"
+        },
+        "revenueQuarterlyGrowth": {},
+        "sharesOutstanding": {
+            "raw": 388672992,
+            "fmt": "388.67M",
+            "longFmt": "388,672,992"
+        },
+        "fundInceptionDate": {},
+        "annualReportExpenseRatio": {},
+        "totalAssets": {},
+        "bookValue": {
+            "raw": 1.544,
+            "fmt": "1.54"
+        },
+        "sharesShort": {
+            "raw": 24855755,
+            "fmt": "24.86M",
+            "longFmt": "24,855,755"
+        },
+        "sharesPercentSharesOut": {
+            "raw": 0.0639,
+            "fmt": "6.39%"
+        },
+        "fundFamily": null,
+        "lastFiscalYearEnd": {
+            "raw": 1577750400,
+            "fmt": "2019-12-31"
+        },
+        "heldPercentInstitutions": {
+            "raw": 0.4374,
+            "fmt": "43.74%"
+        },
+        "netIncomeToCommon": {
+            "raw": -12532000,
+            "fmt": "-12.53M",
+            "longFmt": "-12,532,000"
+        },
+        "trailingEps": {
+            "raw": -0.034,
+            "fmt": "-0.0340"
+        },
+        "lastDividendValue": {},
+        "SandP52WeekChange": {
+            "raw": 0.1401484,
+            "fmt": "14.01%"
+        },
+        "priceToBook": {
+            "raw": 3.2253885,
+            "fmt": "3.23"
+        },
+        "heldPercentInsiders": {
+            "raw": 0.00995,
+            "fmt": "0.99%"
+        },
+        "nextFiscalYearEnd": {
+            "raw": 1640908800,
+            "fmt": "2021-12-31"
+        },
+        "yield": {},
+        "mostRecentQuarter": {
+            "raw": 1593475200,
+            "fmt": "2020-06-30"
+        },
+        "shortRatio": {
+            "raw": 1.77,
+            "fmt": "1.77"
+        },
+        "sharesShortPreviousMonthDate": {
+            "raw": 1598832000,
+            "fmt": "2020-08-31"
+        },
+        "floatShares": {
+            "raw": 350365733,
+            "fmt": "350.37M",
+            "longFmt": "350,365,733"
+        },
+        "beta": {
+            "raw": 2.807501,
+            "fmt": "2.81"
+        },
+        "enterpriseValue": {
+            "raw": 1440893312,
+            "fmt": "1.44B",
+            "longFmt": "1,440,893,312"
+        },
+        "priceHint": {
+            "raw": 4,
+            "fmt": "4",
+            "longFmt": "4"
+        },
+        "threeYearAverageReturn": {},
+        "lastSplitDate": {
+            "raw": 1200614400,
+            "fmt": "2008-01-18"
+        },
+        "lastSplitFactor": "1:10",
+        "legalType": null,
+        "lastDividendDate": {},
+        "morningStarOverallRating": {},
+        "earningsQuarterlyGrowth": {},
+        "priceToSalesTrailing12Months": {},
+        "dateShortInterest": {
+            "raw": 1601424000,
+            "fmt": "2020-09-30"
+        },
+        "pegRatio": {
+            "raw": -6.61,
+            "fmt": "-6.61"
+        },
+        "ytdReturn": {},
+        "forwardPE": {
+            "raw": 12.146341,
+            "fmt": "12.15"
+        },
+        "maxAge": 1,
+        "lastCapGain": {},
+        "shortPercentOfFloat": {},
+        "sharesShortPriorMonth": {
+            "raw": 26410194,
+            "fmt": "26.41M",
+            "longFmt": "26,410,194"
+        },
+        "category": null,
+        "fiveYearAverageReturn": {}
+    },
+    "details": {},
+    "summaryProfile": {
+        "zip": "2",
+        "sector": "Healthcare",
+        "fullTimeEmployees": 965,
+        "longBusinessSummary": "Amarin Corporation plc, a pharmaceutical company, develops and commercializes therapeutics for the treatment of cardiovascular diseases in the United States. The company's lead product is Vascepa, a prescription-only omega-3 fatty acid capsule, used as an adjunct to diet for reducing triglyceride levels in adult patients with severe hypertriglyceridemia. It is also involved in developing REDUCE-IT for the treatment of patients with high triglyceride levels who are also on statin therapy for elevated low-density lipoprotein cholesterol levels. The company sells its products principally to wholesalers and specialty pharmacy providers through direct sales force. It has a collaboration with Mochida Pharmaceutical Co., Ltd. to develop and commercialize drug products and indications based on the active pharmaceutical ingredient in Vascepa, the omega-3 acid, and eicosapentaenoic acid. The company was formerly known as Ethical Holdings plc and changed its name to Amarin Corporation plc in 1999. Amarin Corporation plc was incorporated in 1989 and is headquartered in Dublin, Ireland.",
+        "city": "Dublin",
+        "phone": "353 1 669 9020",
+        "country": "Ireland",
+        "companyOfficers": [],
+        "website": "http://www.amarincorp.com",
+        "maxAge": 86400,
+        "address1": "Grand Canal Docklands",
+        "industry": "Biotechnology",
+        "address2": "Block C 77 Sir John Rogerson's Quay"
+    },
+    "recommendationTrend": {
+        "trend": [
+            {
+                "period": "0m",
+                "strongBuy": 2,
+                "buy": 3,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-1m",
+                "strongBuy": 2,
+                "buy": 6,
+                "hold": 4,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-2m",
+                "strongBuy": 2,
+                "buy": 5,
+                "hold": 4,
+                "sell": 0,
+                "strongSell": 0
+            },
+            {
+                "period": "-3m",
+                "strongBuy": 2,
+                "buy": 3,
+                "hold": 0,
+                "sell": 0,
+                "strongSell": 0
+            }
+        ],
+        "maxAge": 86400
+    },
+    "financialsTemplate": {
+        "code": "N",
+        "maxAge": 1
+    },
+    "majorDirectHolders": {
+        "holders": [],
+        "maxAge": 1
+    },
+    "earnings": {
+        "maxAge": 86400,
+        "earningsChart": {
+            "quarterly": [
+                {
+                    "date": "3Q2019",
+                    "actual": {
+                        "raw": -0.01,
+                        "fmt": "-0.01"
+                    },
+                    "estimate": {
+                        "raw": -0.04,
+                        "fmt": "-0.04"
+                    }
+                },
+                {
+                    "date": "4Q2019",
+                    "actual": {
+                        "raw": 0.02,
+                        "fmt": "0.02"
+                    },
+                    "estimate": {
+                        "raw": -0.02,
+                        "fmt": "-0.02"
+                    }
+                },
+                {
+                    "date": "1Q2020",
+                    "actual": {
+                        "raw": -0.06,
+                        "fmt": "-0.06"
+                    },
+                    "estimate": {
+                        "raw": -0.07,
+                        "fmt": "-0.07"
+                    }
+                },
+                {
+                    "date": "2Q2020",
+                    "actual": {
+                        "raw": 0.01,
+                        "fmt": "0.01"
+                    },
+                    "estimate": {
+                        "raw": -0.07,
+                        "fmt": "-0.07"
+                    }
+                }
+            ],
+            "currentQuarterEstimate": {
+                "raw": 0.01,
+                "fmt": "0.01"
+            },
+            "currentQuarterEstimateDate": "3Q",
+            "currentQuarterEstimateYear": 2020,
+            "earningsDate": [
+                {
+                    "raw": 1604534400,
+                    "fmt": "2020-11-05"
+                }
+            ]
+        },
+        "financialsChart": {
+            "yearly": [
+                {
+                    "date": 2016,
+                    "revenue": {
+                        "raw": 130084000,
+                        "fmt": "130.08M",
+                        "longFmt": "130,084,000"
+                    },
+                    "earnings": {
+                        "raw": -86350000,
+                        "fmt": "-86.35M",
+                        "longFmt": "-86,350,000"
+                    }
+                },
+                {
+                    "date": 2017,
+                    "revenue": {
+                        "raw": 181104000,
+                        "fmt": "181.1M",
+                        "longFmt": "181,104,000"
+                    },
+                    "earnings": {
+                        "raw": -67865000,
+                        "fmt": "-67.86M",
+                        "longFmt": "-67,865,000"
+                    }
+                },
+                {
+                    "date": 2018,
+                    "revenue": {
+                        "raw": 229214000,
+                        "fmt": "229.21M",
+                        "longFmt": "229,214,000"
+                    },
+                    "earnings": {
+                        "raw": -116445000,
+                        "fmt": "-116.44M",
+                        "longFmt": "-116,445,000"
+                    }
+                },
+                {
+                    "date": 2019,
+                    "revenue": {
+                        "raw": 429755000,
+                        "fmt": "429.75M",
+                        "longFmt": "429,755,000"
+                    },
+                    "earnings": {
+                        "raw": -22645000,
+                        "fmt": "-22.64M",
+                        "longFmt": "-22,645,000"
+                    }
+                }
+            ],
+            "quarterly": [
+                {
+                    "date": "3Q2019",
+                    "revenue": {
+                        "raw": 112408000,
+                        "fmt": "112.41M",
+                        "longFmt": "112,408,000"
+                    },
+                    "earnings": {
+                        "raw": -3462000,
+                        "fmt": "-3.46M",
+                        "longFmt": "-3,462,000"
+                    }
+                },
+                {
+                    "date": "4Q2019",
+                    "revenue": {
+                        "raw": 143277000,
+                        "fmt": "143.28M",
+                        "longFmt": "143,277,000"
+                    },
+                    "earnings": {
+                        "raw": 7068000,
+                        "fmt": "7.07M",
+                        "longFmt": "7,068,000"
+                    }
+                },
+                {
+                    "date": "1Q2020",
+                    "revenue": {
+                        "raw": 154993000,
+                        "fmt": "154.99M",
+                        "longFmt": "154,993,000"
+                    },
+                    "earnings": {
+                        "raw": -20553000,
+                        "fmt": "-20.55M",
+                        "longFmt": "-20,553,000"
+                    }
+                },
+                {
+                    "date": "2Q2020",
+                    "revenue": {
+                        "raw": 135317000,
+                        "fmt": "135.32M",
+                        "longFmt": "135,317,000"
+                    },
+                    "earnings": {
+                        "raw": 4415000,
+                        "fmt": "4.42M",
+                        "longFmt": "4,415,000"
+                    }
+                }
+            ]
+        },
+        "financialCurrency": "USD"
+    },
+    "price": {
+        "quoteSourceName": "Delayed Quote",
+        "regularMarketOpen": {
+            "raw": 5.02,
+            "fmt": "5.0200"
+        },
+        "averageDailyVolume3Month": {
+            "raw": 8710518,
+            "fmt": "8.71M",
+            "longFmt": "8,710,518"
+        },
+        "exchange": "NMS",
+        "regularMarketTime": 1603483201,
+        "volume24Hr": {},
+        "regularMarketDayHigh": {
+            "raw": 5.0305,
+            "fmt": "5.0305"
+        },
+        "shortName": "Amarin Corporation plc",
+        "averageDailyVolume10Day": {
+            "raw": 4913925,
+            "fmt": "4.91M",
+            "longFmt": "4,913,925"
+        },
+        "longName": "Amarin Corporation plc",
+        "regularMarketChange": {
+            "raw": -0.03999996,
+            "fmt": "-0.0400"
+        },
+        "currencySymbol": "$",
+        "regularMarketPreviousClose": {
+            "raw": 5.02,
+            "fmt": "5.0200"
+        },
+        "postMarketTime": 1603495926,
+        "preMarketPrice": {},
+        "exchangeDataDelayedBy": 0,
+        "toCurrency": null,
+        "postMarketChange": {
+            "raw": 0,
+            "fmt": "0.00"
+        },
+        "postMarketPrice": {
+            "raw": 4.98,
+            "fmt": "4.9800"
+        },
+        "exchangeName": "NasdaqGS",
+        "preMarketChange": {},
+        "circulatingSupply": {},
+        "regularMarketDayLow": {
+            "raw": 4.88,
+            "fmt": "4.8800"
+        },
+        "priceHint": {
+            "raw": 4,
+            "fmt": "4",
+            "longFmt": "4"
+        },
+        "currency": "USD",
+        "regularMarketPrice": {
+            "raw": 4.98,
+            "fmt": "4.9800"
+        },
+        "regularMarketVolume": {
+            "raw": 2748118,
+            "fmt": "2.75M",
+            "longFmt": "2,748,118.00"
+        },
+        "lastMarket": null,
+        "regularMarketSource": "FREE_REALTIME",
+        "openInterest": {},
+        "marketState": "CLOSED",
+        "underlyingSymbol": null,
+        "marketCap": {
+            "raw": 1935591552,
+            "fmt": "1.94B",
+            "longFmt": "1,935,591,552.00"
+        },
+        "quoteType": "EQUITY",
+        "volumeAllCurrencies": {},
+        "postMarketSource": "DELAYED",
+        "strikePrice": {},
+        "symbol": "AMRN",
+        "postMarketChangePercent": {
+            "raw": 0,
+            "fmt": "0.00%"
+        },
+        "preMarketSource": "DELAYED",
+        "maxAge": 1,
+        "fromCurrency": null,
+        "regularMarketChangePercent": {
+            "raw": -0.00796812,
+            "fmt": "-0.80%"
+        }
+    },
+    "fundOwnership": {
+        "maxAge": 1,
+        "ownershipList": [
+            {
+                "maxAge": 1,
+                "reportDate": {
+                    "raw": 1593475200,
+                    "fmt": "2020-06-30"
+                },
+                "organization": "Artisan International Fund",
+                "pctHeld": {
+                    "raw": 0.0166,
+                    "fmt": "1.66%"
+                },
+                "position": {
+                    "raw": 6468636,
+                    "fmt": "6.47M",
+                    "longFmt": "6,468,636"
+                },
+                "value": {
+                    "raw": 44762961,
+                    "fmt": "44.76M",
+                    "longFmt": "44,762,961"
+                }
+            },
+            {
+                "maxAge": 1,
+                "reportDate": {
+                    "raw": 1598832000,
+                    "fmt": "2020-08-31"
+                },
+                "organization": "iShares NASDAQ Biotechnology ETF",
+                "pctHeld": {
+                    "raw": 0.0094,
+                    "fmt": "0.94%"
+                },
+                "position": {
+                    "raw": 3677992,
+                    "fmt": "3.68M",
+                    "longFmt": "3,677,992"
+                },
+                "value": {
+                    "raw": 28541217,
+                    "fmt": "28.54M",
+                    "longFmt": "28,541,217"
+                }
+            },
+            {
+                "maxAge": 1,
+                "reportDate": {
+                    "raw": 1596153600,
+                    "fmt": "2020-07-31"
+                },
+                "organization": "Federated Hermes Kaufmann Small Cap Fund",
+                "pctHeld": {
+                    "raw": 0.009,
+                    "fmt": "0.90%"
+                },
+                "position": {
+                    "raw": 3500000,
+                    "fmt": "3.5M",
+                    "longFmt": "3,500,000"
+                },
+                "value": {
+                    "raw": 22680000,
+                    "fmt": "22.68M",
+                    "longFmt": "22,680,000"
+                }
+            },
+            {
+                "maxAge": 1,
+                "reportDate": {
+                    "raw": 1593475200,
+                    "fmt": "2020-06-30"
+                },
+                "organization": "Price (T.Rowe) Health Sciences Fund",
+                "pctHeld": {
+                    "raw": 0.0055,
+                    "fmt": "0.55%"
+                },
+                "position": {
+                    "raw": 2156147,
+                    "fmt": "2.16M",
+                    "longFmt": "2,156,147"
+                },
+                "value": {
+                    "raw": 14920537,
+                    "fmt": "14.92M",
+                    "longFmt": "14,920,537"
+                }
+            },
+            {
+                "maxAge": 1,
+                "reportDate": {
+                    "raw": 1596153600,
+                    "fmt": "2020-07-31"
+                },
+                "organization": "Legg Mason Glb Asset Mgt Tr-Clearbridge Small Cap Fd",
+                "pctHeld": {
+                    "raw": 0.0043,
+                    "fmt": "0.43%"
+                },
+                "position": {
+                    "raw": 1694406,
+                    "fmt": "1.69M",
+                    "longFmt": "1,694,406"
+                },
+                "value": {
+                    "raw": 10979750,
+                    "fmt": "10.98M",
+                    "longFmt": "10,979,750"
+                }
+            },
+            {
+                "maxAge": 1,
+                "reportDate": {
+                    "raw": 1593475200,
+                    "fmt": "2020-06-30"
+                },
+                "organization": "Price (T.Rowe) New Horizons Fund",
+                "pctHeld": {
+                    "raw": 0.0034999999,
+                    "fmt": "0.35%"
+                },
+                "position": {
+                    "raw": 1361489,
+                    "fmt": "1.36M",
+                    "longFmt": "1,361,489"
+                },
+                "value": {
+                    "raw": 9421503,
+                    "fmt": "9.42M",
+                    "longFmt": "9,421,503"
+                }
+            },
+            {
+                "maxAge": 1,
+                "reportDate": {
+                    "raw": 1593475200,
+                    "fmt": "2020-06-30"
+                },
+                "organization": "Value Line Capital Appreciation Fund",
+                "pctHeld": {
+                    "raw": 0.0033000002,
+                    "fmt": "0.33%"
+                },
+                "position": {
+                    "raw": 1275000,
+                    "fmt": "1.27M",
+                    "longFmt": "1,275,000"
+                },
+                "value": {
+                    "raw": 8823000,
+                    "fmt": "8.82M",
+                    "longFmt": "8,823,000"
+                }
+            },
+            {
+                "maxAge": 1,
+                "reportDate": {
+                    "raw": 1593475200,
+                    "fmt": "2020-06-30"
+                },
+                "organization": "Value Line Larger Companies Focused Fund",
+                "pctHeld": {
+                    "raw": 0.0022,
+                    "fmt": "0.22%"
+                },
+                "position": {
+                    "raw": 875000,
+                    "fmt": "875k",
+                    "longFmt": "875,000"
+                },
+                "value": {
+                    "raw": 6055000,
+                    "fmt": "6.05M",
+                    "longFmt": "6,055,000"
+                }
+            },
+            {
+                "maxAge": 1,
+                "reportDate": {
+                    "raw": 1593475200,
+                    "fmt": "2020-06-30"
+                },
+                "organization": "Brighthouse Fds Tr I-Brighthouse/Artisan International Port",
+                "pctHeld": {
+                    "raw": 0.002,
+                    "fmt": "0.20%"
+                },
+                "position": {
+                    "raw": 760794,
+                    "fmt": "760.79k",
+                    "longFmt": "760,794"
+                },
+                "value": {
+                    "raw": 5264694,
+                    "fmt": "5.26M",
+                    "longFmt": "5,264,694"
+                }
+            },
+            {
+                "maxAge": 1,
+                "reportDate": {
+                    "raw": 1593475200,
+                    "fmt": "2020-06-30"
+                },
+                "organization": "Price (T.Rowe) Small Cap Stock Fund",
+                "pctHeld": {
+                    "raw": 0.0017,
+                    "fmt": "0.17%"
+                },
+                "position": {
+                    "raw": 645900,
+                    "fmt": "645.9k",
+                    "longFmt": "645,900"
+                },
+                "value": {
+                    "raw": 4469628,
+                    "fmt": "4.47M",
+                    "longFmt": "4,469,628"
+                }
+            }
+        ]
+    },
+    "insiderTransactions": {
+        "transactions": [
+            {
+                "filerName": "ZAKRZEWSKI JOSEPH S",
+                "transactionText": "Conversion of Exercise of derivative security at price 3.40 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1603238400,
+                    "fmt": "2020-10-21"
+                },
+                "value": {
+                    "raw": 340000,
+                    "fmt": "340k",
+                    "longFmt": "340,000"
+                },
+                "filerRelation": "Director",
+                "shares": {
+                    "raw": 100000,
+                    "fmt": "100k",
+                    "longFmt": "100,000"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "THERO JOHN F",
+                "transactionText": "",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1601424000,
+                    "fmt": "2020-09-30"
+                },
+                "filerRelation": "Chief Executive Officer",
+                "shares": {
+                    "raw": 13474,
+                    "fmt": "13.47k",
+                    "longFmt": "13,474"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KENNEDY JOSEPH T",
+                "transactionText": "",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1601424000,
+                    "fmt": "2020-09-30"
+                },
+                "filerRelation": "General Counsel",
+                "shares": {
+                    "raw": 3612,
+                    "fmt": "3.61k",
+                    "longFmt": "3,612"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KETCHUM STEVEN B",
+                "transactionText": "",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1601424000,
+                    "fmt": "2020-09-30"
+                },
+                "filerRelation": "Officer",
+                "shares": {
+                    "raw": 3056,
+                    "fmt": "3.06k",
+                    "longFmt": "3,056"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KALB MICHAEL WAYNE CPA",
+                "transactionText": "",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1601424000,
+                    "fmt": "2020-09-30"
+                },
+                "filerRelation": "Chief Financial Officer",
+                "shares": {
+                    "raw": 3056,
+                    "fmt": "3.06k",
+                    "longFmt": "3,056"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "BERG AARON D.",
+                "transactionText": "",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1601424000,
+                    "fmt": "2020-09-30"
+                },
+                "filerRelation": "Officer",
+                "shares": {
+                    "raw": 3056,
+                    "fmt": "3.06k",
+                    "longFmt": "3,056"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "THERO JOHN F",
+                "transactionText": "",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1598832000,
+                    "fmt": "2020-08-31"
+                },
+                "filerRelation": "Chief Executive Officer",
+                "shares": {
+                    "raw": 13472,
+                    "fmt": "13.47k",
+                    "longFmt": "13,472"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KENNEDY JOSEPH T",
+                "transactionText": "",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1598832000,
+                    "fmt": "2020-08-31"
+                },
+                "filerRelation": "General Counsel",
+                "shares": {
+                    "raw": 3610,
+                    "fmt": "3.61k",
+                    "longFmt": "3,610"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KETCHUM STEVEN B",
+                "transactionText": "",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1598832000,
+                    "fmt": "2020-08-31"
+                },
+                "filerRelation": "Officer",
+                "shares": {
+                    "raw": 3054,
+                    "fmt": "3.05k",
+                    "longFmt": "3,054"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KALB MICHAEL WAYNE CPA",
+                "transactionText": "",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1598832000,
+                    "fmt": "2020-08-31"
+                },
+                "filerRelation": "Chief Financial Officer",
+                "shares": {
+                    "raw": 3054,
+                    "fmt": "3.05k",
+                    "longFmt": "3,054"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "BERG AARON D.",
+                "transactionText": "",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1598832000,
+                    "fmt": "2020-08-31"
+                },
+                "filerRelation": "Officer",
+                "shares": {
+                    "raw": 3054,
+                    "fmt": "3.05k",
+                    "longFmt": "3,054"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "THERO JOHN F",
+                "transactionText": "",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1596153600,
+                    "fmt": "2020-07-31"
+                },
+                "filerRelation": "Chief Executive Officer",
+                "shares": {
+                    "raw": 13472,
+                    "fmt": "13.47k",
+                    "longFmt": "13,472"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KENNEDY JOSEPH T",
+                "transactionText": "",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1596153600,
+                    "fmt": "2020-07-31"
+                },
+                "filerRelation": "General Counsel",
+                "shares": {
+                    "raw": 3610,
+                    "fmt": "3.61k",
+                    "longFmt": "3,610"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KETCHUM STEVEN B",
+                "transactionText": "",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1596153600,
+                    "fmt": "2020-07-31"
+                },
+                "filerRelation": "Officer",
+                "shares": {
+                    "raw": 3054,
+                    "fmt": "3.05k",
+                    "longFmt": "3,054"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KALB MICHAEL WAYNE CPA",
+                "transactionText": "",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1596153600,
+                    "fmt": "2020-07-31"
+                },
+                "filerRelation": "Chief Financial Officer",
+                "shares": {
+                    "raw": 3054,
+                    "fmt": "3.05k",
+                    "longFmt": "3,054"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "BERG AARON D.",
+                "transactionText": "",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1596153600,
+                    "fmt": "2020-07-31"
+                },
+                "filerRelation": "Officer",
+                "shares": {
+                    "raw": 3054,
+                    "fmt": "3.05k",
+                    "longFmt": "3,054"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "THERO JOHN F",
+                "transactionText": "",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1593475200,
+                    "fmt": "2020-06-30"
+                },
+                "filerRelation": "Chief Executive Officer",
+                "shares": {
+                    "raw": 13472,
+                    "fmt": "13.47k",
+                    "longFmt": "13,472"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KENNEDY JOSEPH T",
+                "transactionText": "",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1593475200,
+                    "fmt": "2020-06-30"
+                },
+                "filerRelation": "General Counsel",
+                "shares": {
+                    "raw": 3610,
+                    "fmt": "3.61k",
+                    "longFmt": "3,610"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KETCHUM STEVEN B",
+                "transactionText": "",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1593475200,
+                    "fmt": "2020-06-30"
+                },
+                "filerRelation": "Officer",
+                "shares": {
+                    "raw": 3054,
+                    "fmt": "3.05k",
+                    "longFmt": "3,054"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KALB MICHAEL WAYNE CPA",
+                "transactionText": "",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1593475200,
+                    "fmt": "2020-06-30"
+                },
+                "filerRelation": "Chief Financial Officer",
+                "shares": {
+                    "raw": 3054,
+                    "fmt": "3.05k",
+                    "longFmt": "3,054"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "BERG AARON D.",
+                "transactionText": "",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1593475200,
+                    "fmt": "2020-06-30"
+                },
+                "filerRelation": "Officer",
+                "shares": {
+                    "raw": 3054,
+                    "fmt": "3.05k",
+                    "longFmt": "3,054"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "THERO JOHN F",
+                "transactionText": "",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1590710400,
+                    "fmt": "2020-05-29"
+                },
+                "filerRelation": "Chief Executive Officer",
+                "shares": {
+                    "raw": 13472,
+                    "fmt": "13.47k",
+                    "longFmt": "13,472"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KENNEDY JOSEPH T",
+                "transactionText": "",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1590710400,
+                    "fmt": "2020-05-29"
+                },
+                "filerRelation": "General Counsel",
+                "shares": {
+                    "raw": 3610,
+                    "fmt": "3.61k",
+                    "longFmt": "3,610"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KETCHUM STEVEN B",
+                "transactionText": "",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1590710400,
+                    "fmt": "2020-05-29"
+                },
+                "filerRelation": "Officer",
+                "shares": {
+                    "raw": 3056,
+                    "fmt": "3.06k",
+                    "longFmt": "3,056"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KALB MICHAEL WAYNE CPA",
+                "transactionText": "",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1590710400,
+                    "fmt": "2020-05-29"
+                },
+                "filerRelation": "Chief Financial Officer",
+                "shares": {
+                    "raw": 3056,
+                    "fmt": "3.06k",
+                    "longFmt": "3,056"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "BERG AARON D.",
+                "transactionText": "",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1590710400,
+                    "fmt": "2020-05-29"
+                },
+                "filerRelation": "Officer",
+                "shares": {
+                    "raw": 3056,
+                    "fmt": "3.06k",
+                    "longFmt": "3,056"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "BERG AARON D.",
+                "transactionText": "",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1588291200,
+                    "fmt": "2020-05-01"
+                },
+                "filerRelation": "Officer",
+                "shares": {
+                    "raw": 29056,
+                    "fmt": "29.06k",
+                    "longFmt": "29,056"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "THERO JOHN F",
+                "transactionText": "",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1588204800,
+                    "fmt": "2020-04-30"
+                },
+                "filerRelation": "Chief Executive Officer",
+                "shares": {
+                    "raw": 13472,
+                    "fmt": "13.47k",
+                    "longFmt": "13,472"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KENNEDY JOSEPH T",
+                "transactionText": "",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1588204800,
+                    "fmt": "2020-04-30"
+                },
+                "filerRelation": "General Counsel",
+                "shares": {
+                    "raw": 3610,
+                    "fmt": "3.61k",
+                    "longFmt": "3,610"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KETCHUM STEVEN B",
+                "transactionText": "",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1588204800,
+                    "fmt": "2020-04-30"
+                },
+                "filerRelation": "Officer",
+                "shares": {
+                    "raw": 3056,
+                    "fmt": "3.06k",
+                    "longFmt": "3,056"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KALB MICHAEL WAYNE CPA",
+                "transactionText": "",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1588204800,
+                    "fmt": "2020-04-30"
+                },
+                "filerRelation": "Chief Financial Officer",
+                "shares": {
+                    "raw": 3056,
+                    "fmt": "3.06k",
+                    "longFmt": "3,056"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "THERO JOHN F",
+                "transactionText": "",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1585612800,
+                    "fmt": "2020-03-31"
+                },
+                "filerRelation": "Chief Executive Officer",
+                "shares": {
+                    "raw": 13472,
+                    "fmt": "13.47k",
+                    "longFmt": "13,472"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KENNEDY JOSEPH T",
+                "transactionText": "",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1585612800,
+                    "fmt": "2020-03-31"
+                },
+                "filerRelation": "General Counsel",
+                "shares": {
+                    "raw": 3612,
+                    "fmt": "3.61k",
+                    "longFmt": "3,612"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KETCHUM STEVEN B",
+                "transactionText": "",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1585612800,
+                    "fmt": "2020-03-31"
+                },
+                "filerRelation": "Officer",
+                "shares": {
+                    "raw": 3056,
+                    "fmt": "3.06k",
+                    "longFmt": "3,056"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KALB MICHAEL WAYNE CPA",
+                "transactionText": "",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1585612800,
+                    "fmt": "2020-03-31"
+                },
+                "filerRelation": "Chief Financial Officer",
+                "shares": {
+                    "raw": 3056,
+                    "fmt": "3.06k",
+                    "longFmt": "3,056"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "BERG AARON D.",
+                "transactionText": "",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1585612800,
+                    "fmt": "2020-03-31"
+                },
+                "filerRelation": "Officer",
+                "shares": {
+                    "raw": 3056,
+                    "fmt": "3.06k",
+                    "longFmt": "3,056"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "THERO JOHN F",
+                "transactionText": "Sale at price 15.99 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1583280000,
+                    "fmt": "2020-03-04"
+                },
+                "value": {
+                    "raw": 3198700,
+                    "fmt": "3.2M",
+                    "longFmt": "3,198,700"
+                },
+                "filerRelation": "Chief Executive Officer",
+                "shares": {
+                    "raw": 200000,
+                    "fmt": "200k",
+                    "longFmt": "200,000"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "THERO JOHN F",
+                "transactionText": "",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1582848000,
+                    "fmt": "2020-02-28"
+                },
+                "filerRelation": "Chief Executive Officer",
+                "shares": {
+                    "raw": 13472,
+                    "fmt": "13.47k",
+                    "longFmt": "13,472"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KENNEDY JOSEPH T",
+                "transactionText": "",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1582848000,
+                    "fmt": "2020-02-28"
+                },
+                "filerRelation": "General Counsel",
+                "shares": {
+                    "raw": 3612,
+                    "fmt": "3.61k",
+                    "longFmt": "3,612"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KETCHUM STEVEN B",
+                "transactionText": "",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1582848000,
+                    "fmt": "2020-02-28"
+                },
+                "filerRelation": "Officer",
+                "shares": {
+                    "raw": 3056,
+                    "fmt": "3.06k",
+                    "longFmt": "3,056"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KALB MICHAEL WAYNE CPA",
+                "transactionText": "",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1582848000,
+                    "fmt": "2020-02-28"
+                },
+                "filerRelation": "Chief Financial Officer",
+                "shares": {
+                    "raw": 3056,
+                    "fmt": "3.06k",
+                    "longFmt": "3,056"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "BERG AARON D.",
+                "transactionText": "",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1582848000,
+                    "fmt": "2020-02-28"
+                },
+                "filerRelation": "Officer",
+                "shares": {
+                    "raw": 3056,
+                    "fmt": "3.06k",
+                    "longFmt": "3,056"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "THERO JOHN F",
+                "transactionText": "",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1582588800,
+                    "fmt": "2020-02-25"
+                },
+                "filerRelation": "Chief Executive Officer",
+                "shares": {
+                    "raw": 229030,
+                    "fmt": "229.03k",
+                    "longFmt": "229,030"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KENNEDY JOSEPH T",
+                "transactionText": "",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1582588800,
+                    "fmt": "2020-02-25"
+                },
+                "filerRelation": "General Counsel",
+                "shares": {
+                    "raw": 61394,
+                    "fmt": "61.39k",
+                    "longFmt": "61,394"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KETCHUM STEVEN B",
+                "transactionText": "",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1582588800,
+                    "fmt": "2020-02-25"
+                },
+                "filerRelation": "Officer",
+                "shares": {
+                    "raw": 51948,
+                    "fmt": "51.95k",
+                    "longFmt": "51,948"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KALB MICHAEL WAYNE CPA",
+                "transactionText": "",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1582588800,
+                    "fmt": "2020-02-25"
+                },
+                "filerRelation": "Chief Financial Officer",
+                "shares": {
+                    "raw": 51948,
+                    "fmt": "51.95k",
+                    "longFmt": "51,948"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "BERG AARON D.",
+                "transactionText": "",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1582588800,
+                    "fmt": "2020-02-25"
+                },
+                "filerRelation": "Officer",
+                "shares": {
+                    "raw": 51948,
+                    "fmt": "51.95k",
+                    "longFmt": "51,948"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "THERO JOHN F",
+                "transactionText": "",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1580428800,
+                    "fmt": "2020-01-31"
+                },
+                "filerRelation": "Chief Executive Officer",
+                "shares": {
+                    "raw": 315367,
+                    "fmt": "315.37k",
+                    "longFmt": "315,367"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KENNEDY JOSEPH T",
+                "transactionText": "",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1580428800,
+                    "fmt": "2020-01-31"
+                },
+                "filerRelation": "General Counsel",
+                "shares": {
+                    "raw": 74734,
+                    "fmt": "74.73k",
+                    "longFmt": "74,734"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KETCHUM STEVEN B",
+                "transactionText": "",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1580428800,
+                    "fmt": "2020-01-31"
+                },
+                "filerRelation": "Officer",
+                "shares": {
+                    "raw": 67734,
+                    "fmt": "67.73k",
+                    "longFmt": "67,734"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KALB MICHAEL WAYNE CPA",
+                "transactionText": "",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1580428800,
+                    "fmt": "2020-01-31"
+                },
+                "filerRelation": "Chief Financial Officer",
+                "shares": {
+                    "raw": 67734,
+                    "fmt": "67.73k",
+                    "longFmt": "67,734"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "BERG AARON D.",
+                "transactionText": "",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1580428800,
+                    "fmt": "2020-01-31"
+                },
+                "filerRelation": "Officer",
+                "shares": {
+                    "raw": 41734,
+                    "fmt": "41.73k",
+                    "longFmt": "41,734"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "ZAKRZEWSKI JOSEPH S",
+                "transactionText": "Sale at price 20.94 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1578009600,
+                    "fmt": "2020-01-03"
+                },
+                "value": {
+                    "raw": 6282870,
+                    "fmt": "6.28M",
+                    "longFmt": "6,282,870"
+                },
+                "filerRelation": "Director",
+                "shares": {
+                    "raw": 300000,
+                    "fmt": "300k",
+                    "longFmt": "300,000"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "ZAKRZEWSKI JOSEPH S",
+                "transactionText": "Conversion of Exercise of derivative security at price 3.40 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1578009600,
+                    "fmt": "2020-01-03"
+                },
+                "value": {
+                    "raw": 1020000,
+                    "fmt": "1.02M",
+                    "longFmt": "1,020,000"
+                },
+                "filerRelation": "Director",
+                "shares": {
+                    "raw": 300000,
+                    "fmt": "300k",
+                    "longFmt": "300,000"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "ZAKRZEWSKI JOSEPH S",
+                "transactionText": "Sale at price 25.83 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1576454400,
+                    "fmt": "2019-12-16"
+                },
+                "value": {
+                    "raw": 2583380,
+                    "fmt": "2.58M",
+                    "longFmt": "2,583,380"
+                },
+                "filerRelation": "Director",
+                "shares": {
+                    "raw": 100000,
+                    "fmt": "100k",
+                    "longFmt": "100,000"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "ZAKRZEWSKI JOSEPH S",
+                "transactionText": "Conversion of Exercise of derivative security at price 9.00 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1576454400,
+                    "fmt": "2019-12-16"
+                },
+                "value": {
+                    "raw": 900000,
+                    "fmt": "900k",
+                    "longFmt": "900,000"
+                },
+                "filerRelation": "Director",
+                "shares": {
+                    "raw": 100000,
+                    "fmt": "100k",
+                    "longFmt": "100,000"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KALB MICHAEL WAYNE CPA",
+                "transactionText": "Sale at price 23.05 - 25.66 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1576454400,
+                    "fmt": "2019-12-16"
+                },
+                "value": {
+                    "raw": 584012,
+                    "fmt": "584.01k",
+                    "longFmt": "584,012"
+                },
+                "filerRelation": "Chief Financial Officer",
+                "shares": {
+                    "raw": 25000,
+                    "fmt": "25k",
+                    "longFmt": "25,000"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KALB MICHAEL WAYNE CPA",
+                "transactionText": "Conversion of Exercise of derivative security at price 2.19 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1576454400,
+                    "fmt": "2019-12-16"
+                },
+                "value": {
+                    "raw": 54750,
+                    "fmt": "54.75k",
+                    "longFmt": "54,750"
+                },
+                "filerRelation": "Chief Financial Officer",
+                "shares": {
+                    "raw": 25000,
+                    "fmt": "25k",
+                    "longFmt": "25,000"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "BERG AARON D.",
+                "transactionText": "Sale at price 25.46 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1576454400,
+                    "fmt": "2019-12-16"
+                },
+                "value": {
+                    "raw": 1101364,
+                    "fmt": "1.1M",
+                    "longFmt": "1,101,364"
+                },
+                "filerRelation": "Officer",
+                "shares": {
+                    "raw": 43253,
+                    "fmt": "43.25k",
+                    "longFmt": "43,253"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "BERG AARON D.",
+                "transactionText": "Conversion of Exercise of derivative security at price 12.60 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1576454400,
+                    "fmt": "2019-12-16"
+                },
+                "value": {
+                    "raw": 544988,
+                    "fmt": "544.99k",
+                    "longFmt": "544,988"
+                },
+                "filerRelation": "Officer",
+                "shares": {
+                    "raw": 43253,
+                    "fmt": "43.25k",
+                    "longFmt": "43,253"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "THERO JOHN F",
+                "transactionText": "Sale at price 22.65 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1574121600,
+                    "fmt": "2019-11-19"
+                },
+                "value": {
+                    "raw": 6217371,
+                    "fmt": "6.22M",
+                    "longFmt": "6,217,371"
+                },
+                "filerRelation": "Chief Executive Officer",
+                "shares": {
+                    "raw": 274454,
+                    "fmt": "274.45k",
+                    "longFmt": "274,454"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "EKMAN LARS G",
+                "transactionText": "Sale at price 19.35 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1573516800,
+                    "fmt": "2019-11-12"
+                },
+                "value": {
+                    "raw": 746759,
+                    "fmt": "746.76k",
+                    "longFmt": "746,759"
+                },
+                "filerRelation": "Director",
+                "shares": {
+                    "raw": 38600,
+                    "fmt": "38.6k",
+                    "longFmt": "38,600"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "EKMAN LARS G",
+                "transactionText": "Conversion of Exercise of derivative security at price 14.40 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1573516800,
+                    "fmt": "2019-11-12"
+                },
+                "value": {
+                    "raw": 555840,
+                    "fmt": "555.84k",
+                    "longFmt": "555,840"
+                },
+                "filerRelation": "Director",
+                "shares": {
+                    "raw": 38600,
+                    "fmt": "38.6k",
+                    "longFmt": "38,600"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "THERO JOHN F",
+                "transactionText": "Sale at price 17.05 - 17.88 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1573430400,
+                    "fmt": "2019-11-11"
+                },
+                "value": {
+                    "raw": 8143452,
+                    "fmt": "8.14M",
+                    "longFmt": "8,143,452"
+                },
+                "filerRelation": "Chief Executive Officer",
+                "shares": {
+                    "raw": 475546,
+                    "fmt": "475.55k",
+                    "longFmt": "475,546"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "EKMAN LARS G",
+                "transactionText": "Sale at price 18.00 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1572912000,
+                    "fmt": "2019-11-05"
+                },
+                "value": {
+                    "raw": 115230,
+                    "fmt": "115.23k",
+                    "longFmt": "115,230"
+                },
+                "filerRelation": "Director",
+                "shares": {
+                    "raw": 6400,
+                    "fmt": "6.4k",
+                    "longFmt": "6,400"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "EKMAN LARS G",
+                "transactionText": "Conversion of Exercise of derivative security at price 14.40 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1572912000,
+                    "fmt": "2019-11-05"
+                },
+                "value": {
+                    "raw": 92160,
+                    "fmt": "92.16k",
+                    "longFmt": "92,160"
+                },
+                "filerRelation": "Director",
+                "shares": {
+                    "raw": 6400,
+                    "fmt": "6.4k",
+                    "longFmt": "6,400"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "THERO JOHN F",
+                "transactionText": "Conversion of Exercise of derivative security at price 2.50 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1572220800,
+                    "fmt": "2019-10-28"
+                },
+                "value": {
+                    "raw": 29002,
+                    "fmt": "29k",
+                    "longFmt": "29,002"
+                },
+                "filerRelation": "Chief Executive Officer",
+                "shares": {
+                    "raw": 11601,
+                    "fmt": "11.6k",
+                    "longFmt": "11,601"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "THERO JOHN F",
+                "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1570406400,
+                    "fmt": "2019-10-07"
+                },
+                "value": {
+                    "raw": 0,
+                    "fmt": null,
+                    "longFmt": "0"
+                },
+                "filerRelation": "Chief Executive Officer",
+                "shares": {
+                    "raw": 1265250,
+                    "fmt": "1.27M",
+                    "longFmt": "1,265,250"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KENNEDY JOSEPH T",
+                "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1570406400,
+                    "fmt": "2019-10-07"
+                },
+                "value": {
+                    "raw": 0,
+                    "fmt": null,
+                    "longFmt": "0"
+                },
+                "filerRelation": "General Counsel",
+                "shares": {
+                    "raw": 199500,
+                    "fmt": "199.5k",
+                    "longFmt": "199,500"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KETCHUM STEVEN B",
+                "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1570406400,
+                    "fmt": "2019-10-07"
+                },
+                "value": {
+                    "raw": 0,
+                    "fmt": null,
+                    "longFmt": "0"
+                },
+                "filerRelation": "Officer",
+                "shares": {
+                    "raw": 199500,
+                    "fmt": "199.5k",
+                    "longFmt": "199,500"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "BERG AARON D.",
+                "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1570406400,
+                    "fmt": "2019-10-07"
+                },
+                "value": {
+                    "raw": 0,
+                    "fmt": null,
+                    "longFmt": "0"
+                },
+                "filerRelation": "Officer",
+                "shares": {
+                    "raw": 199500,
+                    "fmt": "199.5k",
+                    "longFmt": "199,500"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "EKMAN LARS G",
+                "transactionText": "Sale at price 15.01 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1567468800,
+                    "fmt": "2019-09-03"
+                },
+                "value": {
+                    "raw": 1365722,
+                    "fmt": "1.37M",
+                    "longFmt": "1,365,722"
+                },
+                "filerRelation": "Director",
+                "shares": {
+                    "raw": 91016,
+                    "fmt": "91.02k",
+                    "longFmt": "91,016"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "EKMAN LARS G",
+                "transactionText": "Conversion of Exercise of derivative security at price 3.06 - 5.58 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1567468800,
+                    "fmt": "2019-09-03"
+                },
+                "value": {
+                    "raw": 320280,
+                    "fmt": "320.28k",
+                    "longFmt": "320,280"
+                },
+                "filerRelation": "Director",
+                "shares": {
+                    "raw": 91016,
+                    "fmt": "91.02k",
+                    "longFmt": "91,016"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "THERO JOHN F",
+                "transactionText": "Conversion of Exercise of derivative security at price 1.02 - 2.50 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1566345600,
+                    "fmt": "2019-08-21"
+                },
+                "value": {
+                    "raw": 300010,
+                    "fmt": "300.01k",
+                    "longFmt": "300,010"
+                },
+                "filerRelation": "Chief Executive Officer",
+                "shares": {
+                    "raw": 191997,
+                    "fmt": "192k",
+                    "longFmt": "191,997"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "THERO JOHN F",
+                "transactionText": "Conversion of Exercise of derivative security at price 1.02 - 2.50 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1566345600,
+                    "fmt": "2019-08-21"
+                },
+                "value": {
+                    "raw": 271008,
+                    "fmt": "271.01k",
+                    "longFmt": "271,008"
+                },
+                "filerRelation": "Chief Executive Officer",
+                "shares": {
+                    "raw": 180396,
+                    "fmt": "180.4k",
+                    "longFmt": "180,396"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "STACK DAVID M",
+                "transactionText": "Sale at price 22.28 per share.",
+                "moneyText": "",
+                "ownership": "I",
+                "startDate": {
+                    "raw": 1562803200,
+                    "fmt": "2019-07-11"
+                },
+                "value": {
+                    "raw": 1158354,
+                    "fmt": "1.16M",
+                    "longFmt": "1,158,354"
+                },
+                "filerRelation": "Director",
+                "shares": {
+                    "raw": 51991,
+                    "fmt": "51.99k",
+                    "longFmt": "51,991"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "STACK DAVID M",
+                "transactionText": "Conversion of Exercise of derivative security at price 2.19 - 2.50 per share.",
+                "moneyText": "",
+                "ownership": "I",
+                "startDate": {
+                    "raw": 1562803200,
+                    "fmt": "2019-07-11"
+                },
+                "value": {
+                    "raw": 121035,
+                    "fmt": "121.03k",
+                    "longFmt": "121,035"
+                },
+                "filerRelation": "Director",
+                "shares": {
+                    "raw": 51991,
+                    "fmt": "51.99k",
+                    "longFmt": "51,991"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "ZAKRZEWSKI JOSEPH S",
+                "transactionText": "Sale at price 23.82 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1562284800,
+                    "fmt": "2019-07-05"
+                },
+                "value": {
+                    "raw": 2381580,
+                    "fmt": "2.38M",
+                    "longFmt": "2,381,580"
+                },
+                "filerRelation": "Director",
+                "shares": {
+                    "raw": 100000,
+                    "fmt": "100k",
+                    "longFmt": "100,000"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "ZAKRZEWSKI JOSEPH S",
+                "transactionText": "Conversion of Exercise of derivative security at price 9.00 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1562284800,
+                    "fmt": "2019-07-05"
+                },
+                "value": {
+                    "raw": 900000,
+                    "fmt": "900k",
+                    "longFmt": "900,000"
+                },
+                "filerRelation": "Director",
+                "shares": {
+                    "raw": 100000,
+                    "fmt": "100k",
+                    "longFmt": "100,000"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "BERG AARON D.",
+                "transactionText": "Sale at price 20.46 - 22.64 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1562112000,
+                    "fmt": "2019-07-03"
+                },
+                "value": {
+                    "raw": 2104378,
+                    "fmt": "2.1M",
+                    "longFmt": "2,104,378"
+                },
+                "filerRelation": "Officer",
+                "shares": {
+                    "raw": 98814,
+                    "fmt": "98.81k",
+                    "longFmt": "98,814"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "BERG AARON D.",
+                "transactionText": "Conversion of Exercise of derivative security at price 2.50 - 2.80 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1562112000,
+                    "fmt": "2019-07-03"
+                },
+                "value": {
+                    "raw": 255810,
+                    "fmt": "255.81k",
+                    "longFmt": "255,810"
+                },
+                "filerRelation": "Officer",
+                "shares": {
+                    "raw": 98814,
+                    "fmt": "98.81k",
+                    "longFmt": "98,814"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KENNEDY JOSEPH T",
+                "transactionText": "Sale at price 19.52 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1561939200,
+                    "fmt": "2019-07-01"
+                },
+                "value": {
+                    "raw": 1057906,
+                    "fmt": "1.06M",
+                    "longFmt": "1,057,906"
+                },
+                "filerRelation": "General Counsel",
+                "shares": {
+                    "raw": 54186,
+                    "fmt": "54.19k",
+                    "longFmt": "54,186"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KENNEDY JOSEPH T",
+                "transactionText": "Conversion of Exercise of derivative security at price 1.40 - 3.80 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1561939200,
+                    "fmt": "2019-07-01"
+                },
+                "value": {
+                    "raw": 69962,
+                    "fmt": "69.96k",
+                    "longFmt": "69,962"
+                },
+                "filerRelation": "General Counsel",
+                "shares": {
+                    "raw": 27244,
+                    "fmt": "27.24k",
+                    "longFmt": "27,244"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KALB MICHAEL WAYNE CPA",
+                "transactionText": "Sale at price 19.67 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1561939200,
+                    "fmt": "2019-07-01"
+                },
+                "value": {
+                    "raw": 983270,
+                    "fmt": "983.27k",
+                    "longFmt": "983,270"
+                },
+                "filerRelation": "Chief Financial Officer",
+                "shares": {
+                    "raw": 50000,
+                    "fmt": "50k",
+                    "longFmt": "50,000"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KALB MICHAEL WAYNE CPA",
+                "transactionText": "Conversion of Exercise of derivative security at price 2.19 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1561939200,
+                    "fmt": "2019-07-01"
+                },
+                "value": {
+                    "raw": 109500,
+                    "fmt": "109.5k",
+                    "longFmt": "109,500"
+                },
+                "filerRelation": "Chief Financial Officer",
+                "shares": {
+                    "raw": 50000,
+                    "fmt": "50k",
+                    "longFmt": "50,000"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "THERO JOHN F",
+                "transactionText": "",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1561680000,
+                    "fmt": "2019-06-28"
+                },
+                "filerRelation": "Chief Executive Officer",
+                "shares": {
+                    "raw": 37500,
+                    "fmt": "37.5k",
+                    "longFmt": "37,500"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KENNEDY JOSEPH T",
+                "transactionText": "",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1561680000,
+                    "fmt": "2019-06-28"
+                },
+                "filerRelation": "General Counsel",
+                "shares": {
+                    "raw": 53437,
+                    "fmt": "53.44k",
+                    "longFmt": "53,437"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "BERG AARON D.",
+                "transactionText": "Sale at price 18.59 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1561334400,
+                    "fmt": "2019-06-24"
+                },
+                "value": {
+                    "raw": 2104521,
+                    "fmt": "2.1M",
+                    "longFmt": "2,104,521"
+                },
+                "filerRelation": "Officer",
+                "shares": {
+                    "raw": 113195,
+                    "fmt": "113.19k",
+                    "longFmt": "113,195"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "BERG AARON D.",
+                "transactionText": "Conversion of Exercise of derivative security at price 2.50 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1561334400,
+                    "fmt": "2019-06-24"
+                },
+                "value": {
+                    "raw": 250000,
+                    "fmt": "250k",
+                    "longFmt": "250,000"
+                },
+                "filerRelation": "Officer",
+                "shares": {
+                    "raw": 100000,
+                    "fmt": "100k",
+                    "longFmt": "100,000"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "ZAKRZEWSKI JOSEPH S",
+                "transactionText": "Sale at price 19.02 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1560816000,
+                    "fmt": "2019-06-18"
+                },
+                "value": {
+                    "raw": 1902090,
+                    "fmt": "1.9M",
+                    "longFmt": "1,902,090"
+                },
+                "filerRelation": "Director",
+                "shares": {
+                    "raw": 100000,
+                    "fmt": "100k",
+                    "longFmt": "100,000"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "ZAKRZEWSKI JOSEPH S",
+                "transactionText": "Conversion of Exercise of derivative security at price 3.40 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1560816000,
+                    "fmt": "2019-06-18"
+                },
+                "value": {
+                    "raw": 340000,
+                    "fmt": "340k",
+                    "longFmt": "340,000"
+                },
+                "filerRelation": "Director",
+                "shares": {
+                    "raw": 100000,
+                    "fmt": "100k",
+                    "longFmt": "100,000"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KENNEDY JOSEPH T",
+                "transactionText": "Sale at price 17.92 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1559260800,
+                    "fmt": "2019-05-31"
+                },
+                "value": {
+                    "raw": 488058,
+                    "fmt": "488.06k",
+                    "longFmt": "488,058"
+                },
+                "filerRelation": "General Counsel",
+                "shares": {
+                    "raw": 27229,
+                    "fmt": "27.23k",
+                    "longFmt": "27,229"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KENNEDY JOSEPH T",
+                "transactionText": "Conversion of Exercise of derivative security at price 1.40 - 3.80 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1559260800,
+                    "fmt": "2019-05-31"
+                },
+                "value": {
+                    "raw": 69925,
+                    "fmt": "69.92k",
+                    "longFmt": "69,925"
+                },
+                "filerRelation": "General Counsel",
+                "shares": {
+                    "raw": 27229,
+                    "fmt": "27.23k",
+                    "longFmt": "27,229"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "STACK DAVID M",
+                "transactionText": "Sale at price 18.45 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1559088000,
+                    "fmt": "2019-05-29"
+                },
+                "value": {
+                    "raw": 623534,
+                    "fmt": "623.53k",
+                    "longFmt": "623,534"
+                },
+                "filerRelation": "Director",
+                "shares": {
+                    "raw": 33799,
+                    "fmt": "33.8k",
+                    "longFmt": "33,799"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "STACK DAVID M",
+                "transactionText": "Conversion of Exercise of derivative security at price 3.21 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1559088000,
+                    "fmt": "2019-05-29"
+                },
+                "value": {
+                    "raw": 108495,
+                    "fmt": "108.5k",
+                    "longFmt": "108,495"
+                },
+                "filerRelation": "Director",
+                "shares": {
+                    "raw": 33799,
+                    "fmt": "33.8k",
+                    "longFmt": "33,799"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "STACK DAVID M",
+                "transactionText": "Sale at price 18.00 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1558051200,
+                    "fmt": "2019-05-17"
+                },
+                "value": {
+                    "raw": 237139,
+                    "fmt": "237.14k",
+                    "longFmt": "237,139"
+                },
+                "filerRelation": "Director",
+                "shares": {
+                    "raw": 13174,
+                    "fmt": "13.17k",
+                    "longFmt": "13,174"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "STACK DAVID M",
+                "transactionText": "Conversion of Exercise of derivative security at price 3.21 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1558051200,
+                    "fmt": "2019-05-17"
+                },
+                "value": {
+                    "raw": 42289,
+                    "fmt": "42.29k",
+                    "longFmt": "42,289"
+                },
+                "filerRelation": "Director",
+                "shares": {
+                    "raw": 13174,
+                    "fmt": "13.17k",
+                    "longFmt": "13,174"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "BERG AARON D.",
+                "transactionText": "",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1556668800,
+                    "fmt": "2019-05-01"
+                },
+                "filerRelation": "Officer",
+                "shares": {
+                    "raw": 26000,
+                    "fmt": "26k",
+                    "longFmt": "26,000"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KENNEDY JOSEPH T",
+                "transactionText": "Sale at price 18.69 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1556582400,
+                    "fmt": "2019-04-30"
+                },
+                "value": {
+                    "raw": 508839,
+                    "fmt": "508.84k",
+                    "longFmt": "508,839"
+                },
+                "filerRelation": "General Counsel",
+                "shares": {
+                    "raw": 27230,
+                    "fmt": "27.23k",
+                    "longFmt": "27,230"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KENNEDY JOSEPH T",
+                "transactionText": "Conversion of Exercise of derivative security at price 1.40 - 3.80 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1556582400,
+                    "fmt": "2019-04-30"
+                },
+                "value": {
+                    "raw": 69927,
+                    "fmt": "69.93k",
+                    "longFmt": "69,927"
+                },
+                "filerRelation": "General Counsel",
+                "shares": {
+                    "raw": 27230,
+                    "fmt": "27.23k",
+                    "longFmt": "27,230"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KETCHUM STEVEN B",
+                "transactionText": "Sale at price 18.67 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1556582400,
+                    "fmt": "2019-04-30"
+                },
+                "value": {
+                    "raw": 178107,
+                    "fmt": "178.11k",
+                    "longFmt": "178,107"
+                },
+                "filerRelation": "Officer",
+                "shares": {
+                    "raw": 9541,
+                    "fmt": "9.54k",
+                    "longFmt": "9,541"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KETCHUM STEVEN B",
+                "transactionText": "Conversion of Exercise of derivative security at price 1.40 - 2.95 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1556582400,
+                    "fmt": "2019-04-30"
+                },
+                "value": {
+                    "raw": 22235,
+                    "fmt": "22.23k",
+                    "longFmt": "22,235"
+                },
+                "filerRelation": "Officer",
+                "shares": {
+                    "raw": 9541,
+                    "fmt": "9.54k",
+                    "longFmt": "9,541"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KENNEDY JOSEPH T",
+                "transactionText": "Sale at price 20.03 - 20.80 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1554076800,
+                    "fmt": "2019-04-01"
+                },
+                "value": {
+                    "raw": 1086122,
+                    "fmt": "1.09M",
+                    "longFmt": "1,086,122"
+                },
+                "filerRelation": "General Counsel",
+                "shares": {
+                    "raw": 54172,
+                    "fmt": "54.17k",
+                    "longFmt": "54,172"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KENNEDY JOSEPH T",
+                "transactionText": "Conversion of Exercise of derivative security at price 1.40 - 3.80 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1554076800,
+                    "fmt": "2019-04-01"
+                },
+                "value": {
+                    "raw": 69926,
+                    "fmt": "69.93k",
+                    "longFmt": "69,926"
+                },
+                "filerRelation": "General Counsel",
+                "shares": {
+                    "raw": 80667,
+                    "fmt": "80.67k",
+                    "longFmt": "80,667"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KETCHUM STEVEN B",
+                "transactionText": "Sale at price 20.05 - 20.78 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1554076800,
+                    "fmt": "2019-04-01"
+                },
+                "value": {
+                    "raw": 191392,
+                    "fmt": "191.39k",
+                    "longFmt": "191,392"
+                },
+                "filerRelation": "Officer",
+                "shares": {
+                    "raw": 9542,
+                    "fmt": "9.54k",
+                    "longFmt": "9,542"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KETCHUM STEVEN B",
+                "transactionText": "Conversion of Exercise of derivative security at price 1.40 - 2.95 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1554076800,
+                    "fmt": "2019-04-01"
+                },
+                "value": {
+                    "raw": 22236,
+                    "fmt": "22.24k",
+                    "longFmt": "22,236"
+                },
+                "filerRelation": "Officer",
+                "shares": {
+                    "raw": 9542,
+                    "fmt": "9.54k",
+                    "longFmt": "9,542"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "THERO JOHN F",
+                "transactionText": "",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1553817600,
+                    "fmt": "2019-03-29"
+                },
+                "filerRelation": "Chief Executive Officer",
+                "shares": {
+                    "raw": 37500,
+                    "fmt": "37.5k",
+                    "longFmt": "37,500"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "THERO JOHN F",
+                "transactionText": "Sale at price 21.15 - 21.70 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1551657600,
+                    "fmt": "2019-03-04"
+                },
+                "value": {
+                    "raw": 5327234,
+                    "fmt": "5.33M",
+                    "longFmt": "5,327,234"
+                },
+                "filerRelation": "Chief Executive Officer",
+                "shares": {
+                    "raw": 250000,
+                    "fmt": "250k",
+                    "longFmt": "250,000"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "EKMAN LARS G",
+                "transactionText": "Sale at price 21.16 - 21.71 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1551657600,
+                    "fmt": "2019-03-04"
+                },
+                "value": {
+                    "raw": 2884905,
+                    "fmt": "2.88M",
+                    "longFmt": "2,884,905"
+                },
+                "filerRelation": "Director",
+                "shares": {
+                    "raw": 135377,
+                    "fmt": "135.38k",
+                    "longFmt": "135,377"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "EKMAN LARS G",
+                "transactionText": "Conversion of Exercise of derivative security at price 1.03 - 2.50 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1551657600,
+                    "fmt": "2019-03-04"
+                },
+                "value": {
+                    "raw": 276743,
+                    "fmt": "276.74k",
+                    "longFmt": "276,743"
+                },
+                "filerRelation": "Director",
+                "shares": {
+                    "raw": 135377,
+                    "fmt": "135.38k",
+                    "longFmt": "135,377"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KETCHUM STEVEN B",
+                "transactionText": "Sale at price 20.67 - 22.64 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1551398400,
+                    "fmt": "2019-03-01"
+                },
+                "value": {
+                    "raw": 1213524,
+                    "fmt": "1.21M",
+                    "longFmt": "1,213,524"
+                },
+                "filerRelation": "Officer",
+                "shares": {
+                    "raw": 55543,
+                    "fmt": "55.54k",
+                    "longFmt": "55,543"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KETCHUM STEVEN B",
+                "transactionText": "Conversion of Exercise of derivative security at price 1.40 - 2.95 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1551398400,
+                    "fmt": "2019-03-01"
+                },
+                "value": {
+                    "raw": 137239,
+                    "fmt": "137.24k",
+                    "longFmt": "137,239"
+                },
+                "filerRelation": "Officer",
+                "shares": {
+                    "raw": 55543,
+                    "fmt": "55.54k",
+                    "longFmt": "55,543"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KALB MICHAEL WAYNE CPA",
+                "transactionText": "Sale at price 20.89 - 22.59 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1551398400,
+                    "fmt": "2019-03-01"
+                },
+                "value": {
+                    "raw": 2209098,
+                    "fmt": "2.21M",
+                    "longFmt": "2,209,098"
+                },
+                "filerRelation": "Chief Financial Officer",
+                "shares": {
+                    "raw": 100000,
+                    "fmt": "100k",
+                    "longFmt": "100,000"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KALB MICHAEL WAYNE CPA",
+                "transactionText": "Conversion of Exercise of derivative security at price 2.19 - 3.80 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1551398400,
+                    "fmt": "2019-03-01"
+                },
+                "value": {
+                    "raw": 283350,
+                    "fmt": "283.35k",
+                    "longFmt": "283,350"
+                },
+                "filerRelation": "Chief Financial Officer",
+                "shares": {
+                    "raw": 100000,
+                    "fmt": "100k",
+                    "longFmt": "100,000"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KENNEDY JOSEPH T",
+                "transactionText": "Sale at price 20.72 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1551312000,
+                    "fmt": "2019-02-28"
+                },
+                "value": {
+                    "raw": 564172,
+                    "fmt": "564.17k",
+                    "longFmt": "564,172"
+                },
+                "filerRelation": "General Counsel",
+                "shares": {
+                    "raw": 27231,
+                    "fmt": "27.23k",
+                    "longFmt": "27,231"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KENNEDY JOSEPH T",
+                "transactionText": "Conversion of Exercise of derivative security at price 1.40 - 3.80 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1551312000,
+                    "fmt": "2019-02-28"
+                },
+                "value": {
+                    "raw": 69928,
+                    "fmt": "69.93k",
+                    "longFmt": "69,928"
+                },
+                "filerRelation": "General Counsel",
+                "shares": {
+                    "raw": 27231,
+                    "fmt": "27.23k",
+                    "longFmt": "27,231"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "VAN HEEK G JAN",
+                "transactionText": "Sale at price 20.02 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1550793600,
+                    "fmt": "2019-02-22"
+                },
+                "value": {
+                    "raw": 4071423,
+                    "fmt": "4.07M",
+                    "longFmt": "4,071,423"
+                },
+                "filerRelation": "Director",
+                "shares": {
+                    "raw": 203382,
+                    "fmt": "203.38k",
+                    "longFmt": "203,382"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "VAN HEEK G JAN",
+                "transactionText": "Conversion of Exercise of derivative security at price 1.03 - 14.40 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1550793600,
+                    "fmt": "2019-02-22"
+                },
+                "value": {
+                    "raw": 857170,
+                    "fmt": "857.17k",
+                    "longFmt": "857,170"
+                },
+                "filerRelation": "Director",
+                "shares": {
+                    "raw": 192347,
+                    "fmt": "192.35k",
+                    "longFmt": "192,347"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "ZAKRZEWSKI JOSEPH S",
+                "transactionText": "Sale at price 19.90 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1550793600,
+                    "fmt": "2019-02-22"
+                },
+                "value": {
+                    "raw": 3594438,
+                    "fmt": "3.59M",
+                    "longFmt": "3,594,438"
+                },
+                "filerRelation": "Director",
+                "shares": {
+                    "raw": 180625,
+                    "fmt": "180.62k",
+                    "longFmt": "180,625"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "ZAKRZEWSKI JOSEPH S",
+                "transactionText": "Conversion of Exercise of derivative security at price 8.10 - 8.86 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1550793600,
+                    "fmt": "2019-02-22"
+                },
+                "value": {
+                    "raw": 1572312,
+                    "fmt": "1.57M",
+                    "longFmt": "1,572,312"
+                },
+                "filerRelation": "Director",
+                "shares": {
+                    "raw": 180625,
+                    "fmt": "180.62k",
+                    "longFmt": "180,625"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "PETERSON KRISTINE",
+                "transactionText": "Sale at price 20.02 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1550793600,
+                    "fmt": "2019-02-22"
+                },
+                "value": {
+                    "raw": 3274038,
+                    "fmt": "3.27M",
+                    "longFmt": "3,274,038"
+                },
+                "filerRelation": "Director",
+                "shares": {
+                    "raw": 163500,
+                    "fmt": "163.5k",
+                    "longFmt": "163,500"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "PETERSON KRISTINE",
+                "transactionText": "Conversion of Exercise of derivative security at price 3.67 - 14.40 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1550793600,
+                    "fmt": "2019-02-22"
+                },
+                "value": {
+                    "raw": 947730,
+                    "fmt": "947.73k",
+                    "longFmt": "947,730"
+                },
+                "filerRelation": "Director",
+                "shares": {
+                    "raw": 163500,
+                    "fmt": "163.5k",
+                    "longFmt": "163,500"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KALB MICHAEL WAYNE CPA",
+                "transactionText": "Sale at price 18.97 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1550793600,
+                    "fmt": "2019-02-22"
+                },
+                "value": {
+                    "raw": 948500,
+                    "fmt": "948.5k",
+                    "longFmt": "948,500"
+                },
+                "filerRelation": "Chief Financial Officer",
+                "shares": {
+                    "raw": 50000,
+                    "fmt": "50k",
+                    "longFmt": "50,000"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KALB MICHAEL WAYNE CPA",
+                "transactionText": "Conversion of Exercise of derivative security at price 2.95 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1550793600,
+                    "fmt": "2019-02-22"
+                },
+                "value": {
+                    "raw": 147500,
+                    "fmt": "147.5k",
+                    "longFmt": "147,500"
+                },
+                "filerRelation": "Chief Financial Officer",
+                "shares": {
+                    "raw": 50000,
+                    "fmt": "50k",
+                    "longFmt": "50,000"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KALB MICHAEL WAYNE CPA",
+                "transactionText": "Sale at price 17.58 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1550188800,
+                    "fmt": "2019-02-15"
+                },
+                "value": {
+                    "raw": 439525,
+                    "fmt": "439.52k",
+                    "longFmt": "439,525"
+                },
+                "filerRelation": "Chief Financial Officer",
+                "shares": {
+                    "raw": 25000,
+                    "fmt": "25k",
+                    "longFmt": "25,000"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KETCHUM STEVEN B",
+                "transactionText": "Sale at price 17.06 - 17.49 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1548979200,
+                    "fmt": "2019-02-01"
+                },
+                "value": {
+                    "raw": 644373,
+                    "fmt": "644.37k",
+                    "longFmt": "644,373"
+                },
+                "filerRelation": "Officer",
+                "shares": {
+                    "raw": 37530,
+                    "fmt": "37.53k",
+                    "longFmt": "37,530"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "THERO JOHN F",
+                "transactionText": "",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1548892800,
+                    "fmt": "2019-01-31"
+                },
+                "filerRelation": "Chief Executive Officer",
+                "shares": {
+                    "raw": 363334,
+                    "fmt": "363.33k",
+                    "longFmt": "363,334"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KENNEDY JOSEPH T",
+                "transactionText": "Sale at price 17.49 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1548892800,
+                    "fmt": "2019-01-31"
+                },
+                "value": {
+                    "raw": 745468,
+                    "fmt": "745.47k",
+                    "longFmt": "745,468"
+                },
+                "filerRelation": "General Counsel",
+                "shares": {
+                    "raw": 42624,
+                    "fmt": "42.62k",
+                    "longFmt": "42,624"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KENNEDY JOSEPH T",
+                "transactionText": "Conversion of Exercise of derivative security at price 1.02 - 3.80 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1548892800,
+                    "fmt": "2019-01-31"
+                },
+                "value": {
+                    "raw": 71910,
+                    "fmt": "71.91k",
+                    "longFmt": "71,910"
+                },
+                "filerRelation": "General Counsel",
+                "shares": {
+                    "raw": 117846,
+                    "fmt": "117.85k",
+                    "longFmt": "117,846"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KETCHUM STEVEN B",
+                "transactionText": "Conversion of Exercise of derivative security at price 1.40 - 2.95 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1548892800,
+                    "fmt": "2019-01-31"
+                },
+                "value": {
+                    "raw": 22235,
+                    "fmt": "22.23k",
+                    "longFmt": "22,235"
+                },
+                "filerRelation": "Officer",
+                "shares": {
+                    "raw": 91207,
+                    "fmt": "91.21k",
+                    "longFmt": "91,207"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KALB MICHAEL WAYNE CPA",
+                "transactionText": "",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1548892800,
+                    "fmt": "2019-01-31"
+                },
+                "filerRelation": "Chief Financial Officer",
+                "shares": {
+                    "raw": 55000,
+                    "fmt": "55k",
+                    "longFmt": "55,000"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KENNEDY JOSEPH T",
+                "transactionText": "Sale at price 17.66 - 17.95 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1548288000,
+                    "fmt": "2019-01-24"
+                },
+                "value": {
+                    "raw": 18487911,
+                    "fmt": "18.49M",
+                    "longFmt": "18,487,911"
+                },
+                "filerRelation": "General Counsel",
+                "shares": {
+                    "raw": 1040194,
+                    "fmt": "1.04M",
+                    "longFmt": "1,040,194"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KENNEDY JOSEPH T",
+                "transactionText": "Conversion of Exercise of derivative security at price 1.02 - 8.86 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1548288000,
+                    "fmt": "2019-01-24"
+                },
+                "value": {
+                    "raw": 5015403,
+                    "fmt": "5.02M",
+                    "longFmt": "5,015,403"
+                },
+                "filerRelation": "General Counsel",
+                "shares": {
+                    "raw": 822260,
+                    "fmt": "822.26k",
+                    "longFmt": "822,260"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KENNEDY JOSEPH T",
+                "transactionText": "Sale at price 18.92 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1547164800,
+                    "fmt": "2019-01-11"
+                },
+                "value": {
+                    "raw": 60033,
+                    "fmt": "60.03k",
+                    "longFmt": "60,033"
+                },
+                "filerRelation": "General Counsel",
+                "shares": {
+                    "raw": 3173,
+                    "fmt": "3.17k",
+                    "longFmt": "3,173"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KENNEDY JOSEPH T",
+                "transactionText": "Conversion of Exercise of derivative security at price 2.95 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1547164800,
+                    "fmt": "2019-01-11"
+                },
+                "value": {
+                    "raw": 9360,
+                    "fmt": "9.36k",
+                    "longFmt": "9,360"
+                },
+                "filerRelation": "General Counsel",
+                "shares": {
+                    "raw": 3173,
+                    "fmt": "3.17k",
+                    "longFmt": "3,173"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "STACK DAVID M",
+                "transactionText": "Sale at price 18.00 per share.",
+                "moneyText": "",
+                "ownership": "D/I",
+                "startDate": {
+                    "raw": 1547078400,
+                    "fmt": "2019-01-10"
+                },
+                "value": {
+                    "raw": 2259072,
+                    "fmt": "2.26M",
+                    "longFmt": "2,259,072"
+                },
+                "filerRelation": "Director",
+                "shares": {
+                    "raw": 125504,
+                    "fmt": "125.5k",
+                    "longFmt": "125,504"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "STACK DAVID M",
+                "transactionText": "Conversion of Exercise of derivative security at price 1.87 - 9.34 per share.",
+                "moneyText": "",
+                "ownership": "D/I",
+                "startDate": {
+                    "raw": 1547078400,
+                    "fmt": "2019-01-10"
+                },
+                "value": {
+                    "raw": 657027,
+                    "fmt": "657.03k",
+                    "longFmt": "657,027"
+                },
+                "filerRelation": "Director",
+                "shares": {
+                    "raw": 125504,
+                    "fmt": "125.5k",
+                    "longFmt": "125,504"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "EKMAN LARS G",
+                "transactionText": "Sale at price 14.92 - 18.62 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1547078400,
+                    "fmt": "2019-01-10"
+                },
+                "value": {
+                    "raw": 2426489,
+                    "fmt": "2.43M",
+                    "longFmt": "2,426,489"
+                },
+                "filerRelation": "Director",
+                "shares": {
+                    "raw": 140416,
+                    "fmt": "140.42k",
+                    "longFmt": "140,416"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "EKMAN LARS G",
+                "transactionText": "Conversion of Exercise of derivative security at price 1.03 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1547078400,
+                    "fmt": "2019-01-10"
+                },
+                "value": {
+                    "raw": 103428,
+                    "fmt": "103.43k",
+                    "longFmt": "103,428"
+                },
+                "filerRelation": "Director",
+                "shares": {
+                    "raw": 100416,
+                    "fmt": "100.42k",
+                    "longFmt": "100,416"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "ZAKRZEWSKI JOSEPH S",
+                "transactionText": "Sale at price 16.00 - 17.96 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1547078400,
+                    "fmt": "2019-01-10"
+                },
+                "value": {
+                    "raw": 3396390,
+                    "fmt": "3.4M",
+                    "longFmt": "3,396,390"
+                },
+                "filerRelation": "Director",
+                "shares": {
+                    "raw": 200000,
+                    "fmt": "200k",
+                    "longFmt": "200,000"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "ZAKRZEWSKI JOSEPH S",
+                "transactionText": "Conversion of Exercise of derivative security at price 3.40 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1547078400,
+                    "fmt": "2019-01-10"
+                },
+                "value": {
+                    "raw": 680000,
+                    "fmt": "680k",
+                    "longFmt": "680,000"
+                },
+                "filerRelation": "Director",
+                "shares": {
+                    "raw": 200000,
+                    "fmt": "200k",
+                    "longFmt": "200,000"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KALB MICHAEL WAYNE CPA",
+                "transactionText": "Sale at price 15.26 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1546992000,
+                    "fmt": "2019-01-09"
+                },
+                "value": {
+                    "raw": 3051080,
+                    "fmt": "3.05M",
+                    "longFmt": "3,051,080"
+                },
+                "filerRelation": "Chief Financial Officer",
+                "shares": {
+                    "raw": 200000,
+                    "fmt": "200k",
+                    "longFmt": "200,000"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KALB MICHAEL WAYNE CPA",
+                "transactionText": "Conversion of Exercise of derivative security at price 2.19 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1546992000,
+                    "fmt": "2019-01-09"
+                },
+                "value": {
+                    "raw": 438000,
+                    "fmt": "438k",
+                    "longFmt": "438,000"
+                },
+                "filerRelation": "Chief Financial Officer",
+                "shares": {
+                    "raw": 200000,
+                    "fmt": "200k",
+                    "longFmt": "200,000"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "ZAKRZEWSKI JOSEPH S",
+                "transactionText": "Sale at price 13.03 - 13.19 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1546387200,
+                    "fmt": "2019-01-02"
+                },
+                "value": {
+                    "raw": 6882371,
+                    "fmt": "6.88M",
+                    "longFmt": "6,882,371"
+                },
+                "filerRelation": "Director",
+                "shares": {
+                    "raw": 526500,
+                    "fmt": "526.5k",
+                    "longFmt": "526,500"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "ZAKRZEWSKI JOSEPH S",
+                "transactionText": "Conversion of Exercise of derivative security at price 1.35 - 3.40 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1546387200,
+                    "fmt": "2019-01-02"
+                },
+                "value": {
+                    "raw": 1237250,
+                    "fmt": "1.24M",
+                    "longFmt": "1,237,250"
+                },
+                "filerRelation": "Director",
+                "shares": {
+                    "raw": 385000,
+                    "fmt": "385k",
+                    "longFmt": "385,000"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "THERO JOHN F",
+                "transactionText": "",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1546214400,
+                    "fmt": "2018-12-31"
+                },
+                "filerRelation": "Chief Executive Officer",
+                "shares": {
+                    "raw": 37500,
+                    "fmt": "37.5k",
+                    "longFmt": "37,500"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KENNEDY JOSEPH T",
+                "transactionText": "Sale at price 13.49 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1546214400,
+                    "fmt": "2018-12-31"
+                },
+                "value": {
+                    "raw": 363547,
+                    "fmt": "363.55k",
+                    "longFmt": "363,547"
+                },
+                "filerRelation": "General Counsel",
+                "shares": {
+                    "raw": 26943,
+                    "fmt": "26.94k",
+                    "longFmt": "26,943"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KENNEDY JOSEPH T",
+                "transactionText": "",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1546214400,
+                    "fmt": "2018-12-31"
+                },
+                "filerRelation": "General Counsel",
+                "shares": {
+                    "raw": 53438,
+                    "fmt": "53.44k",
+                    "longFmt": "53,438"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KETCHUM STEVEN B",
+                "transactionText": "Sale at price 13.51 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1546214400,
+                    "fmt": "2018-12-31"
+                },
+                "value": {
+                    "raw": 230212,
+                    "fmt": "230.21k",
+                    "longFmt": "230,212"
+                },
+                "filerRelation": "Officer",
+                "shares": {
+                    "raw": 17041,
+                    "fmt": "17.04k",
+                    "longFmt": "17,041"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            },
+            {
+                "filerName": "KETCHUM STEVEN B",
+                "transactionText": "Conversion of Exercise of derivative security at price 1.40 - 2.95 per share.",
+                "moneyText": "",
+                "ownership": "D",
+                "startDate": {
+                    "raw": 1546214400,
+                    "fmt": "2018-12-31"
+                },
+                "value": {
+                    "raw": 40985,
+                    "fmt": "40.98k",
+                    "longFmt": "40,985"
+                },
+                "filerRelation": "Officer",
+                "shares": {
+                    "raw": 17041,
+                    "fmt": "17.04k",
+                    "longFmt": "17,041"
+                },
+                "filerUrl": "",
+                "maxAge": 1
+            }
+        ],
+        "maxAge": 1
+    },
+    "insiderHolders": {
+        "holders": [
+            {
+                "maxAge": 1,
+                "name": "BERG AARON D.",
+                "relation": "Officer",
+                "url": "",
+                "transactionDescription": "Conversion of Exercise of derivative security",
+                "latestTransDate": {
+                    "raw": 1601424000,
+                    "fmt": "2020-09-30"
+                },
+                "positionDirect": {
+                    "raw": 212942,
+                    "fmt": "212.94k",
+                    "longFmt": "212,942"
+                },
+                "positionDirectDate": {
+                    "raw": 1601424000,
+                    "fmt": "2020-09-30"
+                }
+            },
+            {
+                "maxAge": 1,
+                "name": "EKMAN LARS G",
+                "relation": "Director",
+                "url": "",
+                "transactionDescription": "Sale",
+                "latestTransDate": {
+                    "raw": 1573516800,
+                    "fmt": "2019-11-12"
+                },
+                "positionDirectDate": {
+                    "raw": 1573516800,
+                    "fmt": "2019-11-12"
+                }
+            },
+            {
+                "maxAge": 1,
+                "name": "KALB MICHAEL WAYNE CPA",
+                "relation": "Chief Financial Officer",
+                "url": "",
+                "transactionDescription": "Conversion of Exercise of derivative security",
+                "latestTransDate": {
+                    "raw": 1601424000,
+                    "fmt": "2020-09-30"
+                },
+                "positionDirect": {
+                    "raw": 96913,
+                    "fmt": "96.91k",
+                    "longFmt": "96,913"
+                },
+                "positionDirectDate": {
+                    "raw": 1601424000,
+                    "fmt": "2020-09-30"
+                }
+            },
+            {
+                "maxAge": 1,
+                "name": "KENNEDY JOSEPH T",
+                "relation": "General Counsel",
+                "url": "",
+                "transactionDescription": "Conversion of Exercise of derivative security",
+                "latestTransDate": {
+                    "raw": 1601424000,
+                    "fmt": "2020-09-30"
+                },
+                "positionDirect": {
+                    "raw": 209269,
+                    "fmt": "209.27k",
+                    "longFmt": "209,269"
+                },
+                "positionDirectDate": {
+                    "raw": 1601424000,
+                    "fmt": "2020-09-30"
+                }
+            },
+            {
+                "maxAge": 1,
+                "name": "KETCHUM STEVEN B",
+                "relation": "Officer",
+                "url": "",
+                "transactionDescription": "Conversion of Exercise of derivative security",
+                "latestTransDate": {
+                    "raw": 1601424000,
+                    "fmt": "2020-09-30"
+                },
+                "positionDirect": {
+                    "raw": 526854,
+                    "fmt": "526.85k",
+                    "longFmt": "526,854"
+                },
+                "positionDirectDate": {
+                    "raw": 1601424000,
+                    "fmt": "2020-09-30"
+                }
+            },
+            {
+                "maxAge": 1,
+                "name": "PETERSON KRISTINE",
+                "relation": "Director",
+                "url": "",
+                "transactionDescription": "Sale",
+                "latestTransDate": {
+                    "raw": 1550793600,
+                    "fmt": "2019-02-22"
+                },
+                "positionDirectDate": {
+                    "raw": 1550793600,
+                    "fmt": "2019-02-22"
+                }
+            },
+            {
+                "maxAge": 1,
+                "name": "STACK DAVID M",
+                "relation": "Director",
+                "url": "",
+                "transactionDescription": "Sale",
+                "latestTransDate": {
+                    "raw": 1562803200,
+                    "fmt": "2019-07-11"
+                },
+                "positionIndirectDate": {
+                    "raw": 1562803200,
+                    "fmt": "2019-07-11"
+                }
+            },
+            {
+                "maxAge": 1,
+                "name": "THERO JOHN F",
+                "relation": "Chief Executive Officer",
+                "url": "",
+                "transactionDescription": "Conversion of Exercise of derivative security",
+                "latestTransDate": {
+                    "raw": 1601424000,
+                    "fmt": "2020-09-30"
+                },
+                "positionDirect": {
+                    "raw": 2542930,
+                    "fmt": "2.54M",
+                    "longFmt": "2,542,930"
+                },
+                "positionDirectDate": {
+                    "raw": 1601424000,
+                    "fmt": "2020-09-30"
+                }
+            },
+            {
+                "maxAge": 1,
+                "name": "VAN HEEK G JAN",
+                "relation": "Director",
+                "url": "",
+                "transactionDescription": "Sale",
+                "latestTransDate": {
+                    "raw": 1550793600,
+                    "fmt": "2019-02-22"
+                },
+                "positionDirect": {
+                    "raw": 14168,
+                    "fmt": "14.17k",
+                    "longFmt": "14,168"
+                },
+                "positionDirectDate": {
+                    "raw": 1550793600,
+                    "fmt": "2019-02-22"
+                }
+            },
+            {
+                "maxAge": 1,
+                "name": "ZAKRZEWSKI JOSEPH S",
+                "relation": "Director",
+                "url": "",
+                "transactionDescription": "Conversion of Exercise of derivative security",
+                "latestTransDate": {
+                    "raw": 1603238400,
+                    "fmt": "2020-10-21"
+                },
+                "positionDirect": {
+                    "raw": 184547,
+                    "fmt": "184.55k",
+                    "longFmt": "184,547"
+                },
+                "positionDirectDate": {
+                    "raw": 1603238400,
+                    "fmt": "2020-10-21"
+                }
+            }
+        ],
+        "maxAge": 1
+    },
+    "netSharePurchaseActivity": {
+        "period": "6m",
+        "netPercentInsiderShares": {
+            "raw": 0.079,
+            "fmt": "7.90%"
+        },
+        "netInfoCount": {
+            "raw": 31,
+            "fmt": "31",
+            "longFmt": "31"
+        },
+        "totalInsiderShares": {
+            "raw": 3867300,
+            "fmt": "3.87M",
+            "longFmt": "3,867,300"
+        },
+        "buyInfoShares": {
+            "raw": 283486,
+            "fmt": "283.49k",
+            "longFmt": "283,486"
+        },
+        "buyPercentInsiderShares": {
+            "raw": 0.079,
+            "fmt": "7.90%"
+        },
+        "sellInfoCount": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+        },
+        "maxAge": 1,
+        "buyInfoCount": {
+            "raw": 31,
+            "fmt": "31",
+            "longFmt": "31"
+        },
+        "netInfoShares": {
+            "raw": 283486,
+            "fmt": "283.49k",
+            "longFmt": "283,486"
+        }
+    },
+    "majorHoldersBreakdown": {
+        "maxAge": 1,
+        "insidersPercentHeld": {
+            "raw": 0.00995,
+            "fmt": "0.99%"
+        },
+        "institutionsPercentHeld": {
+            "raw": 0.4374,
+            "fmt": "43.74%"
+        },
+        "institutionsFloatPercentHeld": {
+            "raw": 0.4418,
+            "fmt": "44.18%"
+        },
+        "institutionsCount": {
+            "raw": 382,
+            "fmt": "382",
+            "longFmt": "382"
+        }
+    },
+    "financialData": {
+        "ebitdaMargins": {
+            "raw": -0.03179,
+            "fmt": "-3.18%"
+        },
+        "profitMargins": {
+            "raw": -0.022950001,
+            "fmt": "-2.30%"
+        },
+        "grossMargins": {
+            "raw": 0.78073996,
+            "fmt": "78.07%"
+        },
+        "operatingCashflow": {
+            "raw": 18538000,
+            "fmt": "18.54M",
+            "longFmt": "18,538,000"
+        },
+        "revenueGrowth": {
+            "raw": 0.343,
+            "fmt": "34.30%"
+        },
+        "operatingMargins": {
+            "raw": -0.03462,
+            "fmt": "-3.46%"
+        },
+        "ebitda": {
+            "raw": -17355000,
+            "fmt": "-17.36M",
+            "longFmt": "-17,355,000"
+        },
+        "targetLowPrice": {
+            "raw": 5,
+            "fmt": "5.00"
+        },
+        "recommendationKey": "buy",
+        "grossProfits": {
+            "raw": 333736000,
+            "fmt": "333.74M",
+            "longFmt": "333,736,000"
+        },
+        "freeCashflow": {
+            "raw": 19291250,
+            "fmt": "19.29M",
+            "longFmt": "19,291,250"
+        },
+        "targetMedianPrice": {
+            "raw": 11.5,
+            "fmt": "11.50"
+        },
+        "currentPrice": {
+            "raw": 4.98,
+            "fmt": "4.98"
+        },
+        "earningsGrowth": {},
+        "currentRatio": {
+            "raw": 2.92,
+            "fmt": "2.92"
+        },
+        "returnOnAssets": {
+            "raw": -0.01811,
+            "fmt": "-1.81%"
+        },
+        "numberOfAnalystOpinions": {
+            "raw": 10,
+            "fmt": "10",
+            "longFmt": "10"
+        },
+        "targetMeanPrice": {
+            "raw": 11.4,
+            "fmt": "11.40"
+        },
+        "debtToEquity": {
+            "raw": 5.453,
+            "fmt": "5.45"
+        },
+        "returnOnEquity": {
+            "raw": -0.03334,
+            "fmt": "-3.33%"
+        },
+        "targetHighPrice": {
+            "raw": 21,
+            "fmt": "21.00"
+        },
+        "totalCash": {
+            "raw": 550280000,
+            "fmt": "550.28M",
+            "longFmt": "550,280,000"
+        },
+        "totalDebt": {
+            "raw": 32867000,
+            "fmt": "32.87M",
+            "longFmt": "32,867,000"
+        },
+        "totalRevenue": {
+            "raw": 545995008,
+            "fmt": "546M",
+            "longFmt": "545,995,008"
+        },
+        "totalCashPerShare": {
+            "raw": 1.416,
+            "fmt": "1.42"
+        },
+        "financialCurrency": "USD",
+        "maxAge": 86400,
+        "revenuePerShare": {
+            "raw": 1.499,
+            "fmt": "1.50"
+        },
+        "quickRatio": {
+            "raw": 2.382,
+            "fmt": "2.38"
+        },
+        "recommendationMean": {
+            "raw": 2.2,
+            "fmt": "2.20"
+        }
+    },
+    "quoteType": {
+        "exchange": "NGM",
+        "shortName": "Amarin Corporation plc",
+        "longName": "Amarin Corporation plc",
+        "exchangeTimezoneName": "America/New_York",
+        "exchangeTimezoneShortName": "EDT",
+        "isEsgPopulated": false,
+        "gmtOffSetMilliseconds": "-14400000",
+        "quoteType": "EQUITY",
+        "symbol": "AMRN",
+        "messageBoardId": "finmb_407863",
+        "market": "us_market"
+    },
+    "institutionOwnership": {
+        "maxAge": 1,
+        "ownershipList": [
+            {
+                "maxAge": 1,
+                "reportDate": {
+                    "raw": 1593475200,
+                    "fmt": "2020-06-30"
+                },
+                "organization": "Baker Brothers Advisors, LLC",
+                "pctHeld": {
+                    "raw": 0.0884,
+                    "fmt": "8.84%"
+                },
+                "position": {
+                    "raw": 34496685,
+                    "fmt": "34.5M",
+                    "longFmt": "34,496,685"
+                },
+                "value": {
+                    "raw": 238717060,
+                    "fmt": "238.72M",
+                    "longFmt": "238,717,060"
+                }
+            },
+            {
+                "maxAge": 1,
+                "reportDate": {
+                    "raw": 1593475200,
+                    "fmt": "2020-06-30"
+                },
+                "organization": "Artisan Partners Limited Partnership",
+                "pctHeld": {
+                    "raw": 0.0419,
+                    "fmt": "4.19%"
+                },
+                "position": {
+                    "raw": 16351613,
+                    "fmt": "16.35M",
+                    "longFmt": "16,351,613"
+                },
+                "value": {
+                    "raw": 113153161,
+                    "fmt": "113.15M",
+                    "longFmt": "113,153,161"
+                }
+            },
+            {
+                "maxAge": 1,
+                "reportDate": {
+                    "raw": 1593475200,
+                    "fmt": "2020-06-30"
+                },
+                "organization": "Price (T.Rowe) Associates Inc",
+                "pctHeld": {
+                    "raw": 0.0287,
+                    "fmt": "2.87%"
+                },
+                "position": {
+                    "raw": 11184323,
+                    "fmt": "11.18M",
+                    "longFmt": "11,184,323"
+                },
+                "value": {
+                    "raw": 77395515,
+                    "fmt": "77.4M",
+                    "longFmt": "77,395,515"
+                }
+            },
+            {
+                "maxAge": 1,
+                "reportDate": {
+                    "raw": 1593475200,
+                    "fmt": "2020-06-30"
+                },
+                "organization": "Boxer Capital, LLC",
+                "pctHeld": {
+                    "raw": 0.0179,
+                    "fmt": "1.79%"
+                },
+                "position": {
+                    "raw": 7000000,
+                    "fmt": "7M",
+                    "longFmt": "7,000,000"
+                },
+                "value": {
+                    "raw": 48440000,
+                    "fmt": "48.44M",
+                    "longFmt": "48,440,000"
+                }
+            },
+            {
+                "maxAge": 1,
+                "reportDate": {
+                    "raw": 1593475200,
+                    "fmt": "2020-06-30"
+                },
+                "organization": "Shaw D.E. & Co., Inc.",
+                "pctHeld": {
+                    "raw": 0.0146,
+                    "fmt": "1.46%"
+                },
+                "position": {
+                    "raw": 5698563,
+                    "fmt": "5.7M",
+                    "longFmt": "5,698,563"
+                },
+                "value": {
+                    "raw": 39434055,
+                    "fmt": "39.43M",
+                    "longFmt": "39,434,055"
+                }
+            },
+            {
+                "maxAge": 1,
+                "reportDate": {
+                    "raw": 1593475200,
+                    "fmt": "2020-06-30"
+                },
+                "organization": "Federated Hermes, Inc.",
+                "pctHeld": {
+                    "raw": 0.0136,
+                    "fmt": "1.36%"
+                },
+                "position": {
+                    "raw": 5300300,
+                    "fmt": "5.3M",
+                    "longFmt": "5,300,300"
+                },
+                "value": {
+                    "raw": 36678076,
+                    "fmt": "36.68M",
+                    "longFmt": "36,678,076"
+                }
+            },
+            {
+                "maxAge": 1,
+                "reportDate": {
+                    "raw": 1593475200,
+                    "fmt": "2020-06-30"
+                },
+                "organization": "Sofinnova Investments, Inc.",
+                "pctHeld": {
+                    "raw": 0.0134000005,
+                    "fmt": "1.34%"
+                },
+                "position": {
+                    "raw": 5208305,
+                    "fmt": "5.21M",
+                    "longFmt": "5,208,305"
+                },
+                "value": {
+                    "raw": 36041470,
+                    "fmt": "36.04M",
+                    "longFmt": "36,041,470"
+                }
+            },
+            {
+                "maxAge": 1,
+                "reportDate": {
+                    "raw": 1593475200,
+                    "fmt": "2020-06-30"
+                },
+                "organization": "Eversept Partners, LP",
+                "pctHeld": {
+                    "raw": 0.0123000005,
+                    "fmt": "1.23%"
+                },
+                "position": {
+                    "raw": 4786101,
+                    "fmt": "4.79M",
+                    "longFmt": "4,786,101"
+                },
+                "value": {
+                    "raw": 33119818,
+                    "fmt": "33.12M",
+                    "longFmt": "33,119,818"
+                }
+            },
+            {
+                "maxAge": 1,
+                "reportDate": {
+                    "raw": 1593475200,
+                    "fmt": "2020-06-30"
+                },
+                "organization": "Rock Springs Capital Management, LP",
+                "pctHeld": {
+                    "raw": 0.0119,
+                    "fmt": "1.19%"
+                },
+                "position": {
+                    "raw": 4650000,
+                    "fmt": "4.65M",
+                    "longFmt": "4,650,000"
+                },
+                "value": {
+                    "raw": 32178000,
+                    "fmt": "32.18M",
+                    "longFmt": "32,178,000"
+                }
+            },
+            {
+                "maxAge": 1,
+                "reportDate": {
+                    "raw": 1593475200,
+                    "fmt": "2020-06-30"
+                },
+                "organization": "Millennium Management LLC",
+                "pctHeld": {
+                    "raw": 0.0115,
+                    "fmt": "1.15%"
+                },
+                "position": {
+                    "raw": 4479060,
+                    "fmt": "4.48M",
+                    "longFmt": "4,479,060"
+                },
+                "value": {
+                    "raw": 30995095,
+                    "fmt": "31M",
+                    "longFmt": "30,995,095"
+                }
+            }
+        ]
+    },
+    "calendarEvents": {
+        "maxAge": 1,
+        "earnings": {
+            "earningsDate": [
+                {
+                    "raw": 1604534400,
+                    "fmt": "2020-11-05"
+                }
+            ],
+            "earningsAverage": {
+                "raw": 0.01,
+                "fmt": "0.01"
+            },
+            "earningsLow": {
+                "raw": -0.04,
+                "fmt": "-0.04"
+            },
+            "earningsHigh": {
+                "raw": 0.04,
+                "fmt": "0.04"
+            },
+            "revenueAverage": {
+                "raw": 154630000,
+                "fmt": "154.63M",
+                "longFmt": "154,630,000"
+            },
+            "revenueLow": {
+                "raw": 136700000,
+                "fmt": "136.7M",
+                "longFmt": "136,700,000"
+            },
+            "revenueHigh": {
+                "raw": 167000000,
+                "fmt": "167M",
+                "longFmt": "167,000,000"
+            }
+        },
+        "exDividendDate": {},
+        "dividendDate": {}
+    },
+    "summaryDetail": {
+        "previousClose": {
+            "raw": 5.02,
+            "fmt": "5.0200"
+        },
+        "regularMarketOpen": {
+            "raw": 5.02,
+            "fmt": "5.0200"
+        },
+        "twoHundredDayAverage": {
+            "raw": 6.297929,
+            "fmt": "6.2979"
+        },
+        "trailingAnnualDividendYield": {},
+        "payoutRatio": {
+            "raw": 0,
+            "fmt": "0.00%"
+        },
+        "volume24Hr": {},
+        "regularMarketDayHigh": {
+            "raw": 5.0305,
+            "fmt": "5.0305"
+        },
+        "navPrice": {},
+        "averageDailyVolume10Day": {
+            "raw": 4913925,
+            "fmt": "4.91M",
+            "longFmt": "4,913,925"
+        },
+        "totalAssets": {},
+        "regularMarketPreviousClose": {
+            "raw": 5.02,
+            "fmt": "5.0200"
+        },
+        "fiftyDayAverage": {
+            "raw": 4.512857,
+            "fmt": "4.5129"
+        },
+        "trailingAnnualDividendRate": {},
+        "open": {
+            "raw": 5.02,
+            "fmt": "5.0200"
+        },
+        "toCurrency": null,
+        "averageVolume10days": {
+            "raw": 4913925,
+            "fmt": "4.91M",
+            "longFmt": "4,913,925"
+        },
+        "expireDate": {},
+        "yield": {},
+        "algorithm": null,
+        "dividendRate": {},
+        "exDividendDate": {},
+        "beta": {
+            "raw": 2.807501,
+            "fmt": "2.81"
+        },
+        "circulatingSupply": {},
+        "startDate": {},
+        "regularMarketDayLow": {
+            "raw": 4.88,
+            "fmt": "4.8800"
+        },
+        "priceHint": {
+            "raw": 4,
+            "fmt": "4",
+            "longFmt": "4"
+        },
+        "currency": "USD",
+        "regularMarketVolume": {
+            "raw": 2748118,
+            "fmt": "2.75M",
+            "longFmt": "2,748,118"
+        },
+        "lastMarket": null,
+        "maxSupply": {},
+        "openInterest": {},
+        "marketCap": {
+            "raw": 1935591552,
+            "fmt": "1.94B",
+            "longFmt": "1,935,591,552"
+        },
+        "volumeAllCurrencies": {},
+        "strikePrice": {},
+        "averageVolume": {
+            "raw": 8710518,
+            "fmt": "8.71M",
+            "longFmt": "8,710,518"
+        },
+        "priceToSalesTrailing12Months": {
+            "raw": 3.5450718,
+            "fmt": "3.55"
+        },
+        "dayLow": {
+            "raw": 4.88,
+            "fmt": "4.8800"
+        },
+        "ask": {
+            "raw": 4.99,
+            "fmt": "4.9900"
+        },
+        "ytdReturn": {},
+        "askSize": {
+            "raw": 3100,
+            "fmt": "3.1k",
+            "longFmt": "3,100"
+        },
+        "volume": {
+            "raw": 2748118,
+            "fmt": "2.75M",
+            "longFmt": "2,748,118"
+        },
+        "fiftyTwoWeekHigh": {
+            "raw": 26.12,
+            "fmt": "26.1200"
+        },
+        "forwardPE": {
+            "raw": 12.146341,
+            "fmt": "12.15"
+        },
+        "maxAge": 1,
+        "fromCurrency": null,
+        "fiveYearAvgDividendYield": {},
+        "fiftyTwoWeekLow": {
+            "raw": 3.36,
+            "fmt": "3.3600"
+        },
+        "bid": {
+            "raw": 4.95,
+            "fmt": "4.9500"
+        },
+        "tradeable": false,
+        "dividendYield": {},
+        "bidSize": {
+            "raw": 900,
+            "fmt": "900",
+            "longFmt": "900"
+        },
+        "dayHigh": {
+            "raw": 5.0305,
+            "fmt": "5.0305"
+        }
+    },
+    "symbol": "AMRN",
+    "esgScores": {},
+    "upgradeDowngradeHistory": {
+        "history": [
+            {
+                "epochGradeDate": 1601287572,
+                "firm": "SVB Leerink",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": 1588598646,
+                "firm": "Aegis Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": 1588587999,
+                "firm": "SVB Leerink",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": 1585817240,
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": 1585676067,
+                "firm": "Stifel",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": 1585659104,
+                "firm": "Oppenheimer",
+                "toGrade": "Perform",
+                "fromGrade": "Underperform",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": 1585654209,
+                "firm": "Goldman Sachs",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": 1585646345,
+                "firm": "Jefferies",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": 1584092487,
+                "firm": "Goldman Sachs",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": 1582722640,
+                "firm": "Oppenheimer",
+                "toGrade": "Underperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": 1582022781,
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": 1576523549,
+                "firm": "Oppenheimer",
+                "toGrade": "Underperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": 1576508203,
+                "firm": "Stifel",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": 1574080080,
+                "firm": "Citi",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": 1541164830,
+                "firm": "Citigroup",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": 1539777585,
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "Buy",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": 1537881077,
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "Buy",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": 1537874265,
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "Buy",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": 1475656296,
+                "firm": "Cantor Fitzgerald",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": 1475615452,
+                "firm": "Cantor Fitzgerald",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": 1463037254,
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": 1426145107,
+                "firm": "H.C. Wainwright",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": 1424252755,
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": 1415610000,
+                "firm": "Citigroup",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": 1399879752,
+                "firm": "Citigroup",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": 1393584370,
+                "firm": "Aegis Capital",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": 1389888000,
+                "firm": "MKM Partners",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": 1383893330,
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": 1383148800,
+                "firm": "Leerink Swann",
+                "toGrade": "Market Perform",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": 1383130853,
+                "firm": "Aegis Capital",
+                "toGrade": "Hold",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": 1382080843,
+                "firm": "Citigroup",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": 1382025600,
+                "firm": "H.C. Wainwright",
+                "toGrade": "Neutral",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": 1381991178,
+                "firm": "JP Morgan",
+                "toGrade": "Neutral",
+                "fromGrade": "Overweight",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": 1381990292,
+                "firm": "Canaccord Genuity",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": 1381943909,
+                "firm": "Leerink Swann",
+                "toGrade": "Outperform",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": 1381939883,
+                "firm": "Aegis Capital",
+                "toGrade": "Hold",
+                "fromGrade": "Buy",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": 1379401701,
+                "firm": "Goldman Sachs",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": 1378280947,
+                "firm": "SunTrust Robinson Humphrey",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": 1376378215,
+                "firm": "H.C. Wainwright",
+                "toGrade": "Buy",
+                "fromGrade": "Neutral",
+                "action": "up"
+            },
+            {
+                "epochGradeDate": 1371744899,
+                "firm": "Oppenheimer",
+                "toGrade": "Perform",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": 1362380154,
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": 1357633828,
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": 1354895044,
+                "firm": "Aegis Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": 1354877921,
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": 1354876024,
+                "firm": "UBS",
+                "toGrade": "Neutral",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": 1353999120,
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": 1350293700,
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": 1349248560,
+                "firm": "Wedbush",
+                "toGrade": "Neutral",
+                "fromGrade": "Outperform",
+                "action": "down"
+            },
+            {
+                "epochGradeDate": 1344507000,
+                "firm": "Canaccord Genuity",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": 1341812820,
+                "firm": "Aegis Capital",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": 1340780880,
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            },
+            {
+                "epochGradeDate": 1335765720,
+                "firm": "Citigroup",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": 1334905740,
+                "firm": "JP Morgan",
+                "toGrade": "Overweight",
+                "fromGrade": "",
+                "action": "init"
+            },
+            {
+                "epochGradeDate": 1331883360,
+                "firm": "Jefferies",
+                "toGrade": "Buy",
+                "fromGrade": "",
+                "action": "main"
+            }
+        ],
+        "maxAge": 86400
+    },
+    "pageViews": {
+        "shortTermTrend": "DOWN",
+        "midTermTrend": "UP",
+        "longTermTrend": "UP",
+        "maxAge": 1
+    }
+}
