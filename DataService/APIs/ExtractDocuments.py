@@ -19,13 +19,14 @@ import re
 def extraction(soup,searchterm):
 
     table  = soup.find('table',{'class':'tableFile'})
-    base   = 'https://www.sec.gov/'
+    base   = 'https://www.sec.gov'
     DocLink = []
 
     for rows in table.findAll('a', href=True):
        if rows:
            links = base + rows.get('href')
            DocLink.append(links)
+           print(DocLink[0])
            return DocLink[0]
 
 
@@ -42,8 +43,8 @@ def parse(ticker,DocLink):
                     'script', 
                 ]
     output = ''
-    NewLink = str(DocLink).replace('https://www.sec.gov//ix?doc=/','https://www.sec.gov/')
-    print(DocLink,'\n',NewLink)
+    NewLink = str(DocLink).replace('https://www.sec.gov/ix?doc=/','https://www.sec.gov/')
+    print('Old Link = ',DocLink,'\n','New Link=', NewLink)
     try:
         page    = requests.get(NewLink)
         DocSoup = BeautifulSoup(page.text, 'html.parser')
@@ -52,7 +53,7 @@ def parse(ticker,DocLink):
         for elements in text:
             if elements.parent.name not in blacklist:
                 output += '{}'.format(elements)
-                f = open("/Users/taishanlin/Desktop/RootDirectory/{}.txt".format(ticker), "w")
+                f = open("/Users/taishanlin/Desktop/RootDirectory/DataSamples/{}.txt".format(ticker), "w")
                 f.write(output)
                 f.close()
 
@@ -98,4 +99,4 @@ def getDocument(ticker,searchterm):
 
 
 # Main Executable
-getDocument('GOOGL','10-K');
+getDocument('AMZN','10-K');
