@@ -5,7 +5,6 @@ from pymongo import MongoClient
 import CronJob.scheduledRSS as scheduledRSS
 
 
-#mongodb+srv://tai_user96:<password>@cluster0.d1abh.mongodb.net/<dbname>?retryWrites=true&w=majority
 
 def connection():
     try: 
