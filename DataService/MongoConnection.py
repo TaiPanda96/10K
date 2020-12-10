@@ -9,7 +9,7 @@ import CronJob.scheduledRSS as scheduledRSS
 
 def connection():
     try: 
-        client = pymongo.MongoClient("mongodb+srv://tai_user96:e0cR7limNOfFpy2q@cluster0.d1abh.mongodb.net/Database?retryWrites=true&w=majority")
+        client = pymongo.MongoClient("mongodb+srv://username:password@cluster0.d1abh.mongodb.net/Database?retryWrites=true&w=majority")
         db = client['Database']
         print('connection established successfully for' + ' ' +  str(db))
            
