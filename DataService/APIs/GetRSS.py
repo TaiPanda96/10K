@@ -1,62 +1,48 @@
+# CORE IMPORTS
 import pandas as pd
-import sys
-import datetime
-import json
 from bs4 import BeautifulSoup, SoupStrainer
 import urllib3
 
-# Scraping Libraries Used
+
+# OTHER IMPORT DEPENDENCIES
 import os
 import time, requests, lxml
 import string 
 import re
+import sys
+import datetime
+import json
 
-import xml.etree.ElementTree as ET
-from collections import OrderedDict
-from bs4 import BeautifulSoup
+
+# MODULE IMPORT: CIK Hashmap
+from .GetCIK import cik_map
 
 
-# CIK Hashmap
-#from GetCIK import produceCIKHash
-from .GetCIK import produceCIKHash
-
-class RSSHashMap:
+# MAIN CLASS
+class RSS:
     """This class is meant to parse data from SEC website and store a Hashmap of harvested data where PK = Ticker
        create method takes a list of tickers and generates a basic hashmap where key = ticker value = url """
 
-    def __init__(self,ticker):
-        self.ticker  = str(ticker) 
+    def __init__(self,feedname):
+        self.ticker  = str(feedname) 
         self.HashMap = {}
-
-    def request(self):
-        urls  = 'https://www.sec.gov/cgi-bin/browse-edgar?company=&match=&CIK={}'.format(self.ticker) + '&filenum=&State=&Country=&SIC=&owner=exclude&Find=Find+Companies&action=getcompany'
-        return urls
 
     
     def getRSS(self,key):
         Filings               = 'https://www.sec.gov/Archives/edgar/usgaap.rss.xml'
         MutualFundFilings     = 'https://www.sec.gov/Archives/edgar/xbrl-rr.rss.xml'
         FinancialStatements   = 'https://www.sec.gov/Archives/edgar/xbrl-inline.rss.xml'
-        self.HashMap[self.ticker] = self.request()
-        self.HashMap['Filings']             = Filings
-        self.HashMap['MutualFundFilings']   = MutualFundFilings
-        self.HashMap['FinancialStatements'] = Filings
-        print(self.HashMap)
+
+        self.HashMap['Filings']               = Filings
+        self.HashMap['Mutual Fund Filings']   = MutualFundFilings
+        self.HashMap['Financial Statements']  = FinancialStatements
         return self.HashMap[key]
 
     
-    def upsertRSS(self,data):
-        self.request()
+    def insertRSS(self,data):
         self.HashMap['data']  = data
-        #print(self.HashMap)
         return self.HashMap
 
-
-def jsonMethod(response,feedname):
-    with open('{}.json'.format(feedname),'w') as outfile:
-        json.dump(response, outfile,indent=4)
-
- 
 
 
 def request(url):
@@ -64,44 +50,16 @@ def request(url):
     if response.status_code == 200:
         data = response.text
         soup = BeautifulSoup(data,features='lxml')
-        #print(soup)
     else:
         print(response.status_code)
     return soup
 
 
 
-def getNested(json):
-    for keys in json:
-        for attribute,value in keys.items():
-            print(attribute,value)
-
-
-
-# This function grabs the JSON value after it has been generated.
-def getDocumentLink(link):
-    try:
-        page = requests.get(link)
-        html = page.text
-        soup = BeautifulSoup(html, 'html.parser')
-
-        table  = soup.find('table',{'class':'tableFile'})
-        base   = 'https://www.sec.gov'
-        DocLink = []
-
-        for rows in table.findAll('a', href=True):
-            if rows:
-                links = base + rows.get('href')
-                DocLink.append(links)
-                #print(DocLink[0])
-                return DocLink[0]
-    except:
-        print(sys.exc_info())
-
 def extractRSSData(soup,cikHash):
     table    = soup.find_all('item')
     Items    = []
-    RSS      = {}
+    filings  = {}
     
 
     for items in table:
@@ -112,9 +70,8 @@ def extractRSSData(soup,cikHash):
         
         Items.append(result)
 
-      
+        # Remember you need to left strip CIK to remove the leading 0s
         Company            = { 'Company'  : data[0] for data in Items }
-        # There is a function call in 'Links' which is ANOTHER URL request to fetch the actual document link in human viewable format.
         Links              = { 'Links'    : [ data[1], data[2]] for data in Items }
         Document           = { 'Document' : data[3] for data in Items }
         FilingDate         = { 'FilingDate'  : data[4] for data in Items }
@@ -122,7 +79,6 @@ def extractRSSData(soup,cikHash):
         CIK                = { 'CIK'  : data[8].lstrip('0') for data in Items }
         PublicationDate    = { 'Publication Date'  : data[7] for data in Items }
         AssistantDirector  = { 'Assistant Director'  : data[13] for data in Items }
-        #SIC                = { 'SIC'  : data[14] for data in Items }
 
         info = [
             Company,
@@ -133,35 +89,44 @@ def extractRSSData(soup,cikHash):
             CIK,
             PublicationDate,
             AssistantDirector,
-            #SIC
         ]
 
-        ## If the lookup value matches the CIK hash map key, return the CIK hash map value (which is the ticker)
-        
-        ## Add the ticker to the JSON.
-        element = [item for item in info[0].values()]
-        CIK_search = [item for item in info[5].values()]
+    
+        # Add the ticker to the JSON.
+        Company = [item for item in info[0].values()]
+        # Add the CIK # to the JSON.
+        CIK  = [item for item in info[5].values()]
 
-        if CIK_search[0] in cikHash:
-            ticker = cikHash['{}'.format(CIK_search[0])]
 
-            RSS['{}'.format(ticker)] = info
+        # Perform a lookup against your CIK Mapping
+            # IF there is a match by CIK key, THEN update the key with the matching ticker value 
+            # This produces the key value pair of ticker, info for your JSON.
+
+
+        if CIK[0] in cikHash:
+            ticker = cikHash['{}'.format(CIK[0])]
+            filings['{}'.format(ticker)] = info
         else:
-            RSS['{}'.format(element[0])] = info
+            filings['{}'.format(Company[0])] = info
 
-    return RSS
+    return filings
 
 
+
+def createJSON(response,feedname):
+    with open('{}.json'.format(feedname),'w') as outfile:
+        json.dump(response, outfile,indent=4)
+
+
+## Executable Function ##
 def fetchRSS(feedname):
-    url         = RSSHashMap(feedname).getRSS('Filings')
+    url         = RSS(feedname).getRSS(feedname)
     xml_page    = request(url)
-    cikHash     = produceCIKHash()
+    cikHash     = cik_map()
     data        = extractRSSData(xml_page,cikHash)
-    response    = RSSHashMap(feedname).upsertRSS(data)
-    return jsonMethod(response,feedname)
+    response    = RSS(feedname).insertRSS(data)
+    return      createJSON(response,feedname)
 
     
-
-fetchRSS('RSS');
 
 

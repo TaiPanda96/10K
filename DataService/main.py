@@ -3,10 +3,6 @@ import APIs
 from APIs import GetRSS
 from APIs import GetCIK
 
-# import Models
-# from Models import RSS
-# from Models import CIKMapping
-
 # Establish Connection to Mongo DB
 import MongoConnection
 from MongoConnection import connection
@@ -25,13 +21,14 @@ import json
 import datetime 
 from datetime import datetime
 
-# File Location
-RSSFile = '/Users/taishanlin/Desktop/RootDirectory/DataService/RSS.json'
+# Global Variable: File Location
+RSSFile = '/Users/taishanlin/Desktop/RootDirectory/DataService/Filings.json'
 
-def updateSECFilings(SECFilings, updateArray):
+
+def updateSECFilings(collectionName, updateArray):
     for items in updateArray:
         try:
-            SECFilings.update_one(
+            collectionName.update_one(
                 {'ticker': items['Ticker']},
                 {"$set" :  items}, 
                 upsert = True)
@@ -44,10 +41,14 @@ def updateSECFilings(SECFilings, updateArray):
     
 
 def updateRSS():
+    """ 
+    Only run this function if there ever needs to be a CIK - Ticker Mapping update to your database.
+    
+    """
     db   = connection()
     collection = db['Utradea_SIT_Main']
     try:
-        mapping = GetCIK.produceCIKHash()
+        mapping = GetCIK.cik_map()
         
         for key,value in mapping.items():
             data = {
@@ -95,10 +96,12 @@ def createCollection(db):
         
 
 def BaseTables(method):
+    """
+    A function to create base tables. Only run this table if you've deleted all collections.
+    """
     db = connection()
     if method == 'Mapping & SEC Tables':
         createCollection(db=db)
-        # Run this only when you've deleted the collection
         updateRSS()
     else:
         createCollection(db=db)
@@ -109,10 +112,12 @@ def UpdateTables(db,updateArray):
     for items in updateArray:
         return updateSECFilings(SECFilings,items)
 
-#################################################### Executable ###################################################################
-def main():
+
+
+# Executable #
+def main(RSSFile):
     """ 
-    # 0: Fetch RSS JSON \n
+    # 0: Fetch Filings JSON \n
     # 1: Establish Connection \n
     # 2: Parse the JSON, return list of dictionaries \n
     # 3: Update MongoDB, SEC Filings Collection \n
@@ -120,7 +125,7 @@ def main():
     db = connection();
     SECFilings = db['SEC Filings'];
     try: 
-        GetRSS.fetchRSS('RSS')
+        GetRSS.fetchRSS('Filings')
     except:
         print(sys.exc_info(),syslog.openlog())
     finally:
@@ -129,4 +134,5 @@ def main():
         print("Full Update Procedure Completed")
 
 
-main();
+
+main(RSSFile);
