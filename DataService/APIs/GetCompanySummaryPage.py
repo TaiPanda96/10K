@@ -31,7 +31,7 @@ class EdgarSearchHashMap:
             self.HashMap['data']  = data
             return self.HashMap
         else:
-            # Else, you need to create the Hash first
+            # Else, you need to create the hash map first
             # Then call 2 executables below to add nested data + links
             self.request()
             self.HashMap['ticker'] = ticker
@@ -64,20 +64,19 @@ def extractData(soup,ticker,getRequest):
     docLinks = []
     for tags in table:
         docLinks.append(baseurl + tags.get('href'))
-    #print(docLinks)
+
     
     query = list(filter(lambda search: 'Archives/edgar/data' in search, docLinks))
-    #print(query)
     table = pd.DataFrame(query)
 
     # Prepare Main Table to Join with Links Table
     df = pd.DataFrame(edgars[2])
     df = df.drop(df.index[0])
 
-    # Left Join & Dropping NaNs
+    # Left Join & Drop NaNs
     response = pd.concat([df,table],axis=1)
     response = response.dropna()
-    response.columns = ['FileName', 'File Interaction', 'File Date', 'File Desc', 'File Number','File Link']
+    response.columns = ['File Name', 'File Interaction', 'File Date', 'File Desc', 'File Number','File Link']
     print(response)
     return response
 
@@ -89,7 +88,6 @@ def fetch(ticker, method):
     #3 Parse all the contents in the table summary '\n'
     #4 Create a DataFrame from parsed information '\n'
     #5 Send this information either in JSON format OR DataFrame Query format
-    
     """
     getRequest  = EdgarSearchHashMap(ticker).request()
     data        = extractData(soup=request(getRequest[ticker]),ticker=ticker,getRequest=getRequest)

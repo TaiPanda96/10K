@@ -1,18 +1,20 @@
-import pandas as pd 
+# CORE IMPORTS
 import pandas as pd
-import json
 from bs4 import BeautifulSoup, SoupStrainer
 import urllib3
+import json
 
-# Scraping Libraries Used
+
+# OTHER IMPORT DEPENDENCIES
 import os
 import time, requests, lxml
 import string 
 import re
+import sys
+import datetime
+import json
 
-import xml.etree.ElementTree as ET
-from collections import OrderedDict
-from bs4 import BeautifulSoup
+
 
 
 def getCIK(url):
@@ -26,7 +28,12 @@ def getCIK(url):
         print(response.status_code)
 
 
-def cikHashMap(outfile):
+def _clean_cik(outfile):
+    """ 
+    Private function to clean cik file \n
+    1) Clean the text file by stripping empty spaces and splitting CIK # to Ticker Mapping as seperate elements \n
+    2) Using dictionary comprehension return a CIK Hash Map. \n
+    """
     with open(outfile) as fp:
         #count = 0
         data = []
@@ -41,13 +48,13 @@ def cikHashMap(outfile):
     return CIK
 
     
-def produceCIKHash():
+def cik_map():
     outfile = '/Users/taishanlin/Desktop/RootDirectory/DataService/UtilityFunctions/UtilityFiles/CIK.txt'
     if outfile.count != None:
-        return cikHashMap(outfile)
+        return _clean_cik(outfile)
     else:
         url = 'https://www.sec.gov/include/ticker.txt' 
         getCIK(url)
-        return cikHashMap(outfile)
+        return _clean_cik(outfile)
   
-produceCIKHash();
+cik_map();

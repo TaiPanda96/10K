@@ -1,19 +1,22 @@
 import sys
+import os
 import pymongo
 from pymongo import MongoClient
 
-import CronJob.scheduledRSS as scheduledRSS
+from dotenv import load_dotenv
 
+# Global Variables
+load_dotenv()
 
-#mongodb+srv://tai_user96:<password>@cluster0.d1abh.mongodb.net/<dbname>?retryWrites=true&w=majority
+# Environment Variables
+credentials = os.getenv("credentials")
 
 def connection():
     try: 
-        client = pymongo.MongoClient("mongodb+srv://tai_user96:e0cR7limNOfFpy2q@cluster0.d1abh.mongodb.net/Database?retryWrites=true&w=majority")
+        client = pymongo.MongoClient(credentials)
         db = client['Database']
         print('connection established successfully for' + ' ' +  str(db))
            
-   
         return db
 
         
