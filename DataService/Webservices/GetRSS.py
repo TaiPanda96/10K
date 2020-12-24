@@ -1,5 +1,5 @@
 # CORE IMPORTS
-import pandas as pd
+import bs4
 from bs4 import BeautifulSoup, SoupStrainer
 import urllib3
 
@@ -13,9 +13,11 @@ import sys
 import datetime
 import json
 
+print(sys.path)
+
 
 # MODULE IMPORT: CIK Hashmap
-from .GetCIK import cik_map
+from Webservices.GetCIK import cik_map
 
 
 # MAIN CLASS
@@ -55,7 +57,6 @@ def request(url):
     return soup
 
 
-
 def extractRSSData(soup,cikHash):
     table    = soup.find_all('item')
     Items    = []
@@ -91,17 +92,14 @@ def extractRSSData(soup,cikHash):
             AssistantDirector,
         ]
 
-    
         # Add the ticker to the JSON.
         Company = [item for item in info[0].values()]
         # Add the CIK # to the JSON.
         CIK  = [item for item in info[5].values()]
 
-
         # Perform a lookup against your CIK Mapping
             # IF there is a match by CIK key, THEN update the key with the matching ticker value 
             # This produces the key value pair of ticker, info for your JSON.
-
 
         if CIK[0] in cikHash:
             ticker = cikHash['{}'.format(CIK[0])]
@@ -114,7 +112,7 @@ def extractRSSData(soup,cikHash):
 
 
 def createJSON(response,feedname):
-    with open('{}.json'.format(feedname),'w') as outfile:
+    with open('/Users/taishanlin/Desktop/RootDirectory/DataService/OutputSamples/{}.json'.format(feedname),'w') as outfile:
         json.dump(response, outfile,indent=4)
 
 
@@ -127,6 +125,5 @@ def fetchRSS(feedname):
     response    = RSS(feedname).insertRSS(data)
     return      createJSON(response,feedname)
 
-    
-
+  
 

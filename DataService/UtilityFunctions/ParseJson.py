@@ -1,4 +1,7 @@
 # Utilities
+import sys
+import os
+
 import syslog
 import sys
 import json
@@ -6,7 +9,6 @@ import json
 # Time Utilities
 import datetime 
 from datetime import datetime
-
 
 
 def extraction(RSSFile):
@@ -35,7 +37,6 @@ def extraction(RSSFile):
         updateArray = []
         for i in range(len(jsondict)):
             for ticker in updateTickers:
-
                 data = {
                     'Ticker'                 : ticker,
                     'Company'                : jsondict['data']['{}'.format(ticker)][i],
@@ -46,11 +47,33 @@ def extraction(RSSFile):
                     'CIK Number'             : jsondict['data']['{}'.format(ticker)][i + 5],
                     'Publication Date'       : jsondict['data']['{}'.format(ticker)][i + 6],
                 }
-                #print(data)
+
                 updateArray.append(data)
-                #print(updateTickers)
         return updateArray
 
-                #print(jsondict['data']['{}'.format(ticker)][i])
-
     return getNested(jsondict,updateTickers)
+
+
+
+def extraction_Form4(Form4):
+    updateArray = []
+
+    with open(Form4) as form4:
+        data = json.load(form4)
+
+    
+    info     = json.dumps(data)
+    jsondict = json.loads(info)
+
+    
+    for items in jsondict['data']:
+        updateArray.append(items)
+    
+    return updateArray
+
+
+# if __name__ == "__main__":
+# Unit Testing Only
+# Form4   = '/Users/taishanlin/Desktop/RootDirectory/DataService/OutputSamples/Form4.json'
+#     RSSFile = '/Users/taishanlin/Desktop/RootDirectory/DataService/OutputSamples/Filings.json'
+#     extraction_RSS(RSSFile)

@@ -1,7 +1,6 @@
 from .GetCompanySummaryPage import fetch
 from .GetCompanySummaryPage import EdgarSearchHashMap
 
-
 from bs4 import BeautifulSoup
 from bs4 import BeautifulSoup, SoupStrainer
 
@@ -21,7 +20,6 @@ def extraction(soup,searchterm):
     Document Link [0] = the url for the 'File Name' (10-K for example) in .htm format
     
     """
-
     table  = soup.find('table',{'class':'tableFile'})
     base   = 'https://www.sec.gov'
     DocLink = []
@@ -32,7 +30,6 @@ def extraction(soup,searchterm):
            DocLink.append(links)
            print(DocLink[0])
            return DocLink[0]
-
 
 
 def parse(ticker,DocLink):
@@ -73,7 +70,7 @@ def parse(ticker,DocLink):
 # Search for 10-K and/or 10-Q & Extract HTML Elements
 def getDocument(ticker,searchterm):
     """
-    Functions Purpose: \n
+    Purpose: \n
     getDocument searches for the file name from the extracted URLs table, then finds the matching URL based on the document search criteria. \n
     If a match is found, getDocument calls the extraction method to pull the Document's HTML. 
 
