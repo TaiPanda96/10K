@@ -1,0 +1,5601 @@
+{
+    "data": {
+        "CFIIW": [
+            {
+                "Company": "CF Finance Acquisition Corp II (0001811856) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1811856/000119312520326207/0001193125-20-326207-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1811856/000119312520326207/0001193125-20-326207-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "S-4"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 17:31:24 EST"
+            },
+            {
+                "Company Operating Name": "CF Finance Acquisition Corp II"
+            },
+            {
+                "CIK": "1811856"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "6770"
+            }
+        ],
+        "LCII": [
+            {
+                "Company": "LCI INDUSTRIES (0000763744) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/763744/000076374420000132/0000763744-20-000132-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/763744/000076374420000132/0000763744-20-000132-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 17:21:48 EST"
+            },
+            {
+                "Company Operating Name": "LCI INDUSTRIES"
+            },
+            {
+                "CIK": "763744"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Manufacturing"
+            }
+        ],
+        "HTLFP": [
+            {
+                "Company": "HEARTLAND FINANCIAL USA INC (0000920112) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/920112/000092011220000346/0000920112-20-000346-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/920112/000092011220000346/0000920112-20-000346-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 17:15:49 EST"
+            },
+            {
+                "Company Operating Name": "HEARTLAND FINANCIAL USA INC"
+            },
+            {
+                "CIK": "920112"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Finance"
+            }
+        ],
+        "HBIO": [
+            {
+                "Company": "HARVARD BIOSCIENCE INC (0001123494) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1123494/000117184320008774/0001171843-20-008774-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1123494/000117184320008774/0001171843-20-008774-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 17:15:11 EST"
+            },
+            {
+                "Company Operating Name": "HARVARD BIOSCIENCE INC"
+            },
+            {
+                "CIK": "1123494"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Life Sciences"
+            }
+        ],
+        "Trex Acquisition Corp. (0001437750) (Filer)": [
+            {
+                "Company": "Trex Acquisition Corp. (0001437750) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1437750/000147793220007474/0001477932-20-007474-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1437750/000147793220007474/0001477932-20-007474-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "10-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 17:12:20 EST"
+            },
+            {
+                "Company Operating Name": "Trex Acquisition Corp."
+            },
+            {
+                "CIK": "1437750"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Trade & Services"
+            }
+        ],
+        "SHO-PF": [
+            {
+                "Company": "Sunstone Hotel Investors, Inc. (0001295810) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1295810/000155837020014542/0001558370-20-014542-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1295810/000155837020014542/0001558370-20-014542-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 17:12:17 EST"
+            },
+            {
+                "Company Operating Name": "Sunstone Hotel Investors, Inc."
+            },
+            {
+                "CIK": "1295810"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Real Estate & Construction"
+            }
+        ],
+        "TTGT": [
+            {
+                "Company": "TechTarget Inc (0001293282) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1293282/000119312520326163/0001193125-20-326163-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1293282/000119312520326163/0001193125-20-326163-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 17:10:53 EST"
+            },
+            {
+                "Company Operating Name": "TechTarget Inc"
+            },
+            {
+                "CIK": "1293282"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Trade & Services"
+            }
+        ],
+        "TPHS": [
+            {
+                "Company": "Trinity Place Holdings Inc. (0000724742) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/724742/000110465920139208/0001104659-20-139208-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/724742/000110465920139208/0001104659-20-139208-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 17:09:45 EST"
+            },
+            {
+                "Company Operating Name": "Trinity Place Holdings Inc."
+            },
+            {
+                "CIK": "724742"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Real Estate & Construction"
+            }
+        ],
+        "MODN": [
+            {
+                "Company": "MODEL N, INC. (0001118417) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1118417/000111841720000165/0001118417-20-000165-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1118417/000111841720000165/0001118417-20-000165-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 17:05:58 EST"
+            },
+            {
+                "Company Operating Name": "MODEL N, INC."
+            },
+            {
+                "CIK": "1118417"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Technology"
+            }
+        ],
+        "PTACW": [
+            {
+                "Company": "Porch Group, Inc. (0001784535) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1784535/000121390020044384/0001213900-20-044384-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1784535/000121390020044384/0001213900-20-044384-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 17:04:34 EST"
+            },
+            {
+                "Company Operating Name": "Porch Group, Inc."
+            },
+            {
+                "CIK": "1784535"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Technology"
+            }
+        ],
+        "MGI": [
+            {
+                "Company": "MONEYGRAM INTERNATIONAL INC (0001273931) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1273931/000127393120000129/0001273931-20-000129-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1273931/000127393120000129/0001273931-20-000129-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 17:03:44 EST"
+            },
+            {
+                "Company Operating Name": "MONEYGRAM INTERNATIONAL INC"
+            },
+            {
+                "CIK": "1273931"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Trade & Services"
+            }
+        ],
+        "DNRWW": [
+            {
+                "Company": "DENBURY INC (0000945764) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/945764/000094576420000231/0000945764-20-000231-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/945764/000094576420000231/0000945764-20-000231-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 17:03:15 EST"
+            },
+            {
+                "Company Operating Name": "DENBURY INC"
+            },
+            {
+                "CIK": "945764"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Energy & Transportation"
+            }
+        ],
+        "SNCA": [
+            {
+                "Company": "Seneca Biopharma, Inc. (0001357459) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1357459/000117184320008771/0001171843-20-008771-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1357459/000117184320008771/0001171843-20-008771-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "S-4"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 17:01:57 EST"
+            },
+            {
+                "Company Operating Name": "Seneca Biopharma, Inc."
+            },
+            {
+                "CIK": "1357459"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "2836"
+            }
+        ],
+        "SYNH": [
+            {
+                "Company": "Syneos Health, Inc. (0001610950) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1610950/000156459020058254/0001564590-20-058254-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1610950/000156459020058254/0001564590-20-058254-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 17:01:16 EST"
+            },
+            {
+                "Company Operating Name": "Syneos Health, Inc."
+            },
+            {
+                "CIK": "1610950"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Trade & Services"
+            }
+        ],
+        "OTLKW": [
+            {
+                "Company": "Outlook Therapeutics, Inc. (0001649989) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1649989/000155837020014540/0001558370-20-014540-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1649989/000155837020014540/0001558370-20-014540-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "10-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 17:01:11 EST"
+            },
+            {
+                "Company Operating Name": "Outlook Therapeutics, Inc."
+            },
+            {
+                "CIK": "1649989"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Life Sciences"
+            }
+        ],
+        "XFOR": [
+            {
+                "Company": "X4 Pharmaceuticals, Inc (0001501697) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1501697/000119312520326132/0001193125-20-326132-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1501697/000119312520326132/0001193125-20-326132-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 17:01:01 EST"
+            },
+            {
+                "Company Operating Name": "X4 Pharmaceuticals, Inc"
+            },
+            {
+                "CIK": "1501697"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Life Sciences"
+            }
+        ],
+        "THC": [
+            {
+                "Company": "TENET HEALTHCARE CORP (0000070318) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/70318/000119312520326126/0001193125-20-326126-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/70318/000119312520326126/0001193125-20-326126-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 17:00:55 EST"
+            },
+            {
+                "Company Operating Name": "TENET HEALTHCARE CORP"
+            },
+            {
+                "CIK": "70318"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Life Sciences"
+            }
+        ],
+        "Synaptogenix, Inc. (0001571934) (Filer)": [
+            {
+                "Company": "Synaptogenix, Inc. (0001571934) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1571934/000110465920139193/0001104659-20-139193-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1571934/000110465920139193/0001104659-20-139193-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "10-Q"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 17:00:54 EST"
+            },
+            {
+                "Company Operating Name": "Synaptogenix, Inc."
+            },
+            {
+                "CIK": "1571934"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Life Sciences"
+            }
+        ],
+        "TBNK": [
+            {
+                "Company": "Territorial Bancorp Inc. (0001447051) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1447051/000110465920139194/0001104659-20-139194-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1447051/000110465920139194/0001104659-20-139194-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 17:00:48 EST"
+            },
+            {
+                "Company Operating Name": "Territorial Bancorp Inc."
+            },
+            {
+                "CIK": "1447051"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Finance"
+            }
+        ],
+        "RAIL": [
+            {
+                "Company": "FreightCar America, Inc. (0001320854) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1320854/000117184320008772/0001171843-20-008772-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1320854/000117184320008772/0001171843-20-008772-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 17:00:16 EST"
+            },
+            {
+                "Company Operating Name": "FreightCar America, Inc."
+            },
+            {
+                "CIK": "1320854"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Manufacturing"
+            }
+        ],
+        "CCC": [
+            {
+                "Company": "CLARIVATE Plc (0001764046) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1764046/000176404620000100/0001764046-20-000100-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1764046/000176404620000100/0001764046-20-000100-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 16:58:58 EST"
+            },
+            {
+                "Company Operating Name": "CLARIVATE Plc"
+            },
+            {
+                "CIK": "1764046"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Technology"
+            }
+        ],
+        "TALO": [
+            {
+                "Company": "TALOS ENERGY INC. (0001724965) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1724965/000119312520326106/0001193125-20-326106-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1724965/000119312520326106/0001193125-20-326106-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 16:53:02 EST"
+            },
+            {
+                "Company Operating Name": "TALOS ENERGY INC."
+            },
+            {
+                "CIK": "1724965"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Energy & Transportation"
+            }
+        ],
+        "GMHIW": [
+            {
+                "Company": "Luminar Technologies, Inc./DE (0001758057) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1758057/000119312520326101/0001193125-20-326101-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1758057/000119312520326101/0001193125-20-326101-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "S-1"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 16:52:13 EST"
+            },
+            {
+                "Company Operating Name": "Luminar Technologies, Inc./DE"
+            },
+            {
+                "CIK": "1758057"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "3714"
+            }
+        ],
+        "STIC-UN": [
+            {
+                "Company": "Northern Star Acquisition Corp. (0001819574) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1819574/000119312520326102/0001193125-20-326102-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1819574/000119312520326102/0001193125-20-326102-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "10-Q"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 16:50:06 EST"
+            },
+            {
+                "Company Operating Name": "Northern Star Acquisition Corp."
+            },
+            {
+                "CIK": "1819574"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Real Estate & Construction"
+            }
+        ],
+        "CNP-PB": [
+            {
+                "Company": "CENTERPOINT ENERGY INC (0001130310) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1130310/000113031020000107/0001130310-20-000107-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1130310/000113031020000107/0001130310-20-000107-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 16:46:21 EST"
+            },
+            {
+                "Company Operating Name": "CENTERPOINT ENERGY INC"
+            },
+            {
+                "CIK": "1130310"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Energy & Transportation"
+            }
+        ],
+        "MLR": [
+            {
+                "Company": "MILLER INDUSTRIES INC /TN/ (0000924822) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/924822/000092482220000057/0000924822-20-000057-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/924822/000092482220000057/0000924822-20-000057-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 16:45:37 EST"
+            },
+            {
+                "Company Operating Name": "MILLER INDUSTRIES INC /TN/"
+            },
+            {
+                "CIK": "924822"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Manufacturing"
+            }
+        ],
+        "SWI": [
+            {
+                "Company": "SolarWinds Corp (0001739942) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1739942/000173994220000138/0001739942-20-000138-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1739942/000173994220000138/0001739942-20-000138-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 16:44:49 EST"
+            },
+            {
+                "Company Operating Name": "SolarWinds Corp"
+            },
+            {
+                "CIK": "1739942"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Technology"
+            }
+        ],
+        "TRNE-WT": [
+            {
+                "Company": "Desktop Metal, Inc. (0001754820) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1754820/000110465920139158/0001104659-20-139158-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1754820/000110465920139158/0001104659-20-139158-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "S-1"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 16:43:13 EST"
+            },
+            {
+                "Company Operating Name": "Desktop Metal, Inc."
+            },
+            {
+                "CIK": "1754820"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "3559"
+            }
+        ],
+        "WHLRP": [
+            {
+                "Company": "Wheeler Real Estate Investment Trust, Inc. (0001527541) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1527541/000121390020044369/0001213900-20-044369-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1527541/000121390020044369/0001213900-20-044369-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 16:42:39 EST"
+            },
+            {
+                "Company Operating Name": "Wheeler Real Estate Investment Trust, Inc."
+            },
+            {
+                "CIK": "1527541"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Real Estate & Construction"
+            }
+        ],
+        "EAF": [
+            {
+                "Company": "GRAFTECH INTERNATIONAL LTD (0000931148) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/931148/000119312520326080/0001193125-20-326080-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/931148/000119312520326080/0001193125-20-326080-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 16:41:04 EST"
+            },
+            {
+                "Company Operating Name": "GRAFTECH INTERNATIONAL LTD"
+            },
+            {
+                "CIK": "931148"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Manufacturing"
+            }
+        ],
+        "RYAM": [
+            {
+                "Company": "RAYONIER ADVANCED MATERIALS INC. (0001597672) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1597672/000119312520326072/0001193125-20-326072-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1597672/000119312520326072/0001193125-20-326072-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 16:38:58 EST"
+            },
+            {
+                "Company Operating Name": "RAYONIER ADVANCED MATERIALS INC."
+            },
+            {
+                "CIK": "1597672"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Manufacturing"
+            }
+        ],
+        "MELI": [
+            {
+                "Company": "MERCADOLIBRE INC (0001099590) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1099590/000156276220000435/0001562762-20-000435-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1099590/000156276220000435/0001562762-20-000435-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "10-K/A"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 16:34:50 EST"
+            },
+            {
+                "Company Operating Name": "MERCADOLIBRE INC"
+            },
+            {
+                "CIK": "1099590"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Trade & Services"
+            }
+        ],
+        "NOVA": [
+            {
+                "Company": "Sunnova Energy International Inc. (0001772695) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1772695/000177269520000168/0001772695-20-000168-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1772695/000177269520000168/0001772695-20-000168-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 16:34:18 EST"
+            },
+            {
+                "Company Operating Name": "Sunnova Energy International Inc."
+            },
+            {
+                "CIK": "1772695"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Energy & Transportation"
+            }
+        ],
+        "PEG": [
+            {
+                "Company": "PUBLIC SERVICE ENTERPRISE GROUP INC (0000788784) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/788784/000119312520326052/0001193125-20-326052-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/788784/000119312520326052/0001193125-20-326052-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 16:34:03 EST"
+            },
+            {
+                "Company Operating Name": "PUBLIC SERVICE ENTERPRISE GROUP INC"
+            },
+            {
+                "CIK": "788784"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Energy & Transportation"
+            }
+        ],
+        "EQIX": [
+            {
+                "Company": "EQUINIX INC (0001101239) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1101239/000162828020017733/0001628280-20-017733-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1101239/000162828020017733/0001628280-20-017733-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 16:33:48 EST"
+            },
+            {
+                "Company Operating Name": "EQUINIX INC"
+            },
+            {
+                "CIK": "1101239"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Real Estate & Construction"
+            }
+        ],
+        "VNTR": [
+            {
+                "Company": "Venator Materials PLC (0001705682) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1705682/000110465920139138/0001104659-20-139138-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1705682/000110465920139138/0001104659-20-139138-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 16:30:34 EST"
+            },
+            {
+                "Company Operating Name": "Venator Materials PLC"
+            },
+            {
+                "CIK": "1705682"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Life Sciences"
+            }
+        ],
+        "NBSE": [
+            {
+                "Company": "NeuBase Therapeutics, Inc. (0001173281) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1173281/000110465920139139/0001104659-20-139139-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1173281/000110465920139139/0001104659-20-139139-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "10-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 16:31:20 EST"
+            },
+            {
+                "Company Operating Name": "NeuBase Therapeutics, Inc."
+            },
+            {
+                "CIK": "1173281"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Life Sciences"
+            }
+        ],
+        "ASNA": [
+            {
+                "Company": "Ascena Retail Group, Inc. (0001498301) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1498301/000110465920139140/0001104659-20-139140-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1498301/000110465920139140/0001104659-20-139140-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 16:31:12 EST"
+            },
+            {
+                "Company Operating Name": "Ascena Retail Group, Inc."
+            },
+            {
+                "CIK": "1498301"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Trade & Services"
+            }
+        ],
+        "RMNI": [
+            {
+                "Company": "Rimini Street, Inc. (0001635282) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1635282/000163528220000091/0001635282-20-000091-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1635282/000163528220000091/0001635282-20-000091-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 16:31:01 EST"
+            },
+            {
+                "Company Operating Name": "Rimini Street, Inc."
+            },
+            {
+                "CIK": "1635282"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Trade & Services"
+            }
+        ],
+        "HGV": [
+            {
+                "Company": "Hilton Grand Vacations Inc. (0001674168) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1674168/000119312520326041/0001193125-20-326041-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1674168/000119312520326041/0001193125-20-326041-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 16:30:58 EST"
+            },
+            {
+                "Company Operating Name": "Hilton Grand Vacations Inc."
+            },
+            {
+                "CIK": "1674168"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Real Estate & Construction"
+            }
+        ],
+        "CNDT": [
+            {
+                "Company": "CONDUENT Inc (0001677703) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1677703/000119312520326040/0001193125-20-326040-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1677703/000119312520326040/0001193125-20-326040-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 16:30:55 EST"
+            },
+            {
+                "Company Operating Name": "CONDUENT Inc"
+            },
+            {
+                "CIK": "1677703"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Trade & Services"
+            }
+        ],
+        "HESM": [
+            {
+                "Company": "Hess Midstream LP (0001789832) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1789832/000119312520326039/0001193125-20-326039-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1789832/000119312520326039/0001193125-20-326039-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 16:30:55 EST"
+            },
+            {
+                "Company Operating Name": "Hess Midstream LP"
+            },
+            {
+                "CIK": "1789832"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Energy & Transportation"
+            }
+        ],
+        "CATC": [
+            {
+                "Company": "CAMBRIDGE BANCORP (0000711772) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/711772/000156459020058238/0001564590-20-058238-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/711772/000156459020058238/0001564590-20-058238-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 16:30:33 EST"
+            },
+            {
+                "Company Operating Name": "CAMBRIDGE BANCORP"
+            },
+            {
+                "CIK": "711772"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Finance"
+            }
+        ],
+        "BERY": [
+            {
+                "Company": "BERRY GLOBAL GROUP, INC. (0001378992) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1378992/000110465920139137/0001104659-20-139137-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1378992/000110465920139137/0001104659-20-139137-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 16:30:31 EST"
+            },
+            {
+                "Company Operating Name": "BERRY GLOBAL GROUP, INC."
+            },
+            {
+                "CIK": "1378992"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Manufacturing"
+            }
+        ],
+        "WD": [
+            {
+                "Company": "Walker & Dunlop, Inc. (0001497770) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1497770/000110465920139136/0001104659-20-139136-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1497770/000110465920139136/0001104659-20-139136-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 16:30:11 EST"
+            },
+            {
+                "Company Operating Name": "Walker & Dunlop, Inc."
+            },
+            {
+                "CIK": "1497770"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Finance"
+            }
+        ],
+        "ICTSF": [
+            {
+                "Company": "ICTS INTERNATIONAL N V (0001010134) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1010134/000117891320003441/0001178913-20-003441-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1010134/000117891320003441/0001178913-20-003441-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "6-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 16:28:15 EST"
+            },
+            {
+                "Company Operating Name": "ICTS INTERNATIONAL N V"
+            },
+            {
+                "CIK": "1010134"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Trade & Services"
+            }
+        ],
+        "PETQ": [
+            {
+                "Company": "PetIQ, Inc. (0001668673) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1668673/000155837020014538/0001558370-20-014538-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1668673/000155837020014538/0001558370-20-014538-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 16:28:14 EST"
+            },
+            {
+                "Company Operating Name": "PetIQ, Inc."
+            },
+            {
+                "CIK": "1668673"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Trade & Services"
+            }
+        ],
+        "PAYX": [
+            {
+                "Company": "PAYCHEX INC (0000723531) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/723531/000072353120000071/0000723531-20-000071-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/723531/000072353120000071/0000723531-20-000071-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 08:47:33 EST"
+            },
+            {
+                "Company Operating Name": "PAYCHEX INC"
+            },
+            {
+                "CIK": "723531"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Trade & Services"
+            }
+        ],
+        "MPB": [
+            {
+                "Company": "MID PENN BANCORP INC (0000879635) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/879635/000156459020058106/0001564590-20-058106-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/879635/000156459020058106/0001564590-20-058106-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 09:58:07 EST"
+            },
+            {
+                "Company Operating Name": "MID PENN BANCORP INC"
+            },
+            {
+                "CIK": "879635"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Finance"
+            }
+        ],
+        "PVBC": [
+            {
+                "Company": "Provident Bancorp, Inc. /MD/ (0001778784) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1778784/000177878420000037/0001778784-20-000037-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1778784/000177878420000037/0001778784-20-000037-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 16:27:31 EST"
+            },
+            {
+                "Company Operating Name": "Provident Bancorp, Inc. /MD/"
+            },
+            {
+                "CIK": "1778784"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Finance"
+            }
+        ],
+        "AGM-PF": [
+            {
+                "Company": "FEDERAL AGRICULTURAL MORTGAGE CORP (0000845877) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/845877/000084587720000231/0000845877-20-000231-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/845877/000084587720000231/0000845877-20-000231-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 16:26:22 EST"
+            },
+            {
+                "Company Operating Name": "FEDERAL AGRICULTURAL MORTGAGE CORP"
+            },
+            {
+                "CIK": "845877"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Finance"
+            }
+        ],
+        "CARR": [
+            {
+                "Company": "Carrier Global Corp (0001783180) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1783180/000114036120029419/0001140361-20-029419-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1783180/000114036120029419/0001140361-20-029419-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 16:24:38 EST"
+            },
+            {
+                "Company Operating Name": "Carrier Global Corp"
+            },
+            {
+                "CIK": "1783180"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Technology"
+            }
+        ],
+        "MFINL": [
+            {
+                "Company": "MEDALLION FINANCIAL CORP (0001000209) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1000209/000119312520326023/0001193125-20-326023-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1000209/000119312520326023/0001193125-20-326023-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 16:22:03 EST"
+            },
+            {
+                "Company Operating Name": "MEDALLION FINANCIAL CORP"
+            },
+            {
+                "CIK": "1000209"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Finance"
+            }
+        ],
+        "Lincolnway Energy, LLC (0001350420) (Filer)": [
+            {
+                "Company": "Lincolnway Energy, LLC (0001350420) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1350420/000135042020000010/0001350420-20-000010-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1350420/000135042020000010/0001350420-20-000010-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "10-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 16:21:55 EST"
+            },
+            {
+                "Company Operating Name": "Lincolnway Energy, LLC"
+            },
+            {
+                "CIK": "1350420"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Life Sciences"
+            }
+        ],
+        "TCFC": [
+            {
+                "Company": "COMMUNITY FINANCIAL CORP /MD/ (0000855874) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/855874/000117184320008768/0001171843-20-008768-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/855874/000117184320008768/0001171843-20-008768-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 16:20:57 EST"
+            },
+            {
+                "Company Operating Name": "COMMUNITY FINANCIAL CORP /MD/"
+            },
+            {
+                "CIK": "855874"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Finance"
+            }
+        ],
+        "BEDU": [
+            {
+                "Company": "Bright Scholar Education Holdings Ltd (0001696355) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1696355/000110465920139121/0001104659-20-139121-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1696355/000110465920139121/0001104659-20-139121-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "20-F"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 16:20:51 EST"
+            },
+            {
+                "Company Operating Name": "Bright Scholar Education Holdings Ltd"
+            },
+            {
+                "CIK": "1696355"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Trade & Services"
+            }
+        ],
+        "TGI": [
+            {
+                "Company": "TRIUMPH GROUP INC (0001021162) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1021162/000119312520326013/0001193125-20-326013-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1021162/000119312520326013/0001193125-20-326013-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K/A"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 16:18:39 EST"
+            },
+            {
+                "Company Operating Name": "TRIUMPH GROUP INC"
+            },
+            {
+                "CIK": "1021162"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Manufacturing"
+            }
+        ],
+        "EPZM": [
+            {
+                "Company": "Epizyme, Inc. (0001571498) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1571498/000119312520326011/0001193125-20-326011-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1571498/000119312520326011/0001193125-20-326011-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 16:17:53 EST"
+            },
+            {
+                "Company Operating Name": "Epizyme, Inc."
+            },
+            {
+                "CIK": "1571498"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Life Sciences"
+            }
+        ],
+        "AMED": [
+            {
+                "Company": "AMEDISYS INC (0000896262) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/896262/000119312520326002/0001193125-20-326002-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/896262/000119312520326002/0001193125-20-326002-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 16:16:01 EST"
+            },
+            {
+                "Company Operating Name": "AMEDISYS INC"
+            },
+            {
+                "CIK": "896262"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Life Sciences"
+            }
+        ],
+        "MVBF": [
+            {
+                "Company": "MVB FINANCIAL CORP (0001277902) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1277902/000127790220000181/0001277902-20-000181-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1277902/000127790220000181/0001277902-20-000181-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 16:15:55 EST"
+            },
+            {
+                "Company Operating Name": "MVB FINANCIAL CORP"
+            },
+            {
+                "CIK": "1277902"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Finance"
+            }
+        ],
+        "MGTA": [
+            {
+                "Company": "Magenta Therapeutics, Inc. (0001690585) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1690585/000119312520326001/0001193125-20-326001-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1690585/000119312520326001/0001193125-20-326001-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 16:15:54 EST"
+            },
+            {
+                "Company Operating Name": "Magenta Therapeutics, Inc."
+            },
+            {
+                "CIK": "1690585"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Life Sciences"
+            }
+        ],
+        "MIC": [
+            {
+                "Company": "Macquarie Infrastructure Corp (0001289790) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1289790/000115752320001625/0001157523-20-001625-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1289790/000115752320001625/0001157523-20-001625-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 16:15:53 EST"
+            },
+            {
+                "Company Operating Name": "Macquarie Infrastructure Corp"
+            },
+            {
+                "CIK": "1289790"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Trade & Services"
+            }
+        ],
+        "FTAI-PB": [
+            {
+                "Company": "Fortress Transportation & Infrastructure Investors LLC (0001590364) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1590364/000114036120029408/0001140361-20-029408-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1590364/000114036120029408/0001140361-20-029408-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 16:15:37 EST"
+            },
+            {
+                "Company Operating Name": "Fortress Transportation & Infrastructure Investors LLC"
+            },
+            {
+                "CIK": "1590364"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Trade & Services"
+            }
+        ],
+        "CLDR": [
+            {
+                "Company": "Cloudera, Inc. (0001535379) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1535379/000162828020017702/0001628280-20-017702-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1535379/000162828020017702/0001628280-20-017702-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Tue, 22 Dec 2020 17:55:02 EST"
+            },
+            {
+                "Company Operating Name": "Cloudera, Inc."
+            },
+            {
+                "CIK": "1535379"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Technology"
+            }
+        ],
+        "BHVN": [
+            {
+                "Company": "Biohaven Pharmaceutical Holding Co Ltd. (0001689813) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1689813/000162828020017731/0001628280-20-017731-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1689813/000162828020017731/0001628280-20-017731-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 16:12:53 EST"
+            },
+            {
+                "Company Operating Name": "Biohaven Pharmaceutical Holding Co Ltd."
+            },
+            {
+                "CIK": "1689813"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Life Sciences"
+            }
+        ],
+        "PEBO": [
+            {
+                "Company": "PEOPLES BANCORP INC (0000318300) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/318300/000031830020000352/0000318300-20-000352-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/318300/000031830020000352/0000318300-20-000352-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 16:12:08 EST"
+            },
+            {
+                "Company Operating Name": "PEOPLES BANCORP INC"
+            },
+            {
+                "CIK": "318300"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Finance"
+            }
+        ],
+        "VRCA": [
+            {
+                "Company": "Verrica Pharmaceuticals Inc. (0001660334) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1660334/000119312520325991/0001193125-20-325991-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1660334/000119312520325991/0001193125-20-325991-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 16:11:54 EST"
+            },
+            {
+                "Company Operating Name": "Verrica Pharmaceuticals Inc."
+            },
+            {
+                "CIK": "1660334"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Life Sciences"
+            }
+        ],
+        "TRCH": [
+            {
+                "Company": "TORCHLIGHT ENERGY RESOURCES INC (0001431959) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1431959/000119983520000351/0001199835-20-000351-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1431959/000119983520000351/0001199835-20-000351-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 16:11:26 EST"
+            },
+            {
+                "Company Operating Name": "TORCHLIGHT ENERGY RESOURCES INC"
+            },
+            {
+                "CIK": "1431959"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Energy & Transportation"
+            }
+        ],
+        "AMT": [
+            {
+                "Company": "AMERICAN TOWER CORP /MA/ (0001053507) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1053507/000105350720000178/0001053507-20-000178-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1053507/000105350720000178/0001053507-20-000178-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 16:07:31 EST"
+            },
+            {
+                "Company Operating Name": "AMERICAN TOWER CORP /MA/"
+            },
+            {
+                "CIK": "1053507"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Real Estate & Construction"
+            }
+        ],
+        "SYRS": [
+            {
+                "Company": "Syros Pharmaceuticals, Inc. (0001556263) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1556263/000119312520325976/0001193125-20-325976-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1556263/000119312520325976/0001193125-20-325976-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 16:07:30 EST"
+            },
+            {
+                "Company Operating Name": "Syros Pharmaceuticals, Inc."
+            },
+            {
+                "CIK": "1556263"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Life Sciences"
+            }
+        ],
+        "MNTX": [
+            {
+                "Company": "Manitex International, Inc. (0001302028) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1302028/000119312520325969/0001193125-20-325969-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1302028/000119312520325969/0001193125-20-325969-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 16:05:55 EST"
+            },
+            {
+                "Company Operating Name": "Manitex International, Inc."
+            },
+            {
+                "CIK": "1302028"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Technology"
+            }
+        ],
+        "PTE": [
+            {
+                "Company": "POLARITYTE, INC. (0001076682) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1076682/000149315220024219/0001493152-20-024219-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1076682/000149315220024219/0001493152-20-024219-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 16:05:40 EST"
+            },
+            {
+                "Company Operating Name": "POLARITYTE, INC."
+            },
+            {
+                "CIK": "1076682"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Life Sciences"
+            }
+        ],
+        "MTSC": [
+            {
+                "Company": "MTS SYSTEMS CORP (0000068709) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/68709/000149315220024220/0001493152-20-024220-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/68709/000149315220024220/0001493152-20-024220-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 16:05:40 EST"
+            },
+            {
+                "Company Operating Name": "MTS SYSTEMS CORP"
+            },
+            {
+                "CIK": "68709"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Life Sciences"
+            }
+        ],
+        "TTD": [
+            {
+                "Company": "Trade Desk, Inc. (0001671933) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1671933/000156459020058218/0001564590-20-058218-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1671933/000156459020058218/0001564590-20-058218-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 16:05:35 EST"
+            },
+            {
+                "Company Operating Name": "Trade Desk, Inc."
+            },
+            {
+                "CIK": "1671933"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Technology"
+            }
+        ],
+        "FOXF": [
+            {
+                "Company": "FOX FACTORY HOLDING CORP (0001424929) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1424929/000142492920000113/0001424929-20-000113-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1424929/000142492920000113/0001424929-20-000113-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 16:05:35 EST"
+            },
+            {
+                "Company Operating Name": "FOX FACTORY HOLDING CORP"
+            },
+            {
+                "CIK": "1424929"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Manufacturing"
+            }
+        ],
+        "PRAA": [
+            {
+                "Company": "PRA GROUP INC (0001185348) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1185348/000118534820000036/0001185348-20-000036-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1185348/000118534820000036/0001185348-20-000036-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 16:05:16 EST"
+            },
+            {
+                "Company Operating Name": "PRA GROUP INC"
+            },
+            {
+                "CIK": "1185348"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Trade & Services"
+            }
+        ],
+        "CIT-PB": [
+            {
+                "Company": "CIT GROUP INC (0001171825) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1171825/000119312520325968/0001193125-20-325968-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1171825/000119312520325968/0001193125-20-325968-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 16:05:03 EST"
+            },
+            {
+                "Company Operating Name": "CIT GROUP INC"
+            },
+            {
+                "CIK": "1171825"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Finance"
+            }
+        ],
+        "YRCW": [
+            {
+                "Company": "YRC Worldwide Inc. (0000716006) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/716006/000156459020058216/0001564590-20-058216-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/716006/000156459020058216/0001564590-20-058216-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 16:04:30 EST"
+            },
+            {
+                "Company Operating Name": "YRC Worldwide Inc."
+            },
+            {
+                "CIK": "716006"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Energy & Transportation"
+            }
+        ],
+        "PLD": [
+            {
+                "Company": "Prologis, Inc. (0001045609) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1045609/000110465920139072/0001104659-20-139072-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1045609/000110465920139072/0001104659-20-139072-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 16:04:10 EST"
+            },
+            {
+                "Company Operating Name": "Prologis, Inc."
+            },
+            {
+                "CIK": "1045609"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Real Estate & Construction"
+            }
+        ],
+        "XENT": [
+            {
+                "Company": "Intersect ENT, Inc. (0001271214) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1271214/000127121420000017/0001271214-20-000017-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1271214/000127121420000017/0001271214-20-000017-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 16:03:11 EST"
+            },
+            {
+                "Company Operating Name": "Intersect ENT, Inc."
+            },
+            {
+                "CIK": "1271214"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Life Sciences"
+            }
+        ],
+        "LVS": [
+            {
+                "Company": "LAS VEGAS SANDS CORP (0001300514) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1300514/000130051420000150/0001300514-20-000150-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1300514/000130051420000150/0001300514-20-000150-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 16:02:50 EST"
+            },
+            {
+                "Company Operating Name": "LAS VEGAS SANDS CORP"
+            },
+            {
+                "CIK": "1300514"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Real Estate & Construction"
+            }
+        ],
+        "RKT": [
+            {
+                "Company": "Rocket Companies, Inc. (0001805284) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1805284/000180528420000038/0001805284-20-000038-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1805284/000180528420000038/0001805284-20-000038-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 16:02:29 EST"
+            },
+            {
+                "Company Operating Name": "Rocket Companies, Inc."
+            },
+            {
+                "CIK": "1805284"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Finance"
+            }
+        ],
+        "CRM": [
+            {
+                "Company": "SALESFORCE.COM, INC. (0001108524) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1108524/000119312520325960/0001193125-20-325960-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1108524/000119312520325960/0001193125-20-325960-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 16:02:03 EST"
+            },
+            {
+                "Company Operating Name": "SALESFORCE.COM, INC."
+            },
+            {
+                "CIK": "1108524"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Technology"
+            }
+        ],
+        "CASI": [
+            {
+                "Company": "CASI Pharmaceuticals, Inc. (0000895051) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/895051/000110465920139057/0001104659-20-139057-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/895051/000110465920139057/0001104659-20-139057-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 16:01:28 EST"
+            },
+            {
+                "Company Operating Name": "CASI Pharmaceuticals, Inc."
+            },
+            {
+                "CIK": "895051"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Life Sciences"
+            }
+        ],
+        "SIF": [
+            {
+                "Company": "SIFCO INDUSTRIES INC (0000090168) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/90168/000009016820000042/0000090168-20-000042-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/90168/000009016820000042/0000090168-20-000042-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "10-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 15:59:45 EST"
+            },
+            {
+                "Company Operating Name": "SIFCO INDUSTRIES INC"
+            },
+            {
+                "CIK": "90168"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Manufacturing"
+            }
+        ],
+        "LegacyXChange, Inc. (0001423579) (Filer)": [
+            {
+                "Company": "LegacyXChange, Inc. (0001423579) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1423579/000121390020044308/0001213900-20-044308-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1423579/000121390020044308/0001213900-20-044308-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "10-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 15:30:19 EST"
+            },
+            {
+                "Company Operating Name": "LegacyXChange, Inc."
+            },
+            {
+                "CIK": "1423579"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Trade & Services"
+            }
+        ],
+        "GBNY": [
+            {
+                "Company": "Generations Bancorp NY, Inc. (0001823365) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1823365/000155837020014536/0001558370-20-014536-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1823365/000155837020014536/0001558370-20-014536-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "10-Q"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 15:27:35 EST"
+            },
+            {
+                "Company Operating Name": "Generations Bancorp NY, Inc."
+            },
+            {
+                "CIK": "1823365"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Finance"
+            }
+        ],
+        "HEI-A": [
+            {
+                "Company": "HEICO CORP (0000046619) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/46619/000004661920000078/0000046619-20-000078-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/46619/000004661920000078/0000046619-20-000078-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "10-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 15:22:18 EST"
+            },
+            {
+                "Company Operating Name": "HEICO CORP"
+            },
+            {
+                "CIK": "46619"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Manufacturing"
+            }
+        ],
+        "HALL": [
+            {
+                "Company": "HALLMARK FINANCIAL SERVICES INC (0000819913) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/819913/000110465920138999/0001104659-20-138999-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/819913/000110465920138999/0001104659-20-138999-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 14:31:15 EST"
+            },
+            {
+                "Company Operating Name": "HALLMARK FINANCIAL SERVICES INC"
+            },
+            {
+                "CIK": "819913"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Finance"
+            }
+        ],
+        "RMES": [
+            {
+                "Company": "RED METAL RESOURCES, LTD. (0001358654) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1358654/000139390520000367/0001393905-20-000367-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1358654/000139390520000367/0001393905-20-000367-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "S-4/A"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 14:28:23 EST"
+            },
+            {
+                "Company Operating Name": "RED METAL RESOURCES, LTD."
+            },
+            {
+                "CIK": "1358654"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "1000"
+            }
+        ],
+        "AMERICAN EXPRESS CREDIT CORP (0000004969) (Filer)": [
+            {
+                "Company": "AMERICAN EXPRESS CREDIT CORP (0000004969) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/4969/000000496920000054/0000004969-20-000054-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/4969/000000496920000054/0000004969-20-000054-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 14:26:42 EST"
+            },
+            {
+                "Company Operating Name": "AMERICAN EXPRESS CREDIT CORP"
+            },
+            {
+                "CIK": "4969"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Finance"
+            }
+        ],
+        "MNRO": [
+            {
+                "Company": "MONRO, INC. (0000876427) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/876427/000119312520325695/0001193125-20-325695-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/876427/000119312520325695/0001193125-20-325695-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 13:43:00 EST"
+            },
+            {
+                "Company Operating Name": "MONRO, INC."
+            },
+            {
+                "CIK": "876427"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Trade & Services"
+            }
+        ],
+        "SNDE": [
+            {
+                "Company": "Sundance Energy Inc. (0001326089) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1326089/000110465920138979/0001104659-20-138979-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1326089/000110465920138979/0001104659-20-138979-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 13:42:50 EST"
+            },
+            {
+                "Company Operating Name": "Sundance Energy Inc."
+            },
+            {
+                "CIK": "1326089"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Energy & Transportation"
+            }
+        ],
+        "ECOLW": [
+            {
+                "Company": "US Ecology, Inc. (0001783400) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1783400/000168316820004435/0001683168-20-004435-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1783400/000168316820004435/0001683168-20-004435-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 13:37:36 EST"
+            },
+            {
+                "Company Operating Name": "US Ecology, Inc."
+            },
+            {
+                "CIK": "1783400"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Energy & Transportation"
+            }
+        ],
+        "LBC": [
+            {
+                "Company": "Luther Burbank Corp (0001475348) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1475348/000147534820000054/0001475348-20-000054-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1475348/000147534820000054/0001475348-20-000054-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 13:17:03 EST"
+            },
+            {
+                "Company Operating Name": "Luther Burbank Corp"
+            },
+            {
+                "CIK": "1475348"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Finance"
+            }
+        ],
+        "CIM INCOME NAV, INC. (0001498542) (Filer)": [
+            {
+                "Company": "CIM INCOME NAV, INC. (0001498542) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1498542/000149854220000144/0001498542-20-000144-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1498542/000149854220000144/0001498542-20-000144-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 12:44:49 EST"
+            },
+            {
+                "Company Operating Name": "CIM INCOME NAV, INC."
+            },
+            {
+                "CIK": "1498542"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Real Estate & Construction"
+            }
+        ],
+        "TVE": [
+            {
+                "Company": "Tennessee Valley Authority (0001376986) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1376986/000137698620000039/0001376986-20-000039-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1376986/000137698620000039/0001376986-20-000039-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 12:25:25 EST"
+            },
+            {
+                "Company Operating Name": "Tennessee Valley Authority"
+            },
+            {
+                "CIK": "1376986"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Energy & Transportation"
+            }
+        ],
+        "GRAH": [
+            {
+                "Company": "Griffin-American Healthcare REIT III, Inc. (0001566912) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1566912/000156691220000081/0001566912-20-000081-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1566912/000156691220000081/0001566912-20-000081-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 12:06:45 EST"
+            },
+            {
+                "Company Operating Name": "Griffin-American Healthcare REIT III, Inc."
+            },
+            {
+                "CIK": "1566912"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Real Estate & Construction"
+            }
+        ],
+        "ZYRX": [
+            {
+                "Company": "ZYROX MINING INTERNATIONAL INC (0001558740) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1558740/000121390020044241/0001213900-20-044241-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1558740/000121390020044241/0001213900-20-044241-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "10-Q"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 11:50:05 EST"
+            },
+            {
+                "Company Operating Name": "ZYROX MINING INTERNATIONAL INC"
+            },
+            {
+                "CIK": "1558740"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Life Sciences"
+            }
+        ],
+        "SESN": [
+            {
+                "Company": "Sesen Bio, Inc. (0001485003) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1485003/000148500320000146/0001485003-20-000146-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1485003/000148500320000146/0001485003-20-000146-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 11:46:45 EST"
+            },
+            {
+                "Company Operating Name": "Sesen Bio, Inc."
+            },
+            {
+                "CIK": "1485003"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Life Sciences"
+            }
+        ],
+        "VBIV": [
+            {
+                "Company": "VBI Vaccines Inc/BC (0000764195) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/764195/000149315220024189/0001493152-20-024189-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/764195/000149315220024189/0001493152-20-024189-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 11:21:54 EST"
+            },
+            {
+                "Company Operating Name": "VBI Vaccines Inc/BC"
+            },
+            {
+                "CIK": "764195"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Life Sciences"
+            }
+        ],
+        "CRHM": [
+            {
+                "Company": "CRH Medical Corp (0001461119) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1461119/000119312520324892/0001193125-20-324892-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1461119/000119312520324892/0001193125-20-324892-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Tue, 22 Dec 2020 21:33:00 EST"
+            },
+            {
+                "Company Operating Name": "CRH Medical Corp"
+            },
+            {
+                "CIK": "1461119"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Life Sciences"
+            }
+        ],
+        "FREJP": [
+            {
+                "Company": "FEDERAL HOME LOAN MORTGAGE CORP (0001026214) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1026214/000102621420000085/0001026214-20-000085-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1026214/000102621420000085/0001026214-20-000085-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 11:17:44 EST"
+            },
+            {
+                "Company Operating Name": "FEDERAL HOME LOAN MORTGAGE CORP"
+            },
+            {
+                "CIK": "1026214"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Finance"
+            }
+        ],
+        "STBA": [
+            {
+                "Company": "S&T BANCORP INC (0000719220) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/719220/000071922020000089/0000719220-20-000089-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/719220/000071922020000089/0000719220-20-000089-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 09:52:40 EST"
+            },
+            {
+                "Company Operating Name": "S&T BANCORP INC"
+            },
+            {
+                "CIK": "719220"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Finance"
+            }
+        ],
+        "CMRX": [
+            {
+                "Company": "CHIMERIX INC (0001117480) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1117480/000111748020000035/0001117480-20-000035-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1117480/000111748020000035/0001117480-20-000035-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 09:31:04 EST"
+            },
+            {
+                "Company Operating Name": "CHIMERIX INC"
+            },
+            {
+                "CIK": "1117480"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Life Sciences"
+            }
+        ],
+        "BLIN": [
+            {
+                "Company": "Bridgeline Digital, Inc. (0001378590) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1378590/000143774920025835/0001437749-20-025835-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1378590/000143774920025835/0001437749-20-025835-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "10-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 09:13:36 EST"
+            },
+            {
+                "Company Operating Name": "Bridgeline Digital, Inc."
+            },
+            {
+                "CIK": "1378590"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Technology"
+            }
+        ],
+        "UVV": [
+            {
+                "Company": "UNIVERSAL CORP /VA/ (0000102037) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/102037/000010203720000050/0000102037-20-000050-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/102037/000010203720000050/0000102037-20-000050-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 09:03:42 EST"
+            },
+            {
+                "Company Operating Name": "UNIVERSAL CORP /VA/"
+            },
+            {
+                "CIK": "102037"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Trade & Services"
+            }
+        ],
+        "AMBC-WT": [
+            {
+                "Company": "AMBAC FINANCIAL GROUP INC (0000874501) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/874501/000087450120000134/0000874501-20-000134-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/874501/000087450120000134/0000874501-20-000134-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 09:02:41 EST"
+            },
+            {
+                "Company Operating Name": "AMBAC FINANCIAL GROUP INC"
+            },
+            {
+                "CIK": "874501"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Finance"
+            }
+        ],
+        "ENLC": [
+            {
+                "Company": "EnLink Midstream, LLC (0001592000) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1592000/000110465920138874/0001104659-20-138874-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1592000/000110465920138874/0001104659-20-138874-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 08:32:19 EST"
+            },
+            {
+                "Company Operating Name": "EnLink Midstream, LLC"
+            },
+            {
+                "CIK": "1592000"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Energy & Transportation"
+            }
+        ],
+        "FTSI": [
+            {
+                "Company": "FTS International, Inc. (0001529463) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1529463/000095010320024626/0000950103-20-024626-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1529463/000095010320024626/0000950103-20-024626-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 08:04:08 EST"
+            },
+            {
+                "Company Operating Name": "FTS International, Inc."
+            },
+            {
+                "CIK": "1529463"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Energy & Transportation"
+            }
+        ],
+        "VRTU": [
+            {
+                "Company": "VIRTUSA CORP (0001207074) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1207074/000110465920138871/0001104659-20-138871-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1207074/000110465920138871/0001104659-20-138871-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 08:00:15 EST"
+            },
+            {
+                "Company Operating Name": "VIRTUSA CORP"
+            },
+            {
+                "CIK": "1207074"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Technology"
+            }
+        ],
+        "HUM": [
+            {
+                "Company": "HUMANA INC (0000049071) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/49071/000119312520325255/0001193125-20-325255-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/49071/000119312520325255/0001193125-20-325255-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 07:53:31 EST"
+            },
+            {
+                "Company Operating Name": "HUMANA INC"
+            },
+            {
+                "CIK": "49071"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Finance"
+            }
+        ],
+        "MRNA": [
+            {
+                "Company": "Moderna, Inc. (0001682852) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1682852/000119312520325251/0001193125-20-325251-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1682852/000119312520325251/0001193125-20-325251-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 07:48:30 EST"
+            },
+            {
+                "Company Operating Name": "Moderna, Inc."
+            },
+            {
+                "CIK": "1682852"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Life Sciences"
+            }
+        ],
+        "AMTBB": [
+            {
+                "Company": "Amerant Bancorp Inc. (0001734342) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1734342/000119312520325249/0001193125-20-325249-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1734342/000119312520325249/0001193125-20-325249-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 07:48:02 EST"
+            },
+            {
+                "Company Operating Name": "Amerant Bancorp Inc."
+            },
+            {
+                "CIK": "1734342"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Finance"
+            }
+        ],
+        "RCL": [
+            {
+                "Company": "ROYAL CARIBBEAN CRUISES LTD (0000884887) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/884887/000110465920138657/0001104659-20-138657-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/884887/000110465920138657/0001104659-20-138657-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Tue, 22 Dec 2020 17:25:25 EST"
+            },
+            {
+                "Company Operating Name": "ROYAL CARIBBEAN CRUISES LTD"
+            },
+            {
+                "CIK": "884887"
+            },
+            {
+                "Publication Date": "12/22/2020"
+            },
+            {
+                "Assistant Director": "Office of Energy & Transportation"
+            }
+        ],
+        "CYTK": [
+            {
+                "Company": "CYTOKINETICS INC (0001061983) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1061983/000117184320008748/0001171843-20-008748-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1061983/000117184320008748/0001171843-20-008748-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 07:30:14 EST"
+            },
+            {
+                "Company Operating Name": "CYTOKINETICS INC"
+            },
+            {
+                "CIK": "1061983"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Life Sciences"
+            }
+        ],
+        "LGC-WT": [
+            {
+                "Company": "PARTS iD, Inc. (0001698113) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1698113/000121390020044198/0001213900-20-044198-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1698113/000121390020044198/0001213900-20-044198-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 07:00:35 EST"
+            },
+            {
+                "Company Operating Name": "PARTS iD, Inc."
+            },
+            {
+                "CIK": "1698113"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Trade & Services"
+            }
+        ],
+        "FSR-WT": [
+            {
+                "Company": "Fisker Inc./DE (0001720990) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1720990/000119312520325203/0001193125-20-325203-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1720990/000119312520325203/0001193125-20-325203-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 07:00:32 EST"
+            },
+            {
+                "Company Operating Name": "Fisker Inc./DE"
+            },
+            {
+                "CIK": "1720990"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Manufacturing"
+            }
+        ],
+        "CATM": [
+            {
+                "Company": "Cardtronics plc (0001671013) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1671013/000110465920138826/0001104659-20-138826-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1671013/000110465920138826/0001104659-20-138826-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 06:28:13 EST"
+            },
+            {
+                "Company Operating Name": "Cardtronics plc"
+            },
+            {
+                "CIK": "1671013"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Trade & Services"
+            }
+        ],
+        "GTLS": [
+            {
+                "Company": "CHART INDUSTRIES INC (0000892553) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/892553/000119312520325170/0001193125-20-325170-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/892553/000119312520325170/0001193125-20-325170-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 06:20:00 EST"
+            },
+            {
+                "Company Operating Name": "CHART INDUSTRIES INC"
+            },
+            {
+                "CIK": "892553"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Manufacturing"
+            }
+        ],
+        "TUCSON ELECTRIC POWER CO (0000100122) (Filer)": [
+            {
+                "Company": "TUCSON ELECTRIC POWER CO (0000100122) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/100122/000010012220000034/0000100122-20-000034-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/100122/000010012220000034/0000100122-20-000034-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 06:17:48 EST"
+            },
+            {
+                "Company Operating Name": "TUCSON ELECTRIC POWER CO"
+            },
+            {
+                "CIK": "100122"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Energy & Transportation"
+            }
+        ],
+        "SMFG": [
+            {
+                "Company": "SUMITOMO MITSUI FINANCIAL GROUP, INC. (0001022837) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1022837/000119312520325162/0001193125-20-325162-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1022837/000119312520325162/0001193125-20-325162-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "6-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 06:15:18 EST"
+            },
+            {
+                "Company Operating Name": "SUMITOMO MITSUI FINANCIAL GROUP, INC."
+            },
+            {
+                "CIK": "1022837"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Finance"
+            }
+        ],
+        "OPESW": [
+            {
+                "Company": "BurgerFi International, Inc. (0001723580) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1723580/000121390020044181/0001213900-20-044181-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1723580/000121390020044181/0001213900-20-044181-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 06:12:38 EST"
+            },
+            {
+                "Company Operating Name": "BurgerFi International, Inc."
+            },
+            {
+                "CIK": "1723580"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Trade & Services"
+            }
+        ],
+        "ACAMW": [
+            {
+                "Company": "Acamar Partners Acquisition Corp. (0001759008) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1759008/000110465920138790/0001104659-20-138790-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1759008/000110465920138790/0001104659-20-138790-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "S-4/A"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 06:05:04 EST"
+            },
+            {
+                "Company Operating Name": "Acamar Partners Acquisition Corp."
+            },
+            {
+                "CIK": "1759008"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "5500"
+            }
+        ],
+        "SRNE": [
+            {
+                "Company": "Sorrento Therapeutics, Inc. (0000850261) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/850261/000110465920138784/0001104659-20-138784-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/850261/000110465920138784/0001104659-20-138784-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Wed, 23 Dec 2020 06:01:40 EST"
+            },
+            {
+                "Company Operating Name": "Sorrento Therapeutics, Inc."
+            },
+            {
+                "CIK": "850261"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Life Sciences"
+            }
+        ],
+        "HZNP": [
+            {
+                "Company": "Horizon Therapeutics Public Ltd Co (0001492426) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1492426/000119312520324906/0001193125-20-324906-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1492426/000119312520324906/0001193125-20-324906-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Tue, 22 Dec 2020 21:44:00 EST"
+            },
+            {
+                "Company Operating Name": "Horizon Therapeutics Public Ltd Co"
+            },
+            {
+                "CIK": "1492426"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Life Sciences"
+            }
+        ],
+        "MTH": [
+            {
+                "Company": "Meritage Homes CORP (0000833079) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/833079/000083307920000152/0000833079-20-000152-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/833079/000083307920000152/0000833079-20-000152-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Tue, 22 Dec 2020 21:42:12 EST"
+            },
+            {
+                "Company Operating Name": "Meritage Homes CORP"
+            },
+            {
+                "CIK": "833079"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Real Estate & Construction"
+            }
+        ],
+        "MDTR": [
+            {
+                "Company": "ADVANCED CONTAINER TECHNOLOGIES, INC. (0001096950) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1096950/000107878220001002/0001078782-20-001002-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1096950/000107878220001002/0001078782-20-001002-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K/A"
+            },
+            {
+                "FilingDate": "Tue, 22 Dec 2020 21:13:30 EST"
+            },
+            {
+                "Company Operating Name": "ADVANCED CONTAINER TECHNOLOGIES, INC."
+            },
+            {
+                "CIK": "1096950"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Manufacturing"
+            }
+        ],
+        "TNCPD": [
+            {
+                "Company": "FACT, Inc. (0001714379) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1714379/000149315220024164/0001493152-20-024164-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1714379/000149315220024164/0001493152-20-024164-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "10-Q"
+            },
+            {
+                "FilingDate": "Tue, 22 Dec 2020 20:42:52 EST"
+            },
+            {
+                "Company Operating Name": "FACT, Inc."
+            },
+            {
+                "CIK": "1714379"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Trade & Services"
+            }
+        ],
+        "SUPN": [
+            {
+                "Company": "SUPERNUS PHARMACEUTICALS, INC. (0001356576) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1356576/000135657620000090/0001356576-20-000090-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1356576/000135657620000090/0001356576-20-000090-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Tue, 22 Dec 2020 20:38:54 EST"
+            },
+            {
+                "Company Operating Name": "SUPERNUS PHARMACEUTICALS, INC."
+            },
+            {
+                "CIK": "1356576"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Life Sciences"
+            }
+        ],
+        "MRAM": [
+            {
+                "Company": "EVERSPIN TECHNOLOGIES INC (0001438423) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1438423/000110465920138742/0001104659-20-138742-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1438423/000110465920138742/0001104659-20-138742-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Tue, 22 Dec 2020 20:00:46 EST"
+            },
+            {
+                "Company Operating Name": "EVERSPIN TECHNOLOGIES INC"
+            },
+            {
+                "CIK": "1438423"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Manufacturing"
+            }
+        ],
+        "HOV": [
+            {
+                "Company": "HOVNANIAN ENTERPRISES INC (0000357294) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/357294/000143774920025823/0001437749-20-025823-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/357294/000143774920025823/0001437749-20-025823-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "10-K/A"
+            },
+            {
+                "FilingDate": "Tue, 22 Dec 2020 19:43:08 EST"
+            },
+            {
+                "Company Operating Name": "HOVNANIAN ENTERPRISES INC"
+            },
+            {
+                "CIK": "357294"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Real Estate & Construction"
+            }
+        ],
+        "PACD": [
+            {
+                "Company": "PACIFIC DRILLING S.A. (0001517342) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1517342/000151734220000043/0001517342-20-000043-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1517342/000151734220000043/0001517342-20-000043-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Tue, 22 Dec 2020 19:05:55 EST"
+            },
+            {
+                "Company Operating Name": "PACIFIC DRILLING S.A."
+            },
+            {
+                "CIK": "1517342"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Energy & Transportation"
+            }
+        ],
+        "TRCK": [
+            {
+                "Company": "Track Group, Inc. (0001045942) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1045942/000165495420013848/0001654954-20-013848-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1045942/000165495420013848/0001654954-20-013848-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "10-K"
+            },
+            {
+                "FilingDate": "Tue, 22 Dec 2020 18:43:07 EST"
+            },
+            {
+                "Company Operating Name": "Track Group, Inc."
+            },
+            {
+                "CIK": "1045942"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Manufacturing"
+            }
+        ],
+        "APEX": [
+            {
+                "Company": "Apex Global Brands Inc. (0000844161) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/844161/000095012320012840/0000950123-20-012840-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/844161/000095012320012840/0000950123-20-012840-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Tue, 22 Dec 2020 18:13:04 EST"
+            },
+            {
+                "Company Operating Name": "Apex Global Brands Inc."
+            },
+            {
+                "CIK": "844161"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Manufacturing"
+            }
+        ],
+        "PGC": [
+            {
+                "Company": "PEAPACK GLADSTONE FINANCIAL CORP (0001050743) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1050743/000119312520324745/0001193125-20-324745-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1050743/000119312520324745/0001193125-20-324745-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Tue, 22 Dec 2020 18:04:07 EST"
+            },
+            {
+                "Company Operating Name": "PEAPACK GLADSTONE FINANCIAL CORP"
+            },
+            {
+                "CIK": "1050743"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Finance"
+            }
+        ],
+        "SCCC": [
+            {
+                "Company": "Sachem Capital Corp. (0001682220) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1682220/000110465920138668/0001104659-20-138668-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1682220/000110465920138668/0001104659-20-138668-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Tue, 22 Dec 2020 17:42:04 EST"
+            },
+            {
+                "Company Operating Name": "Sachem Capital Corp."
+            },
+            {
+                "CIK": "1682220"
+            },
+            {
+                "Publication Date": "12/23/2020"
+            },
+            {
+                "Assistant Director": "Office of Real Estate & Construction"
+            }
+        ],
+        "SOFO": [
+            {
+                "Company": "SONIC FOUNDRY INC (0001029744) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1029744/000143774920025808/0001437749-20-025808-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1029744/000143774920025808/0001437749-20-025808-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "10-K"
+            },
+            {
+                "FilingDate": "Tue, 22 Dec 2020 17:30:26 EST"
+            },
+            {
+                "Company Operating Name": "SONIC FOUNDRY INC"
+            },
+            {
+                "CIK": "1029744"
+            },
+            {
+                "Publication Date": "12/22/2020"
+            },
+            {
+                "Assistant Director": "Office of Manufacturing"
+            }
+        ],
+        "SPLP-PA": [
+            {
+                "Company": "STEEL PARTNERS HOLDINGS L.P. (0001452857) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1452857/000145285720000073/0001452857-20-000073-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1452857/000145285720000073/0001452857-20-000073-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Tue, 22 Dec 2020 17:29:20 EST"
+            },
+            {
+                "Company Operating Name": "STEEL PARTNERS HOLDINGS L.P."
+            },
+            {
+                "CIK": "1452857"
+            },
+            {
+                "Publication Date": "12/22/2020"
+            },
+            {
+                "Assistant Director": "Office of Manufacturing"
+            }
+        ],
+        "RVNC": [
+            {
+                "Company": "Revance Therapeutics, Inc. (0001479290) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1479290/000147929020000114/0001479290-20-000114-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1479290/000147929020000114/0001479290-20-000114-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Tue, 22 Dec 2020 17:27:18 EST"
+            },
+            {
+                "Company Operating Name": "Revance Therapeutics, Inc."
+            },
+            {
+                "CIK": "1479290"
+            },
+            {
+                "Publication Date": "12/22/2020"
+            },
+            {
+                "Assistant Director": "Office of Life Sciences"
+            }
+        ],
+        "MCACU": [
+            {
+                "Company": "Mountain Crest Acquisition Corp. (0001803914) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1803914/000110465920138649/0001104659-20-138649-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1803914/000110465920138649/0001104659-20-138649-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "S-1/A"
+            },
+            {
+                "FilingDate": "Tue, 22 Dec 2020 17:22:15 EST"
+            },
+            {
+                "Company Operating Name": "Mountain Crest Acquisition Corp."
+            },
+            {
+                "CIK": "1803914"
+            },
+            {
+                "Publication Date": "12/22/2020"
+            },
+            {
+                "Assistant Director": "5900"
+            }
+        ],
+        "BASI": [
+            {
+                "Company": "BIOANALYTICAL SYSTEMS INC (0000720154) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/720154/000110465920138651/0001104659-20-138651-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/720154/000110465920138651/0001104659-20-138651-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "10-K"
+            },
+            {
+                "FilingDate": "Tue, 22 Dec 2020 17:21:41 EST"
+            },
+            {
+                "Company Operating Name": "BIOANALYTICAL SYSTEMS INC"
+            },
+            {
+                "CIK": "720154"
+            },
+            {
+                "Publication Date": "12/22/2020"
+            },
+            {
+                "Assistant Director": "Office of Trade & Services"
+            }
+        ],
+        "ENR-PA": [
+            {
+                "Company": "ENERGIZER HOLDINGS, INC. (0001632790) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1632790/000163279020000116/0001632790-20-000116-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1632790/000163279020000116/0001632790-20-000116-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Tue, 22 Dec 2020 17:17:51 EST"
+            },
+            {
+                "Company Operating Name": "ENERGIZER HOLDINGS, INC."
+            },
+            {
+                "CIK": "1632790"
+            },
+            {
+                "Publication Date": "12/22/2020"
+            },
+            {
+                "Assistant Director": "Office of Manufacturing"
+            }
+        ],
+        "BLYQ": [
+            {
+                "Company": "BALLY, CORP. (0001591565) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1591565/000164033420003131/0001640334-20-003131-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1591565/000164033420003131/0001640334-20-003131-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "10-K"
+            },
+            {
+                "FilingDate": "Tue, 22 Dec 2020 17:17:13 EST"
+            },
+            {
+                "Company Operating Name": "BALLY, CORP."
+            },
+            {
+                "CIK": "1591565"
+            },
+            {
+                "Publication Date": "12/22/2020"
+            },
+            {
+                "Assistant Director": "Office of Trade & Services"
+            }
+        ],
+        "SYY": [
+            {
+                "Company": "SYSCO CORP (0000096021) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/96021/000119312520324673/0001193125-20-324673-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/96021/000119312520324673/0001193125-20-324673-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Tue, 22 Dec 2020 17:16:08 EST"
+            },
+            {
+                "Company Operating Name": "SYSCO CORP"
+            },
+            {
+                "CIK": "96021"
+            },
+            {
+                "Publication Date": "12/22/2020"
+            },
+            {
+                "Assistant Director": "Office of Trade & Services"
+            }
+        ],
+        "YMAB": [
+            {
+                "Company": "Y-mAbs Therapeutics, Inc. (0001722964) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1722964/000110465920138646/0001104659-20-138646-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1722964/000110465920138646/0001104659-20-138646-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Tue, 22 Dec 2020 17:15:21 EST"
+            },
+            {
+                "Company Operating Name": "Y-mAbs Therapeutics, Inc."
+            },
+            {
+                "CIK": "1722964"
+            },
+            {
+                "Publication Date": "12/22/2020"
+            },
+            {
+                "Assistant Director": "Office of Life Sciences"
+            }
+        ],
+        "ALLK": [
+            {
+                "Company": "Allakos Inc. (0001564824) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1564824/000156459020058068/0001564590-20-058068-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1564824/000156459020058068/0001564590-20-058068-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Tue, 22 Dec 2020 17:13:39 EST"
+            },
+            {
+                "Company Operating Name": "Allakos Inc."
+            },
+            {
+                "CIK": "1564824"
+            },
+            {
+                "Publication Date": "12/22/2020"
+            },
+            {
+                "Assistant Director": "Office of Life Sciences"
+            }
+        ],
+        "CMCTP": [
+            {
+                "Company": "CIM Commercial Trust Corp (0000908311) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/908311/000090831120000040/0000908311-20-000040-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/908311/000090831120000040/0000908311-20-000040-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Tue, 22 Dec 2020 17:11:24 EST"
+            },
+            {
+                "Company Operating Name": "CIM Commercial Trust Corp"
+            },
+            {
+                "CIK": "908311"
+            },
+            {
+                "Publication Date": "12/22/2020"
+            },
+            {
+                "Assistant Director": "Office of Real Estate & Construction"
+            }
+        ],
+        "VRNT": [
+            {
+                "Company": "VERINT SYSTEMS INC (0001166388) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1166388/000116638820000165/0001166388-20-000165-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1166388/000116638820000165/0001166388-20-000165-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Tue, 22 Dec 2020 17:11:12 EST"
+            },
+            {
+                "Company Operating Name": "VERINT SYSTEMS INC"
+            },
+            {
+                "CIK": "1166388"
+            },
+            {
+                "Publication Date": "12/22/2020"
+            },
+            {
+                "Assistant Director": "Office of Technology"
+            }
+        ],
+        "CDW": [
+            {
+                "Company": "CDW Corp (0001402057) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1402057/000119312520324664/0001193125-20-324664-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1402057/000119312520324664/0001193125-20-324664-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Tue, 22 Dec 2020 17:10:30 EST"
+            },
+            {
+                "Company Operating Name": "CDW Corp"
+            },
+            {
+                "CIK": "1402057"
+            },
+            {
+                "Publication Date": "12/22/2020"
+            },
+            {
+                "Assistant Director": "Office of Trade & Services"
+            }
+        ],
+        "NEP": [
+            {
+                "Company": "NextEra Energy Partners, LP (0001603145) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1603145/000160314520000073/0001603145-20-000073-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1603145/000160314520000073/0001603145-20-000073-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Tue, 22 Dec 2020 17:10:04 EST"
+            },
+            {
+                "Company Operating Name": "NextEra Energy Partners, LP"
+            },
+            {
+                "CIK": "1603145"
+            },
+            {
+                "Publication Date": "12/22/2020"
+            },
+            {
+                "Assistant Director": "Office of Energy & Transportation"
+            }
+        ],
+        "BRST": [
+            {
+                "Company": "Broad Street Realty, Inc. (0000764897) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/764897/000156459020058064/0001564590-20-058064-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/764897/000156459020058064/0001564590-20-058064-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "10-K"
+            },
+            {
+                "FilingDate": "Tue, 22 Dec 2020 17:10:00 EST"
+            },
+            {
+                "Company Operating Name": "Broad Street Realty, Inc."
+            },
+            {
+                "CIK": "764897"
+            },
+            {
+                "Publication Date": "12/22/2020"
+            },
+            {
+                "Assistant Director": "Office of Real Estate & Construction"
+            }
+        ],
+        "AIV": [
+            {
+                "Company": "APARTMENT INVESTMENT & MANAGEMENT CO (0000922864) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/922864/000119312520324659/0001193125-20-324659-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/922864/000119312520324659/0001193125-20-324659-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Tue, 22 Dec 2020 17:07:54 EST"
+            },
+            {
+                "Company Operating Name": "APARTMENT INVESTMENT & MANAGEMENT CO"
+            },
+            {
+                "CIK": "922864"
+            },
+            {
+                "Publication Date": "12/22/2020"
+            },
+            {
+                "Assistant Director": "Office of Real Estate & Construction"
+            }
+        ],
+        "AZPN": [
+            {
+                "Company": "ASPEN TECHNOLOGY INC /DE/ (0000929940) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/929940/000092994020000073/0000929940-20-000073-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/929940/000092994020000073/0000929940-20-000073-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "10-Q"
+            },
+            {
+                "FilingDate": "Tue, 22 Dec 2020 17:05:58 EST"
+            },
+            {
+                "Company Operating Name": "ASPEN TECHNOLOGY INC /DE/"
+            },
+            {
+                "CIK": "929940"
+            },
+            {
+                "Publication Date": "12/22/2020"
+            },
+            {
+                "Assistant Director": "Office of Technology"
+            }
+        ],
+        "GTT": [
+            {
+                "Company": "GTT Communications, Inc. (0001315255) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1315255/000162828020017693/0001628280-20-017693-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1315255/000162828020017693/0001628280-20-017693-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Tue, 22 Dec 2020 17:05:12 EST"
+            },
+            {
+                "Company Operating Name": "GTT Communications, Inc."
+            },
+            {
+                "CIK": "1315255"
+            },
+            {
+                "Publication Date": "12/22/2020"
+            },
+            {
+                "Assistant Director": "Office of Technology"
+            }
+        ],
+        "ANGI": [
+            {
+                "Company": "ANGI Homeservices Inc. (0001705110) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1705110/000170511020000022/0001705110-20-000022-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1705110/000170511020000022/0001705110-20-000022-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Tue, 22 Dec 2020 17:02:43 EST"
+            },
+            {
+                "Company Operating Name": "ANGI Homeservices Inc."
+            },
+            {
+                "CIK": "1705110"
+            },
+            {
+                "Publication Date": "12/22/2020"
+            },
+            {
+                "Assistant Director": "Office of Trade & Services"
+            }
+        ],
+        "Clearway Energy LLC (0001637757) (Filer)": [
+            {
+                "Company": "Clearway Energy LLC (0001637757) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1637757/000110465920138637/0001104659-20-138637-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1637757/000110465920138637/0001104659-20-138637-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Tue, 22 Dec 2020 17:02:09 EST"
+            },
+            {
+                "Company Operating Name": "Clearway Energy LLC"
+            },
+            {
+                "CIK": "1637757"
+            },
+            {
+                "Publication Date": "12/22/2020"
+            },
+            {
+                "Assistant Director": "Office of Energy & Transportation"
+            }
+        ],
+        "BMCH": [
+            {
+                "Company": "BMC STOCK HOLDINGS, INC. (0001574815) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1574815/000119312520324647/0001193125-20-324647-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1574815/000119312520324647/0001193125-20-324647-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Tue, 22 Dec 2020 17:02:00 EST"
+            },
+            {
+                "Company Operating Name": "BMC STOCK HOLDINGS, INC."
+            },
+            {
+                "CIK": "1574815"
+            },
+            {
+                "Publication Date": "12/22/2020"
+            },
+            {
+                "Assistant Director": "Office of Trade & Services"
+            }
+        ],
+        "AIRC": [
+            {
+                "Company": "Apartment Income REIT Corp. (0001820877) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1820877/000156459020058058/0001564590-20-058058-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1820877/000156459020058058/0001564590-20-058058-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Tue, 22 Dec 2020 17:01:36 EST"
+            },
+            {
+                "Company Operating Name": "Apartment Income REIT Corp."
+            },
+            {
+                "CIK": "1820877"
+            },
+            {
+                "Publication Date": "12/22/2020"
+            },
+            {
+                "Assistant Director": "Office of Real Estate & Construction"
+            }
+        ],
+        "BLDR": [
+            {
+                "Company": "Builders FirstSource, Inc. (0001316835) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1316835/000119312520324644/0001193125-20-324644-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1316835/000119312520324644/0001193125-20-324644-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Tue, 22 Dec 2020 17:01:00 EST"
+            },
+            {
+                "Company Operating Name": "Builders FirstSource, Inc."
+            },
+            {
+                "CIK": "1316835"
+            },
+            {
+                "Publication Date": "12/22/2020"
+            },
+            {
+                "Assistant Director": "Office of Trade & Services"
+            }
+        ],
+        "CWEN": [
+            {
+                "Company": "Clearway Energy, Inc. (0001567683) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1567683/000110465920138636/0001104659-20-138636-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1567683/000110465920138636/0001104659-20-138636-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Tue, 22 Dec 2020 17:00:39 EST"
+            },
+            {
+                "Company Operating Name": "Clearway Energy, Inc."
+            },
+            {
+                "CIK": "1567683"
+            },
+            {
+                "Publication Date": "12/22/2020"
+            },
+            {
+                "Assistant Director": "Office of Energy & Transportation"
+            }
+        ],
+        "IDT": [
+            {
+                "Company": "IDT CORP (0001005731) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1005731/000121390020044093/0001213900-20-044093-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1005731/000121390020044093/0001213900-20-044093-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Tue, 22 Dec 2020 16:53:28 EST"
+            },
+            {
+                "Company Operating Name": "IDT CORP"
+            },
+            {
+                "CIK": "1005731"
+            },
+            {
+                "Publication Date": "12/22/2020"
+            },
+            {
+                "Assistant Director": "Office of Technology"
+            }
+        ],
+        "BANF": [
+            {
+                "Company": "BANCFIRST CORP /OK/ (0000760498) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/760498/000156459020058053/0001564590-20-058053-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/760498/000156459020058053/0001564590-20-058053-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Tue, 22 Dec 2020 16:57:39 EST"
+            },
+            {
+                "Company Operating Name": "BANCFIRST CORP /OK/"
+            },
+            {
+                "CIK": "760498"
+            },
+            {
+                "Publication Date": "12/22/2020"
+            },
+            {
+                "Assistant Director": "Office of Finance"
+            }
+        ],
+        "CBOE": [
+            {
+                "Company": "Cboe Global Markets, Inc. (0001374310) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1374310/000110465920138618/0001104659-20-138618-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1374310/000110465920138618/0001104659-20-138618-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Tue, 22 Dec 2020 16:51:04 EST"
+            },
+            {
+                "Company Operating Name": "Cboe Global Markets, Inc."
+            },
+            {
+                "CIK": "1374310"
+            },
+            {
+                "Publication Date": "12/22/2020"
+            },
+            {
+                "Assistant Director": "Office of Finance"
+            }
+        ],
+        "EGLE": [
+            {
+                "Company": "Eagle Bulk Shipping Inc. (0001322439) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1322439/000119312520324627/0001193125-20-324627-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1322439/000119312520324627/0001193125-20-324627-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Tue, 22 Dec 2020 16:51:04 EST"
+            },
+            {
+                "Company Operating Name": "Eagle Bulk Shipping Inc."
+            },
+            {
+                "CIK": "1322439"
+            },
+            {
+                "Publication Date": "12/22/2020"
+            },
+            {
+                "Assistant Director": "Office of Energy & Transportation"
+            }
+        ],
+        "INTL": [
+            {
+                "Company": "StoneX Group Inc. (0000913760) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/913760/000091376020000234/0000913760-20-000234-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/913760/000091376020000234/0000913760-20-000234-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Tue, 22 Dec 2020 16:49:36 EST"
+            },
+            {
+                "Company Operating Name": "StoneX Group Inc."
+            },
+            {
+                "CIK": "913760"
+            },
+            {
+                "Publication Date": "12/22/2020"
+            },
+            {
+                "Assistant Director": "Office of Finance"
+            }
+        ],
+        "LTRPB": [
+            {
+                "Company": "Liberty TripAdvisor Holdings, Inc. (0001606745) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1606745/000160674520000034/0001606745-20-000034-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1606745/000160674520000034/0001606745-20-000034-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Tue, 22 Dec 2020 16:48:56 EST"
+            },
+            {
+                "Company Operating Name": "Liberty TripAdvisor Holdings, Inc."
+            },
+            {
+                "CIK": "1606745"
+            },
+            {
+                "Publication Date": "12/22/2020"
+            },
+            {
+                "Assistant Director": "Office of Technology"
+            }
+        ],
+        "MDCA": [
+            {
+                "Company": "MDC PARTNERS INC (0000876883) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/876883/000110465920138612/0001104659-20-138612-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/876883/000110465920138612/0001104659-20-138612-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Tue, 22 Dec 2020 16:46:31 EST"
+            },
+            {
+                "Company Operating Name": "MDC PARTNERS INC"
+            },
+            {
+                "CIK": "876883"
+            },
+            {
+                "Publication Date": "12/22/2020"
+            },
+            {
+                "Assistant Director": "Office of Trade & Services"
+            }
+        ],
+        "PII": [
+            {
+                "Company": "Polaris Inc. (0000931015) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/931015/000115752320001624/0001157523-20-001624-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/931015/000115752320001624/0001157523-20-001624-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Tue, 22 Dec 2020 16:46:11 EST"
+            },
+            {
+                "Company Operating Name": "Polaris Inc."
+            },
+            {
+                "CIK": "931015"
+            },
+            {
+                "Publication Date": "12/22/2020"
+            },
+            {
+                "Assistant Director": "Office of Manufacturing"
+            }
+        ],
+        "BK-PC": [
+            {
+                "Company": "Bank of New York Mellon Corp (0001390777) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1390777/000119312520324610/0001193125-20-324610-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1390777/000119312520324610/0001193125-20-324610-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Tue, 22 Dec 2020 16:45:55 EST"
+            },
+            {
+                "Company Operating Name": "Bank of New York Mellon Corp"
+            },
+            {
+                "CIK": "1390777"
+            },
+            {
+                "Publication Date": "12/22/2020"
+            },
+            {
+                "Assistant Director": "Office of Finance"
+            }
+        ],
+        "USB-PA": [
+            {
+                "Company": "US BANCORP \\DE\\ (0000036104) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/36104/000119312520324609/0001193125-20-324609-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/36104/000119312520324609/0001193125-20-324609-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Tue, 22 Dec 2020 16:45:32 EST"
+            },
+            {
+                "Company Operating Name": "US BANCORP \\DE\\"
+            },
+            {
+                "CIK": "36104"
+            },
+            {
+                "Publication Date": "12/22/2020"
+            },
+            {
+                "Assistant Director": "Office of Finance"
+            }
+        ],
+        "CLEU": [
+            {
+                "Company": "China Liberal Education Holdings Ltd (0001775085) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1775085/000147793220007444/0001477932-20-007444-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1775085/000147793220007444/0001477932-20-007444-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "6-K"
+            },
+            {
+                "FilingDate": "Tue, 22 Dec 2020 16:45:23 EST"
+            },
+            {
+                "Company Operating Name": "China Liberal Education Holdings Ltd"
+            },
+            {
+                "CIK": "1775085"
+            },
+            {
+                "Publication Date": "12/22/2020"
+            },
+            {
+                "Assistant Director": "Office of Trade & Services"
+            }
+        ],
+        "RJF": [
+            {
+                "Company": "RAYMOND JAMES FINANCIAL INC (0000720005) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/720005/000072000520000074/0000720005-20-000074-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/720005/000072000520000074/0000720005-20-000074-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Tue, 22 Dec 2020 16:42:05 EST"
+            },
+            {
+                "Company Operating Name": "RAYMOND JAMES FINANCIAL INC"
+            },
+            {
+                "CIK": "720005"
+            },
+            {
+                "Publication Date": "12/22/2020"
+            },
+            {
+                "Assistant Director": "Office of Finance"
+            }
+        ],
+        "EVRG": [
+            {
+                "Company": "Evergy, Inc. (0001711269) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1711269/000171126920000074/0001711269-20-000074-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1711269/000171126920000074/0001711269-20-000074-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K/A"
+            },
+            {
+                "FilingDate": "Tue, 22 Dec 2020 16:41:57 EST"
+            },
+            {
+                "Company Operating Name": "Evergy, Inc."
+            },
+            {
+                "CIK": "1711269"
+            },
+            {
+                "Publication Date": "12/22/2020"
+            },
+            {
+                "Assistant Director": "Office of Energy & Transportation"
+            }
+        ],
+        "RIOT": [
+            {
+                "Company": "Riot Blockchain, Inc. (0001167419) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1167419/000107997320001096/0001079973-20-001096-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1167419/000107997320001096/0001079973-20-001096-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Tue, 22 Dec 2020 16:39:41 EST"
+            },
+            {
+                "Company Operating Name": "Riot Blockchain, Inc."
+            },
+            {
+                "CIK": "1167419"
+            },
+            {
+                "Publication Date": "12/22/2020"
+            },
+            {
+                "Assistant Director": "Office of Technology"
+            }
+        ],
+        "RHP": [
+            {
+                "Company": "Ryman Hospitality Properties, Inc. (0001040829) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1040829/000110465920138604/0001104659-20-138604-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1040829/000110465920138604/0001104659-20-138604-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Tue, 22 Dec 2020 16:39:15 EST"
+            },
+            {
+                "Company Operating Name": "Ryman Hospitality Properties, Inc."
+            },
+            {
+                "CIK": "1040829"
+            },
+            {
+                "Publication Date": "12/22/2020"
+            },
+            {
+                "Assistant Director": "Office of Real Estate & Construction"
+            }
+        ],
+        "EV": [
+            {
+                "Company": "EATON VANCE CORP (0000350797) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/350797/000156276220000430/0001562762-20-000430-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/350797/000156276220000430/0001562762-20-000430-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "10-K"
+            },
+            {
+                "FilingDate": "Tue, 22 Dec 2020 16:39:04 EST"
+            },
+            {
+                "Company Operating Name": "EATON VANCE CORP"
+            },
+            {
+                "CIK": "350797"
+            },
+            {
+                "Publication Date": "12/22/2020"
+            },
+            {
+                "Assistant Director": "Office of Finance"
+            }
+        ],
+        "UNMA": [
+            {
+                "Company": "Unum Group (0000005513) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/5513/000000551320000161/0000005513-20-000161-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/5513/000000551320000161/0000005513-20-000161-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Tue, 22 Dec 2020 16:38:11 EST"
+            },
+            {
+                "Company Operating Name": "Unum Group"
+            },
+            {
+                "CIK": "5513"
+            },
+            {
+                "Publication Date": "12/22/2020"
+            },
+            {
+                "Assistant Director": "Office of Finance"
+            }
+        ],
+        "ARKR": [
+            {
+                "Company": "ARK RESTAURANTS CORP (0000779544) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/779544/000077954420000047/0000779544-20-000047-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/779544/000077954420000047/0000779544-20-000047-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "10-K"
+            },
+            {
+                "FilingDate": "Tue, 22 Dec 2020 16:36:34 EST"
+            },
+            {
+                "Company Operating Name": "ARK RESTAURANTS CORP"
+            },
+            {
+                "CIK": "779544"
+            },
+            {
+                "Publication Date": "12/22/2020"
+            },
+            {
+                "Assistant Director": "Office of Trade & Services"
+            }
+        ],
+        "HASI": [
+            {
+                "Company": "Hannon Armstrong Sustainable Infrastructure Capital, Inc. (0001561894) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1561894/000156189420000154/0001561894-20-000154-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1561894/000156189420000154/0001561894-20-000154-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Tue, 22 Dec 2020 16:36:10 EST"
+            },
+            {
+                "Company Operating Name": "Hannon Armstrong Sustainable Infrastructure Capital, Inc."
+            },
+            {
+                "CIK": "1561894"
+            },
+            {
+                "Publication Date": "12/22/2020"
+            },
+            {
+                "Assistant Director": "Office of Real Estate & Construction"
+            }
+        ],
+        "INN": [
+            {
+                "Company": "Summit Hotel Properties, Inc. (0001497645) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1497645/000110465920138598/0001104659-20-138598-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1497645/000110465920138598/0001104659-20-138598-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Tue, 22 Dec 2020 16:35:59 EST"
+            },
+            {
+                "Company Operating Name": "Summit Hotel Properties, Inc."
+            },
+            {
+                "CIK": "1497645"
+            },
+            {
+                "Publication Date": "12/22/2020"
+            },
+            {
+                "Assistant Director": "Office of Real Estate & Construction"
+            }
+        ],
+        "TRIP": [
+            {
+                "Company": "TripAdvisor, Inc. (0001526520) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1526520/000156459020058044/0001564590-20-058044-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1526520/000156459020058044/0001564590-20-058044-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Tue, 22 Dec 2020 16:35:44 EST"
+            },
+            {
+                "Company Operating Name": "TripAdvisor, Inc."
+            },
+            {
+                "CIK": "1526520"
+            },
+            {
+                "Publication Date": "12/22/2020"
+            },
+            {
+                "Assistant Director": "Office of Technology"
+            }
+        ],
+        "ACI": [
+            {
+                "Company": "Albertsons Companies, Inc. (0001646972) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1646972/000119312520324582/0001193125-20-324582-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1646972/000119312520324582/0001193125-20-324582-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Tue, 22 Dec 2020 16:34:40 EST"
+            },
+            {
+                "Company Operating Name": "Albertsons Companies, Inc."
+            },
+            {
+                "CIK": "1646972"
+            },
+            {
+                "Publication Date": "12/22/2020"
+            },
+            {
+                "Assistant Director": "Office of Trade & Services"
+            }
+        ],
+        "ESTE": [
+            {
+                "Company": "EARTHSTONE ENERGY INC (0000010254) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/10254/000001025420000122/0000010254-20-000122-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/10254/000001025420000122/0000010254-20-000122-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Tue, 22 Dec 2020 16:34:23 EST"
+            },
+            {
+                "Company Operating Name": "EARTHSTONE ENERGY INC"
+            },
+            {
+                "CIK": "10254"
+            },
+            {
+                "Publication Date": "12/22/2020"
+            },
+            {
+                "Assistant Director": "Office of Energy & Transportation"
+            }
+        ],
+        "RGNX": [
+            {
+                "Company": "REGENXBIO Inc. (0001590877) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1590877/000119312520324578/0001193125-20-324578-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1590877/000119312520324578/0001193125-20-324578-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Tue, 22 Dec 2020 16:34:12 EST"
+            },
+            {
+                "Company Operating Name": "REGENXBIO Inc."
+            },
+            {
+                "CIK": "1590877"
+            },
+            {
+                "Publication Date": "12/22/2020"
+            },
+            {
+                "Assistant Director": "Office of Life Sciences"
+            }
+        ],
+        "WATT": [
+            {
+                "Company": "Energous Corp (0001575793) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1575793/000119312520324577/0001193125-20-324577-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1575793/000119312520324577/0001193125-20-324577-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Tue, 22 Dec 2020 16:34:11 EST"
+            },
+            {
+                "Company Operating Name": "Energous Corp"
+            },
+            {
+                "CIK": "1575793"
+            },
+            {
+                "Publication Date": "12/22/2020"
+            },
+            {
+                "Assistant Director": "Office of Manufacturing"
+            }
+        ],
+        "UPWK": [
+            {
+                "Company": "Upwork Inc. (0001627475) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1627475/000162747520000050/0001627475-20-000050-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1627475/000162747520000050/0001627475-20-000050-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Tue, 22 Dec 2020 16:33:02 EST"
+            },
+            {
+                "Company Operating Name": "Upwork Inc."
+            },
+            {
+                "CIK": "1627475"
+            },
+            {
+                "Publication Date": "12/22/2020"
+            },
+            {
+                "Assistant Director": "Office of Technology"
+            }
+        ],
+        "GSKY": [
+            {
+                "Company": "GreenSky, Inc. (0001712923) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1712923/000171292320000140/0001712923-20-000140-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1712923/000171292320000140/0001712923-20-000140-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Tue, 22 Dec 2020 16:32:25 EST"
+            },
+            {
+                "Company Operating Name": "GreenSky, Inc."
+            },
+            {
+                "CIK": "1712923"
+            },
+            {
+                "Publication Date": "12/22/2020"
+            },
+            {
+                "Assistant Director": "Office of Trade & Services"
+            }
+        ],
+        "SHBI": [
+            {
+                "Company": "SHORE BANCSHARES INC (0001035092) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1035092/000110465920138589/0001104659-20-138589-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1035092/000110465920138589/0001104659-20-138589-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Tue, 22 Dec 2020 16:31:18 EST"
+            },
+            {
+                "Company Operating Name": "SHORE BANCSHARES INC"
+            },
+            {
+                "CIK": "1035092"
+            },
+            {
+                "Publication Date": "12/22/2020"
+            },
+            {
+                "Assistant Director": "Office of Finance"
+            }
+        ],
+        "OCN": [
+            {
+                "Company": "OCWEN FINANCIAL CORP (0000873860) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/873860/000149315220024130/0001493152-20-024130-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/873860/000149315220024130/0001493152-20-024130-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Tue, 22 Dec 2020 16:31:16 EST"
+            },
+            {
+                "Company Operating Name": "OCWEN FINANCIAL CORP"
+            },
+            {
+                "CIK": "873860"
+            },
+            {
+                "Publication Date": "12/22/2020"
+            },
+            {
+                "Assistant Director": "Office of Finance"
+            }
+        ],
+        "TBIO": [
+            {
+                "Company": "Translate Bio, Inc. (0001693415) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1693415/000119312520324570/0001193125-20-324570-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1693415/000119312520324570/0001193125-20-324570-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Tue, 22 Dec 2020 16:30:50 EST"
+            },
+            {
+                "Company Operating Name": "Translate Bio, Inc."
+            },
+            {
+                "CIK": "1693415"
+            },
+            {
+                "Publication Date": "12/22/2020"
+            },
+            {
+                "Assistant Director": "Office of Life Sciences"
+            }
+        ],
+        "PNM": [
+            {
+                "Company": "PNM RESOURCES INC (0001108426) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1108426/000110842620000077/0001108426-20-000077-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1108426/000110842620000077/0001108426-20-000077-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Tue, 22 Dec 2020 16:27:51 EST"
+            },
+            {
+                "Company Operating Name": "PNM RESOURCES INC"
+            },
+            {
+                "CIK": "1108426"
+            },
+            {
+                "Publication Date": "12/22/2020"
+            },
+            {
+                "Assistant Director": "Office of Energy & Transportation"
+            }
+        ],
+        "REXR-PC": [
+            {
+                "Company": "Rexford Industrial Realty, Inc. (0001571283) (Filer)"
+            },
+            {
+                "Links": [
+                    "https://www.sec.gov/Archives/edgar/data/1571283/000157128320000056/0001571283-20-000056-index.htm",
+                    "      https://www.sec.gov/Archives/edgar/data/1571283/000157128320000056/0001571283-20-000056-xbrl.zip"
+                ]
+            },
+            {
+                "Document": "8-K"
+            },
+            {
+                "FilingDate": "Tue, 22 Dec 2020 16:27:15 EST"
+            },
+            {
+                "Company Operating Name": "Rexford Industrial Realty, Inc."
+            },
+            {
+                "CIK": "1571283"
+            },
+            {
+                "Publication Date": "12/22/2020"
+            },
+            {
+                "Assistant Director": "Office of Real Estate & Construction"
+            }
+        ]
+    }
+}

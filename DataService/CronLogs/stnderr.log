@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "UpdateMongo.py", line 7, in <module>
+    from Webservices import GetRSS
+  File "/Users/taishanlin/Desktop/RootDirectory/DataService/Webservices/GetRSS.py", line 2, in <module>
+    import bs4
+ImportError: No module named bs4
