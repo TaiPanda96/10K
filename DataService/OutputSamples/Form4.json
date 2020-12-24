@@ -2,6 +2,3410 @@
     "ticker": "General Data Pull",
     "CIK": "N/A",
     "form4_url": "https://www.secform4.com/sec-filings.htm",
-    "requestedDate": "2020-12-23 22:00:14.458103",
-    "data": null
+    "requestedDate": "2020-12-24 12:37:40.021000",
+    "data": [
+        {
+            "TransactionDate": "2020-06-29Sale",
+            "ReportedDateTime": "2020-07-014:01 pm",
+            "Company": "PLUG POWER INC",
+            "Symbol": "PLUG",
+            "InsiderRelationship": "Conway Gerard L JRVP",
+            "SharesTraded": 291000,
+            "AveragePrice": "$7.9445",
+            "TotalAmount": "$2,311,849",
+            "SharesOwned": "10,519(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Conway Gerard L JR",
+                ""
+            ],
+            "Position": "VP",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-29Purchase",
+            "ReportedDateTime": "2020-07-014:02 pm",
+            "Company": "FlexShopper Inc.",
+            "Symbol": "FPAY",
+            "InsiderRelationship": "Dvorkin HowardDirector10% Owner",
+            "SharesTraded": 23700,
+            "AveragePrice": "$1.7065",
+            "TotalAmount": "$40,443",
+            "SharesOwned": "2,286,245(Indirect)",
+            "Filing": "View",
+            "Name": [
+                "Dvorkin HowardDirector1",
+                ""
+            ],
+            "Position": "0% Owner",
+            "Sale/Purchase?": "Purchase"
+        },
+        {
+            "TransactionDate": "2020-06-29Sale",
+            "ReportedDateTime": "2020-07-014:05 pm",
+            "Company": "MICRON TECHNOLOGY INC",
+            "Symbol": "MU",
+            "InsiderRelationship": "Deboer Scott JVP",
+            "SharesTraded": 10000,
+            "AveragePrice": "$48.5",
+            "TotalAmount": "$485,000",
+            "SharesOwned": "138,368(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Deboer Scott J",
+                ""
+            ],
+            "Position": "VP",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-29Sale",
+            "ReportedDateTime": "2020-07-014:06 pm",
+            "Company": "PTC THERAPEUTICS Inc",
+            "Symbol": "PTCT",
+            "InsiderRelationship": "Hill Emily LuisaCFO",
+            "SharesTraded": 2581,
+            "AveragePrice": "$52.5",
+            "TotalAmount": "$135,503",
+            "SharesOwned": "13,610(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Hill Emily Luisa",
+                ""
+            ],
+            "Position": "CFO",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-30Purchase",
+            "ReportedDateTime": "2020-07-014:10 pm",
+            "Company": "MID PENN BANCORP INC",
+            "Symbol": "MPB",
+            "InsiderRelationship": "MOWERY THEODORE WDirector",
+            "SharesTraded": 109,
+            "AveragePrice": "$18.43",
+            "TotalAmount": "$2,009",
+            "SharesOwned": "12,628(IndirectDirect)",
+            "Filing": "View",
+            "Name": [
+                "MOWERY THEODORE W",
+                ""
+            ],
+            "Position": "Director",
+            "Sale/Purchase?": "Purchase"
+        },
+        {
+            "TransactionDate": "2020-06-30Sale",
+            "ReportedDateTime": "2020-07-014:10 pm",
+            "Company": "X4 Pharmaceuticals Inc",
+            "Symbol": "XFOR",
+            "InsiderRelationship": "Mostafa Adam S.See Remarks",
+            "SharesTraded": 1725,
+            "AveragePrice": "$9.04",
+            "TotalAmount": "$15,594",
+            "SharesOwned": "8,839(Direct)",
+            "Filing": "View",
+            "Name": [
+                "MOWERY THEODORE W",
+                ""
+            ],
+            "Position": "Director",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-30Purchase",
+            "ReportedDateTime": "2020-07-014:14 pm",
+            "Company": "Akouos Inc.",
+            "Symbol": "AKUS",
+            "InsiderRelationship": "Pivotal bioVenture Partners Fund I L.P.Pivotal bioVenture Partners Fund I G.P. L.P.10% Owner",
+            "SharesTraded": 294117,
+            "AveragePrice": "$17",
+            "TotalAmount": "$4,999,989",
+            "SharesOwned": "1,794,088(Indirect)",
+            "Filing": "View",
+            "Name": [
+                "Pivotal bioVenture Partners Fund I L.P.Pivotal bioVenture Partners Fund I G.P. L.P.",
+                ""
+            ],
+            "Position": "10% Owner",
+            "Sale/Purchase?": "Purchase"
+        },
+        {
+            "TransactionDate": "2020-06-30Purchase",
+            "ReportedDateTime": "2020-07-014:14 pm",
+            "Company": "MID PENN BANCORP INC",
+            "Symbol": "MPB",
+            "InsiderRelationship": "KERWIN GREGORY MDirector",
+            "SharesTraded": 54,
+            "AveragePrice": "$18.43",
+            "TotalAmount": "$995",
+            "SharesOwned": "33,055(Direct)",
+            "Filing": "View",
+            "Name": [
+                "KERWIN GREGORY M",
+                ""
+            ],
+            "Position": "Director",
+            "Sale/Purchase?": "Purchase"
+        },
+        {
+            "TransactionDate": "2020-07-01Sale",
+            "ReportedDateTime": "2020-07-014:16 pm",
+            "Company": "BROWN FORMAN CORP",
+            "Symbol": "BFA",
+            "InsiderRelationship": "Hawley Kirsten MSVP Chief HR Officer",
+            "SharesTraded": 3562,
+            "AveragePrice": "$64.18",
+            "TotalAmount": "$228,605",
+            "SharesOwned": "4,184(IndirectDirect)",
+            "Filing": "View",
+            "Name": [
+                "Hawley Kirsten MSVP Chief HR Offic",
+                ""
+            ],
+            "Position": "er",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-29Sale",
+            "ReportedDateTime": "2020-07-014:16 pm",
+            "Company": "HOOKIPA Pharma Inc.",
+            "Symbol": "HOOK",
+            "InsiderRelationship": "SOFINNOVA CAPITAL VI FCPRSofinnova Partners SAS10% Owner",
+            "SharesTraded": 3280,
+            "AveragePrice": "$11.78",
+            "TotalAmount": "$38,628",
+            "SharesOwned": "3,960,574(Direct)",
+            "Filing": "View",
+            "Name": [
+                "SOFINNOVA CAPITAL VI FCPRSofinnova Partners SAS",
+                ""
+            ],
+            "Position": "10% Owner",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-30Purchase",
+            "ReportedDateTime": "2020-07-014:17 pm",
+            "Company": "MID PENN BANCORP INC",
+            "Symbol": "MPB",
+            "InsiderRelationship": "Moisey Robert JDirector",
+            "SharesTraded": 489,
+            "AveragePrice": "$18.43",
+            "TotalAmount": "$9,012",
+            "SharesOwned": "16,365(IndirectDirect)",
+            "Filing": "View",
+            "Name": [
+                "Moisey Robert J",
+                ""
+            ],
+            "Position": "Director",
+            "Sale/Purchase?": "Purchase"
+        },
+        {
+            "TransactionDate": "2020-06-30Purchase",
+            "ReportedDateTime": "2020-07-014:21 pm",
+            "Company": "MID PENN BANCORP INC",
+            "Symbol": "MPB",
+            "InsiderRelationship": "Boyer Steven TDirector",
+            "SharesTraded": 135,
+            "AveragePrice": "$18.43",
+            "TotalAmount": "$2,488",
+            "SharesOwned": "7,507(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Boyer Steven T",
+                ""
+            ],
+            "Position": "Director",
+            "Sale/Purchase?": "Purchase"
+        },
+        {
+            "TransactionDate": "2020-06-30Purchase",
+            "ReportedDateTime": "2020-07-014:22 pm",
+            "Company": "MID PENN BANCORP INC",
+            "Symbol": "MPB",
+            "InsiderRelationship": "Frank Joel L.Director",
+            "SharesTraded": 136,
+            "AveragePrice": "$18.43",
+            "TotalAmount": "$2,506",
+            "SharesOwned": "3,265(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Frank Joel L.",
+                ""
+            ],
+            "Position": "Director",
+            "Sale/Purchase?": "Purchase"
+        },
+        {
+            "TransactionDate": "2020-06-30Sale",
+            "ReportedDateTime": "2020-07-014:23 pm",
+            "Company": "Albertsons Companies Inc.",
+            "Symbol": "ACI",
+            "InsiderRelationship": "KIMCO REALTY CORPKIM-SFW LLCKRS ABS LLCKRSX MERGE LLCKIMKON IncKIMCO CAPITAL CORP.KIMSOUTH REALTY INCSee Remarks",
+            "SharesTraded": 4675726,
+            "AveragePrice": "$15.27",
+            "TotalAmount": "$71,405,816",
+            "SharesOwned": "39,838,104(Indirect)",
+            "Filing": "View",
+            "Name": [
+                "Frank Joel L.",
+                ""
+            ],
+            "Position": "Director",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-30Purchase",
+            "ReportedDateTime": "2020-07-014:25 pm",
+            "Company": "MID PENN BANCORP INC",
+            "Symbol": "MPB",
+            "InsiderRelationship": "QUANDEL NOBLE C JRDirector",
+            "SharesTraded": 162,
+            "AveragePrice": "$18.43",
+            "TotalAmount": "$2,986",
+            "SharesOwned": "75,113(IndirectDirect)",
+            "Filing": "View",
+            "Name": [
+                "QUANDEL NOBLE C JR",
+                ""
+            ],
+            "Position": "Director",
+            "Sale/Purchase?": "Purchase"
+        },
+        {
+            "TransactionDate": "2020-06-30Purchase",
+            "ReportedDateTime": "2020-07-014:27 pm",
+            "Company": "SERVICESOURCE INTERNATIONAL Inc",
+            "Symbol": "SREV",
+            "InsiderRelationship": "Edenbrook Capital LLCBrolin Jonathan10% Owner",
+            "SharesTraded": 73266,
+            "AveragePrice": "$1.55",
+            "TotalAmount": "$113,562",
+            "SharesOwned": "10,818,336(Indirect)",
+            "Filing": "View",
+            "Name": [
+                "Edenbrook Capital LLCBrolin Jonathan",
+                ""
+            ],
+            "Position": "10% Owner",
+            "Sale/Purchase?": "Purchase"
+        },
+        {
+            "TransactionDate": "2020-06-30Sale",
+            "ReportedDateTime": "2020-07-014:31 pm",
+            "Company": "AXON ENTERPRISE Inc",
+            "Symbol": "AAXN",
+            "InsiderRelationship": "MCBRADY MATTHEW RDirector",
+            "SharesTraded": 350,
+            "AveragePrice": "$98.81",
+            "TotalAmount": "$34,584",
+            "SharesOwned": "8,893(Direct)",
+            "Filing": "View",
+            "Name": [
+                "MCBRADY MATTHEW R",
+                ""
+            ],
+            "Position": "Director",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-29Sale",
+            "ReportedDateTime": "2020-07-014:32 pm",
+            "Company": "1Life Healthcare Inc",
+            "Symbol": "ONEM",
+            "InsiderRelationship": "Carlyle Group Management L.L.C.Carlyle Group Inc.Carlyle Holdings II GP L.L.C.Carlyle Holdings II L.L.C.CG Subsidiary Holdings L.L.C.TC Group Cayman Investment Holdings L.P.TC Group Cayman Investment Holdings Sub L.P.TC Group VII L.L.C.TC Group VII L.P.Carlyle Partners VII Holdings L.P.10% Owner",
+            "SharesTraded": 7545000,
+            "AveragePrice": "$29.76",
+            "TotalAmount": "$224,539,202",
+            "SharesOwned": "20,612,680(Indirect)",
+            "Filing": "View",
+            "Name": [
+                "Carlyle Group Management L.L.C.Carlyle Group Inc.Carlyle Holdings II GP L.L.C.Carlyle Holdings II L.L.C.CG Subsidiary Holdings L.L.C.TC Group Cayman Investment Holdings L.P.TC Group Cayman Investment Holdings Sub L.P.TC Group VII L.L.C.TC Group VII L.P.Carlyle Partners VII Holdings L.P.",
+                ""
+            ],
+            "Position": "10% Owner",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-07-01Sale",
+            "ReportedDateTime": "2020-07-014:32 pm",
+            "Company": "AXON ENTERPRISE Inc",
+            "Symbol": "AAXN",
+            "InsiderRelationship": "GARNREITER MICHAELDirector",
+            "SharesTraded": 500,
+            "AveragePrice": "$98.64",
+            "TotalAmount": "$49,320",
+            "SharesOwned": "32,650(Direct)",
+            "Filing": "View",
+            "Name": [
+                "GARNREITER MICHAEL",
+                ""
+            ],
+            "Position": "Director",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-30Sale",
+            "ReportedDateTime": "2020-07-014:33 pm",
+            "Company": "MICRON TECHNOLOGY INC",
+            "Symbol": "MU",
+            "InsiderRelationship": "Deboer Scott JVP",
+            "SharesTraded": 10000,
+            "AveragePrice": "$51.79",
+            "TotalAmount": "$517,900",
+            "SharesOwned": "128,368(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Deboer Scott J",
+                ""
+            ],
+            "Position": "VP",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-05-04Sale(A)",
+            "ReportedDateTime": "2020-07-014:34 pm",
+            "Company": "Cornerstone OnDemand Inc",
+            "Symbol": "CSOD",
+            "InsiderRelationship": "Spirgi HeidiChief Mktg & Strategy Officer",
+            "SharesTraded": 2181,
+            "AveragePrice": "$32.01",
+            "TotalAmount": "$69,818",
+            "SharesOwned": "29,273(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Deboer Scott J",
+                ""
+            ],
+            "Position": "VP",
+            "Sale/Purchase?": "Sale(A)"
+        },
+        {
+            "TransactionDate": "2020-06-30Sale",
+            "ReportedDateTime": "2020-07-014:39 pm",
+            "Company": "Fulcrum Therapeutics Inc.",
+            "Symbol": "FULC",
+            "InsiderRelationship": "Wallace Owen B.Chief Scientific Officer",
+            "SharesTraded": 141,
+            "AveragePrice": "$20",
+            "TotalAmount": "$2,820",
+            "SharesOwned": "127,088(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Deboer Scott J",
+                ""
+            ],
+            "Position": "VP",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-07-01Purchase",
+            "ReportedDateTime": "2020-07-014:40 pm",
+            "Company": "Calyxt Inc.",
+            "Symbol": "CLXT",
+            "InsiderRelationship": "Frey TravisCTO",
+            "SharesTraded": 156,
+            "AveragePrice": "$5.04",
+            "TotalAmount": "$786",
+            "SharesOwned": "2,150(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Frey Travis",
+                ""
+            ],
+            "Position": "CTO",
+            "Sale/Purchase?": "Purchase"
+        },
+        {
+            "TransactionDate": "2020-06-29Sale",
+            "ReportedDateTime": "2020-07-014:42 pm",
+            "Company": "XILINX INC",
+            "Symbol": "XLNX",
+            "InsiderRelationship": "TURNER MARSHALL CDirector",
+            "SharesTraded": 7060,
+            "AveragePrice": "$95.37",
+            "TotalAmount": "$673,281",
+            "SharesOwned": "37,630(Direct)",
+            "Filing": "View",
+            "Name": [
+                "TURNER MARSHALL C",
+                ""
+            ],
+            "Position": "Director",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-29Sale",
+            "ReportedDateTime": "2020-07-014:43 pm",
+            "Company": "INSEEGO CORP.",
+            "Symbol": "INSG",
+            "InsiderRelationship": "Kahn DougVP",
+            "SharesTraded": 20000,
+            "AveragePrice": "$11",
+            "TotalAmount": "$220,000",
+            "SharesOwned": "6,761(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Kahn Doug",
+                ""
+            ],
+            "Position": "VP",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-29Purchase",
+            "ReportedDateTime": "2020-07-014:48 pm",
+            "Company": "Magenta Therapeutics Inc.",
+            "Symbol": "MGTA",
+            "InsiderRelationship": "Booth BruceDirector",
+            "SharesTraded": 1250000,
+            "AveragePrice": "$8",
+            "TotalAmount": "$10,000,000",
+            "SharesOwned": "1,250,000(Indirect)",
+            "Filing": "View",
+            "Name": [
+                "Booth Bruce",
+                ""
+            ],
+            "Position": "Director",
+            "Sale/Purchase?": "Purchase"
+        },
+        {
+            "TransactionDate": "2020-06-30Sale",
+            "ReportedDateTime": "2020-07-014:52 pm",
+            "Company": "Brooks Automation Inc.",
+            "Symbol": "BRKS",
+            "InsiderRelationship": "Pietrantoni DavidPrincipal Accounting Officer",
+            "SharesTraded": 4000,
+            "AveragePrice": "$44",
+            "TotalAmount": "$176,000",
+            "SharesOwned": "37,438(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Pietrantoni David",
+                ""
+            ],
+            "Position": "Principal Accounting Officer",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-07-01Sale",
+            "ReportedDateTime": "2020-07-014:53 pm",
+            "Company": "COSTCO WHOLESALE CORP",
+            "Symbol": "COST",
+            "InsiderRelationship": "DECKER SUSAN LDirector",
+            "SharesTraded": 1155,
+            "AveragePrice": "$302.57",
+            "TotalAmount": "$349,473",
+            "SharesOwned": "29,432(Direct)",
+            "Filing": "View",
+            "Name": [
+                "DECKER SUSAN L",
+                ""
+            ],
+            "Position": "Director",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-19Purchase",
+            "ReportedDateTime": "2020-07-014:59 pm",
+            "Company": "SHARING SERVICES GLOBAL Corp",
+            "Symbol": "SHRG",
+            "InsiderRelationship": "HALLS KEITH RDirector",
+            "SharesTraded": 5000000,
+            "AveragePrice": "$0.08",
+            "TotalAmount": "$400,000",
+            "SharesOwned": "5,000,000(Direct)",
+            "Filing": "View",
+            "Name": [
+                "HALLS KEITH R",
+                ""
+            ],
+            "Position": "Director",
+            "Sale/Purchase?": "Purchase"
+        },
+        {
+            "TransactionDate": "2020-06-29Sale",
+            "ReportedDateTime": "2020-07-015:03 pm",
+            "Company": "Wright Medical Group N.V.",
+            "Symbol": "WMGI",
+            "InsiderRelationship": "Lanier TimPresident",
+            "SharesTraded": 2299,
+            "AveragePrice": "$29.39",
+            "TotalAmount": "$67,568",
+            "SharesOwned": "29,383(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Lanier Tim",
+                ""
+            ],
+            "Position": "President",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-29Sale",
+            "ReportedDateTime": "2020-07-015:08 pm",
+            "Company": "Yext Inc.",
+            "Symbol": "YEXT",
+            "InsiderRelationship": "CAKEBREAD STEVENCFO",
+            "SharesTraded": 10000,
+            "AveragePrice": "$16.08",
+            "TotalAmount": "$160,789",
+            "SharesOwned": "22,638(Direct)",
+            "Filing": "View",
+            "Name": [
+                "CAKEBREAD STEVEN",
+                ""
+            ],
+            "Position": "CFO",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-30Sale",
+            "ReportedDateTime": "2020-07-015:09 pm",
+            "Company": "VISA Inc",
+            "Symbol": "V",
+            "InsiderRelationship": "KELLY ALFRED F JRCEOChairman",
+            "SharesTraded": 7000,
+            "AveragePrice": "$191.49",
+            "TotalAmount": "$1,340,430",
+            "SharesOwned": "126,090(Direct)",
+            "Filing": "View",
+            "Name": [
+                "KELLY ALFRED F JRCEO",
+                ""
+            ],
+            "Position": "Chairman",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-29Sale",
+            "ReportedDateTime": "2020-07-015:10 pm",
+            "Company": "Yext Inc.",
+            "Symbol": "YEXT",
+            "InsiderRelationship": "Steele JimPresident & CRO",
+            "SharesTraded": 5878,
+            "AveragePrice": "$16.06",
+            "TotalAmount": "$94,424",
+            "SharesOwned": "9,009(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Steele JimPresid",
+                ""
+            ],
+            "Position": "ent & CRO",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-30Purchase",
+            "ReportedDateTime": "2020-07-015:16 pm",
+            "Company": "PACIFIC HEALTH CARE ORGANIZATION INC",
+            "Symbol": "PFHO",
+            "InsiderRelationship": "KUBOTA TOMCEO10% Owner",
+            "SharesTraded": 2500,
+            "AveragePrice": "$1.056",
+            "TotalAmount": "$2,640",
+            "SharesOwned": "7,874,500(Direct)",
+            "Filing": "View",
+            "Name": [
+                "KUBOTA TOMCEO",
+                ""
+            ],
+            "Position": "10% Owner",
+            "Sale/Purchase?": "Purchase"
+        },
+        {
+            "TransactionDate": "2020-06-29Sale",
+            "ReportedDateTime": "2020-07-015:17 pm",
+            "Company": "Wright Medical Group N.V.",
+            "Symbol": "WMGI",
+            "InsiderRelationship": "Fisher PatrickPresident",
+            "SharesTraded": 3129,
+            "AveragePrice": "$29.55",
+            "TotalAmount": "$92,462",
+            "SharesOwned": "40,055(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Fisher Patrick",
+                ""
+            ],
+            "Position": "President",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-30Sale",
+            "ReportedDateTime": "2020-07-015:17 pm",
+            "Company": "MCCORMICK & CO INC",
+            "Symbol": "MKC",
+            "InsiderRelationship": "LITTLE PATRICIA ADirector",
+            "SharesTraded": 5000,
+            "AveragePrice": "$179.14",
+            "TotalAmount": "$895,699",
+            "SharesOwned": "11,288(Direct)",
+            "Filing": "View",
+            "Name": [
+                "LITTLE PATRICIA A",
+                ""
+            ],
+            "Position": "Director",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-29Sale",
+            "ReportedDateTime": "2020-07-015:21 pm",
+            "Company": "FACTSET RESEARCH SYSTEMS INC",
+            "Symbol": "FDS",
+            "InsiderRelationship": "BILLEADEAU SCOTT ADirector",
+            "SharesTraded": 2404,
+            "AveragePrice": "$326.16",
+            "TotalAmount": "$784,089",
+            "SharesOwned": "625(Direct)",
+            "Filing": "View",
+            "Name": [
+                "BILLEADEAU SCOTT A",
+                ""
+            ],
+            "Position": "Director",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-30Sale",
+            "ReportedDateTime": "2020-07-015:23 pm",
+            "Company": "AKAMAI TECHNOLOGIES INC",
+            "Symbol": "AKAM",
+            "InsiderRelationship": "McGowan Edward JCFO",
+            "SharesTraded": 4758,
+            "AveragePrice": "$107.01",
+            "TotalAmount": "$509,140",
+            "SharesOwned": "8,839(Direct)",
+            "Filing": "View",
+            "Name": [
+                "McGowan Edward J",
+                ""
+            ],
+            "Position": "CFO",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-29Purchase",
+            "ReportedDateTime": "2020-07-015:23 pm",
+            "Company": "TETRA TECHNOLOGIES INC",
+            "Symbol": "TTI",
+            "InsiderRelationship": "O'Brien Richard DVP",
+            "SharesTraded": 79500,
+            "AveragePrice": "$0.5786",
+            "TotalAmount": "$45,999",
+            "SharesOwned": "143,859(Direct)",
+            "Filing": "View",
+            "Name": [
+                "O'Brien Richard D",
+                ""
+            ],
+            "Position": "VP",
+            "Sale/Purchase?": "Purchase"
+        },
+        {
+            "TransactionDate": "2020-06-29Purchase",
+            "ReportedDateTime": "2020-07-015:24 pm",
+            "Company": "Evelo Biosciences Inc.",
+            "Symbol": "EVLO",
+            "InsiderRelationship": "Flagship Ventures Fund IV General Partner LLCFlagship Ventures Fund IV L.P.Flagship Ventures Fund IV-Rx L.P.Flagship Ventures Opportunities Fund I General Partner LLCFlagship Ventures Opportunities Fund I L.P.AFEYAN NOUBAR10% Owner",
+            "SharesTraded": 4666666,
+            "AveragePrice": "$3.75",
+            "TotalAmount": "$17,499,998",
+            "SharesOwned": "4,079,032(Indirect)",
+            "Filing": "View",
+            "Name": [
+                "Flagship Ventures Fund IV General Partner LLCFlagship Ventures Fund IV L.P.Flagship Ventures Fund IV-Rx L.P.Flagship Ventures Opportunities Fund I General Partner LLCFlagship Ventures Opportunities Fund I L.P.AFEYAN NOUBAR",
+                ""
+            ],
+            "Position": "10% Owner",
+            "Sale/Purchase?": "Purchase"
+        },
+        {
+            "TransactionDate": "2020-06-30Purchase",
+            "ReportedDateTime": "2020-07-015:26 pm",
+            "Company": "TETRA TECHNOLOGIES INC",
+            "Symbol": "TTI",
+            "InsiderRelationship": "LUNA GINADirector",
+            "SharesTraded": 175000,
+            "AveragePrice": "$0.57",
+            "TotalAmount": "$99,750",
+            "SharesOwned": "192,818(Direct)",
+            "Filing": "View",
+            "Name": [
+                "LUNA GINA",
+                ""
+            ],
+            "Position": "Director",
+            "Sale/Purchase?": "Purchase"
+        },
+        {
+            "TransactionDate": "2020-06-30Purchase",
+            "ReportedDateTime": "2020-07-015:27 pm",
+            "Company": "Akouos Inc.",
+            "Symbol": "AKUS",
+            "InsiderRelationship": "BASKETT FOREST10% Owner",
+            "SharesTraded": 588235,
+            "AveragePrice": "$17",
+            "TotalAmount": "$9,999,995",
+            "SharesOwned": "4,294,207(Indirect)",
+            "Filing": "View",
+            "Name": [
+                "BASKETT FOREST",
+                ""
+            ],
+            "Position": "10% Owner",
+            "Sale/Purchase?": "Purchase"
+        },
+        {
+            "TransactionDate": "2020-07-01Sale",
+            "ReportedDateTime": "2020-07-015:29 pm",
+            "Company": "PELOTON INTERACTIVE Inc",
+            "Symbol": "PTON",
+            "InsiderRelationship": "Woodworth JillCFO",
+            "SharesTraded": 49900,
+            "AveragePrice": "$60.02",
+            "TotalAmount": "$2,995,203",
+            "SharesOwned": "0(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Woodworth Jill",
+                ""
+            ],
+            "Position": "CFO",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-30Purchase",
+            "ReportedDateTime": "2020-07-015:30 pm",
+            "Company": "Akouos Inc.",
+            "Symbol": "AKUS",
+            "InsiderRelationship": "Chang Carmen10% Owner",
+            "SharesTraded": 588235,
+            "AveragePrice": "$17",
+            "TotalAmount": "$9,999,995",
+            "SharesOwned": "4,294,207(Indirect)",
+            "Filing": "View",
+            "Name": [
+                "Chang Carmen",
+                ""
+            ],
+            "Position": "10% Owner",
+            "Sale/Purchase?": "Purchase"
+        },
+        {
+            "TransactionDate": "2020-06-30Purchase",
+            "ReportedDateTime": "2020-07-015:32 pm",
+            "Company": "Akouos Inc.",
+            "Symbol": "AKUS",
+            "InsiderRelationship": "Florence Anthony A. Jr.10% Owner",
+            "SharesTraded": 588235,
+            "AveragePrice": "$17",
+            "TotalAmount": "$9,999,995",
+            "SharesOwned": "4,294,207(Indirect)",
+            "Filing": "View",
+            "Name": [
+                "Florence Anthony A. Jr.",
+                ""
+            ],
+            "Position": "10% Owner",
+            "Sale/Purchase?": "Purchase"
+        },
+        {
+            "TransactionDate": "2020-06-30Purchase",
+            "ReportedDateTime": "2020-07-015:34 pm",
+            "Company": "Akouos Inc.",
+            "Symbol": "AKUS",
+            "InsiderRelationship": "Makhzoumi Mohamad10% Owner",
+            "SharesTraded": 588235,
+            "AveragePrice": "$17",
+            "TotalAmount": "$9,999,995",
+            "SharesOwned": "4,294,207(Indirect)",
+            "Filing": "View",
+            "Name": [
+                "Makhzoumi Mohamad",
+                ""
+            ],
+            "Position": "10% Owner",
+            "Sale/Purchase?": "Purchase"
+        },
+        {
+            "TransactionDate": "2020-06-30Purchase",
+            "ReportedDateTime": "2020-07-015:36 pm",
+            "Company": "Akouos Inc.",
+            "Symbol": "AKUS",
+            "InsiderRelationship": "MAKOWER JOSHUA10% Owner",
+            "SharesTraded": 588235,
+            "AveragePrice": "$17",
+            "TotalAmount": "$9,999,995",
+            "SharesOwned": "4,294,207(Indirect)",
+            "Filing": "View",
+            "Name": [
+                "MAKOWER JOSHUA",
+                ""
+            ],
+            "Position": "10% Owner",
+            "Sale/Purchase?": "Purchase"
+        },
+        {
+            "TransactionDate": "2020-06-30Sale",
+            "ReportedDateTime": "2020-07-015:36 pm",
+            "Company": "FLEX Ltd",
+            "Symbol": "FLEX",
+            "InsiderRelationship": "Barbier FrancoisPresident",
+            "SharesTraded": 10289,
+            "AveragePrice": "$10.2",
+            "TotalAmount": "$104,927",
+            "SharesOwned": "673,457(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Barbier Francois",
+                ""
+            ],
+            "Position": "President",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-30Purchase",
+            "ReportedDateTime": "2020-07-015:38 pm",
+            "Company": "Akouos Inc.",
+            "Symbol": "AKUS",
+            "InsiderRelationship": "SANDELL SCOTT D10% Owner",
+            "SharesTraded": 588235,
+            "AveragePrice": "$17",
+            "TotalAmount": "$9,999,995",
+            "SharesOwned": "4,294,207(Indirect)",
+            "Filing": "View",
+            "Name": [
+                "SANDELL SCOTT D",
+                ""
+            ],
+            "Position": "10% Owner",
+            "Sale/Purchase?": "Purchase"
+        },
+        {
+            "TransactionDate": "2020-06-29Sale",
+            "ReportedDateTime": "2020-07-015:40 pm",
+            "Company": "Slack Technologies Inc.",
+            "Symbol": "WORK",
+            "InsiderRelationship": "Henderson CalCTO",
+            "SharesTraded": 3000,
+            "AveragePrice": "$30.84",
+            "TotalAmount": "$92,530",
+            "SharesOwned": "163,775(IndirectDirect)",
+            "Filing": "View",
+            "Name": [
+                "Henderson Cal",
+                ""
+            ],
+            "Position": "CTO",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-30Sale",
+            "ReportedDateTime": "2020-07-015:41 pm",
+            "Company": "FLEX Ltd",
+            "Symbol": "FLEX",
+            "InsiderRelationship": "Humphries PaulPresident",
+            "SharesTraded": 9776,
+            "AveragePrice": "$10.2",
+            "TotalAmount": "$99,709",
+            "SharesOwned": "563,257(IndirectDirect)",
+            "Filing": "View",
+            "Name": [
+                "Humphries Paul",
+                ""
+            ],
+            "Position": "President",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-29Sale",
+            "ReportedDateTime": "2020-07-015:42 pm",
+            "Company": "Datadog Inc.",
+            "Symbol": "DDOG",
+            "InsiderRelationship": "Richardson JulieDirector",
+            "SharesTraded": 37500,
+            "AveragePrice": "$82.43",
+            "TotalAmount": "$3,091,299",
+            "SharesOwned": "2,301(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Richardson Julie",
+                ""
+            ],
+            "Position": "Director",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-30Purchase",
+            "ReportedDateTime": "2020-07-015:42 pm",
+            "Company": "Akouos Inc.",
+            "Symbol": "AKUS",
+            "InsiderRelationship": "Walker Paul Edward10% Owner",
+            "SharesTraded": 588235,
+            "AveragePrice": "$17",
+            "TotalAmount": "$9,999,995",
+            "SharesOwned": "4,294,207(Indirect)",
+            "Filing": "View",
+            "Name": [
+                "Walker Paul Edward",
+                ""
+            ],
+            "Position": "10% Owner",
+            "Sale/Purchase?": "Purchase"
+        },
+        {
+            "TransactionDate": "2020-06-30Purchase",
+            "ReportedDateTime": "2020-07-015:45 pm",
+            "Company": "Akouos Inc.",
+            "Symbol": "AKUS",
+            "InsiderRelationship": "New Enterprise Associates 16 L.P.NEA Partners 16 L.P.NEA 16 GP LLC10% Owner",
+            "SharesTraded": 588235,
+            "AveragePrice": "$17",
+            "TotalAmount": "$9,999,995",
+            "SharesOwned": "4,294,207(Direct)",
+            "Filing": "View",
+            "Name": [
+                "New Enterprise Associates 16 L.P.NEA Partners 16 L.P.NEA 16 GP LLC",
+                ""
+            ],
+            "Position": "10% Owner",
+            "Sale/Purchase?": "Purchase"
+        },
+        {
+            "TransactionDate": "2020-07-01Sale",
+            "ReportedDateTime": "2020-07-015:46 pm",
+            "Company": "CBIZ Inc.",
+            "Symbol": "CBZ",
+            "InsiderRelationship": "WILEY BENAREE PRATTDirector",
+            "SharesTraded": 700,
+            "AveragePrice": "$24.02",
+            "TotalAmount": "$16,813",
+            "SharesOwned": "11,061(IndirectDirect)",
+            "Filing": "View",
+            "Name": [
+                "WILEY BENAREE PRATT",
+                ""
+            ],
+            "Position": "Director",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-30Sale",
+            "ReportedDateTime": "2020-07-015:46 pm",
+            "Company": "FLEX Ltd",
+            "Symbol": "FLEX",
+            "InsiderRelationship": "OFFER DAVID SCOTTVP",
+            "SharesTraded": 6659,
+            "AveragePrice": "$10.2",
+            "TotalAmount": "$67,909",
+            "SharesOwned": "531,086(IndirectDirect)",
+            "Filing": "View",
+            "Name": [
+                "OFFER DAVID SCOTT",
+                ""
+            ],
+            "Position": "VP",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-29Purchase",
+            "ReportedDateTime": "2020-07-015:47 pm",
+            "Company": "GRAY TELEVISION INC",
+            "Symbol": "GTN",
+            "InsiderRelationship": "HOWELL HILTON H JRCEOChairman",
+            "SharesTraded": 4000,
+            "AveragePrice": "$13.05",
+            "TotalAmount": "$52,212",
+            "SharesOwned": "1,164,338(IndirectDirect)",
+            "Filing": "View",
+            "Name": [
+                "HOWELL HILTON H JRCEO",
+                ""
+            ],
+            "Position": "Chairman",
+            "Sale/Purchase?": "Purchase"
+        },
+        {
+            "TransactionDate": "2020-06-30Purchase",
+            "ReportedDateTime": "2020-07-015:49 pm",
+            "Company": "Akouos Inc.",
+            "Symbol": "AKUS",
+            "InsiderRelationship": "Behbahani Ali10% Owner",
+            "SharesTraded": 588235,
+            "AveragePrice": "$17",
+            "TotalAmount": "$9,999,995",
+            "SharesOwned": "4,294,207(Indirect)",
+            "Filing": "View",
+            "Name": [
+                "Behbahani Ali",
+                ""
+            ],
+            "Position": "10% Owner",
+            "Sale/Purchase?": "Purchase"
+        },
+        {
+            "TransactionDate": "2020-06-29Purchase",
+            "ReportedDateTime": "2020-07-015:49 pm",
+            "Company": "GRAY TELEVISION INC",
+            "Symbol": "GTN",
+            "InsiderRelationship": "Howell Robin RobinsonDirector",
+            "SharesTraded": 4000,
+            "AveragePrice": "$13.05",
+            "TotalAmount": "$52,212",
+            "SharesOwned": "1,164,338(IndirectDirect)",
+            "Filing": "View",
+            "Name": [
+                "Howell Robin Robinson",
+                ""
+            ],
+            "Position": "Director",
+            "Sale/Purchase?": "Purchase"
+        },
+        {
+            "TransactionDate": "2020-06-29Sale",
+            "ReportedDateTime": "2020-07-015:50 pm",
+            "Company": "Wright Medical Group N.V.",
+            "Symbol": "WMGI",
+            "InsiderRelationship": "Walker Jennifer S.VP",
+            "SharesTraded": 2110,
+            "AveragePrice": "$29.54",
+            "TotalAmount": "$62,337",
+            "SharesOwned": "38,087(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Walker Jennifer S.",
+                ""
+            ],
+            "Position": "VP",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-30Sale",
+            "ReportedDateTime": "2020-07-015:51 pm",
+            "Company": "Alteryx Inc.",
+            "Symbol": "AYX",
+            "InsiderRelationship": "Jones Robert ScottPres. & Chief Revenue Officer",
+            "SharesTraded": 5306,
+            "AveragePrice": "$161.03",
+            "TotalAmount": "$854,415",
+            "SharesOwned": "39,391(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Walker Jennifer S.",
+                ""
+            ],
+            "Position": "VP",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-30Sale",
+            "ReportedDateTime": "2020-07-015:52 pm",
+            "Company": "FLEX Ltd",
+            "Symbol": "FLEX",
+            "InsiderRelationship": "Collier ChristopherCFO",
+            "SharesTraded": 12085,
+            "AveragePrice": "$10.2",
+            "TotalAmount": "$123,255",
+            "SharesOwned": "636,907(IndirectDirect)",
+            "Filing": "View",
+            "Name": [
+                "Collier Christopher",
+                ""
+            ],
+            "Position": "CFO",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-29Sale",
+            "ReportedDateTime": "2020-07-015:56 pm",
+            "Company": "Wright Medical Group N.V.",
+            "Symbol": "WMGI",
+            "InsiderRelationship": "Cordell Kevin DEVP Chief Global Comm Officer",
+            "SharesTraded": 4860,
+            "AveragePrice": "$29.61",
+            "TotalAmount": "$143,885",
+            "SharesOwned": "87,694(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Cordell Kevin DEVP Chief Global Comm Offic",
+                ""
+            ],
+            "Position": "er",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-30Purchase",
+            "ReportedDateTime": "2020-07-015:57 pm",
+            "Company": "Akouos Inc.",
+            "Symbol": "AKUS",
+            "InsiderRelationship": "Sonsini Peter W.10% Owner",
+            "SharesTraded": 588235,
+            "AveragePrice": "$17",
+            "TotalAmount": "$9,999,995",
+            "SharesOwned": "4,294,207(Indirect)",
+            "Filing": "View",
+            "Name": [
+                "Sonsini Peter W.",
+                ""
+            ],
+            "Position": "10% Owner",
+            "Sale/Purchase?": "Purchase"
+        },
+        {
+            "TransactionDate": "2020-06-30Sale",
+            "ReportedDateTime": "2020-07-015:59 pm",
+            "Company": "FLEX Ltd",
+            "Symbol": "FLEX",
+            "InsiderRelationship": "Bennett David PCAO",
+            "SharesTraded": 1904,
+            "AveragePrice": "$10.19",
+            "TotalAmount": "$19,410",
+            "SharesOwned": "167,087(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Bennett David P",
+                ""
+            ],
+            "Position": "CAO",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-29Sale",
+            "ReportedDateTime": "2020-07-015:59 pm",
+            "Company": "Priority Technology Holdings Inc.",
+            "Symbol": "PRTH",
+            "InsiderRelationship": "Kiewiet SeanCTO",
+            "SharesTraded": 5647,
+            "AveragePrice": "$2.4047",
+            "TotalAmount": "$13,580",
+            "SharesOwned": "2,256,012(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Kiewiet Sean",
+                ""
+            ],
+            "Position": "CTO",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-29Sale",
+            "ReportedDateTime": "2020-07-016:02 pm",
+            "Company": "Wright Medical Group N.V.",
+            "Symbol": "WMGI",
+            "InsiderRelationship": "Porter Jonathan WesleySVP Chief Compliance Officer",
+            "SharesTraded": 2925,
+            "AveragePrice": "$29.55",
+            "TotalAmount": "$86,442",
+            "SharesOwned": "33,612(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Port",
+                " Jonathan WesleySVP Chief Compliance Offic",
+                ""
+            ],
+            "Position": "er",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-29Sale",
+            "ReportedDateTime": "2020-07-016:04 pm",
+            "Company": "CHEGG INC",
+            "Symbol": "CHGG",
+            "InsiderRelationship": "ROSENSWEIG DANIELCEOChairman",
+            "SharesTraded": 28000,
+            "AveragePrice": "$64.84",
+            "TotalAmount": "$1,815,520",
+            "SharesOwned": "2,119,179(IndirectDirect)",
+            "Filing": "View",
+            "Name": [
+                "ROSENSWEIG DANIELCEO",
+                ""
+            ],
+            "Position": "Chairman",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-29Purchase",
+            "ReportedDateTime": "2020-07-016:04 pm",
+            "Company": "CONTINENTAL RESOURCES INC",
+            "Symbol": "CLR",
+            "InsiderRelationship": "Hamm HaroldChairman10% Owner",
+            "SharesTraded": 3135425,
+            "AveragePrice": "$16.7",
+            "TotalAmount": "$52,374,215",
+            "SharesOwned": "9,613,820(IndirectDirect)",
+            "Filing": "View",
+            "Name": [
+                "Hamm HaroldChairman1",
+                ""
+            ],
+            "Position": "0% Owner",
+            "Sale/Purchase?": "Purchase"
+        },
+        {
+            "TransactionDate": "2020-06-30Sale",
+            "ReportedDateTime": "2020-07-016:08 pm",
+            "Company": "NETGEAR Inc",
+            "Symbol": "NTGR",
+            "InsiderRelationship": "WERDANN MICHAEL AVP",
+            "SharesTraded": 1643,
+            "AveragePrice": "$25.7",
+            "TotalAmount": "$42,225",
+            "SharesOwned": "45,104(Direct)",
+            "Filing": "View",
+            "Name": [
+                "WERDANN MICHAEL A",
+                ""
+            ],
+            "Position": "VP",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-29Sale",
+            "ReportedDateTime": "2020-07-016:09 pm",
+            "Company": "AMERICAN SOFTWARE INC",
+            "Symbol": "AMSWA",
+            "InsiderRelationship": "EDENFIELD JAMES CChairman",
+            "SharesTraded": 9223,
+            "AveragePrice": "$15.6",
+            "TotalAmount": "$143,879",
+            "SharesOwned": "60,000(Direct)",
+            "Filing": "View",
+            "Name": [
+                "EDENFIELD JAMES C",
+                ""
+            ],
+            "Position": "Chairman",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-29Sale",
+            "ReportedDateTime": "2020-07-016:15 pm",
+            "Company": "Catalent Inc.",
+            "Symbol": "CTLT",
+            "InsiderRelationship": "Gunther ScottVP",
+            "SharesTraded": 2824,
+            "AveragePrice": "$72",
+            "TotalAmount": "$203,318",
+            "SharesOwned": "13,365(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Gunther Scott",
+                ""
+            ],
+            "Position": "VP",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-29Purchase",
+            "ReportedDateTime": "2020-07-016:16 pm",
+            "Company": "RAPT Therapeutics Inc.",
+            "Symbol": "RAPT",
+            "InsiderRelationship": "Robbins WendyeDirector",
+            "SharesTraded": 2600,
+            "AveragePrice": "$26.01",
+            "TotalAmount": "$67,632",
+            "SharesOwned": "4,550(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Robbins Wendye",
+                ""
+            ],
+            "Position": "Director",
+            "Sale/Purchase?": "Purchase"
+        },
+        {
+            "TransactionDate": "2020-06-29Sale",
+            "ReportedDateTime": "2020-07-016:17 pm",
+            "Company": "Wright Medical Group N.V.",
+            "Symbol": "WMGI",
+            "InsiderRelationship": "Lightman JamesVP",
+            "SharesTraded": 2979,
+            "AveragePrice": "$29.59",
+            "TotalAmount": "$88,149",
+            "SharesOwned": "70,840(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Lightman James",
+                ""
+            ],
+            "Position": "VP",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-29Sale",
+            "ReportedDateTime": "2020-07-016:18 pm",
+            "Company": "Wright Medical Group N.V.",
+            "Symbol": "WMGI",
+            "InsiderRelationship": "Andrews JulieVP",
+            "SharesTraded": 2691,
+            "AveragePrice": "$29.53",
+            "TotalAmount": "$79,473",
+            "SharesOwned": "38,714(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Andrews Julie",
+                ""
+            ],
+            "Position": "VP",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-07-01Sale",
+            "ReportedDateTime": "2020-07-016:24 pm",
+            "Company": "ADOBE Inc",
+            "Symbol": "ADBE",
+            "InsiderRelationship": "Lewnes AnnEVP Chief Marketing Officer",
+            "SharesTraded": 5000,
+            "AveragePrice": "$436.08",
+            "TotalAmount": "$2,180,381",
+            "SharesOwned": "44,874(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Lewnes AnnEVP Chief Marketing Offic",
+                ""
+            ],
+            "Position": "er",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-29Sale",
+            "ReportedDateTime": "2020-07-016:28 pm",
+            "Company": "Wright Medical Group N.V.",
+            "Symbol": "WMGI",
+            "InsiderRelationship": "Dewey Julie D.SVP Chief Communications Ofcr",
+            "SharesTraded": 3530,
+            "AveragePrice": "$29.54",
+            "TotalAmount": "$104,282",
+            "SharesOwned": "30,548(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Dewey Julie D.SVP Chief Communications Of",
+                ""
+            ],
+            "Position": "cr",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-29Sale",
+            "ReportedDateTime": "2020-07-016:30 pm",
+            "Company": "AMERICAN SOFTWARE INC",
+            "Symbol": "AMSWA",
+            "InsiderRelationship": "EDENFIELD JAMES CChairman",
+            "SharesTraded": 9223,
+            "AveragePrice": "$15.6",
+            "TotalAmount": "$143,879",
+            "SharesOwned": "60,000(Direct)",
+            "Filing": "View",
+            "Name": [
+                "EDENFIELD JAMES C",
+                ""
+            ],
+            "Position": "Chairman",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-30Sale",
+            "ReportedDateTime": "2020-07-016:30 pm",
+            "Company": "NETGEAR Inc",
+            "Symbol": "NTGR",
+            "InsiderRelationship": "Rogers TamesaVP",
+            "SharesTraded": 3000,
+            "AveragePrice": "$25.7",
+            "TotalAmount": "$77,100",
+            "SharesOwned": "50,338(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Rogers Tamesa",
+                ""
+            ],
+            "Position": "VP",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-07-01Sale",
+            "ReportedDateTime": "2020-07-016:31 pm",
+            "Company": "Altabancorp",
+            "Symbol": "PUB",
+            "InsiderRelationship": "Fairclough Jr. Fred W.Director",
+            "SharesTraded": 3750,
+            "AveragePrice": "$23.23",
+            "TotalAmount": "$87,126",
+            "SharesOwned": "185,926(Indirect)",
+            "Filing": "View",
+            "Name": [
+                "Fairclough Jr. Fred W.",
+                ""
+            ],
+            "Position": "Director",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-29Sale",
+            "ReportedDateTime": "2020-07-016:33 pm",
+            "Company": "PINTEREST Inc",
+            "Symbol": "PINS",
+            "InsiderRelationship": "Yang Tseli LilyCAO",
+            "SharesTraded": 2531,
+            "AveragePrice": "$21.2",
+            "TotalAmount": "$53,657",
+            "SharesOwned": "78,075(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Yang Tseli Lily",
+                ""
+            ],
+            "Position": "CAO",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-07-01Sale",
+            "ReportedDateTime": "2020-07-016:39 pm",
+            "Company": "MEDICAL PROPERTIES TRUST INC",
+            "Symbol": "MPW",
+            "InsiderRelationship": "Stewart Michael GDirector",
+            "SharesTraded": 5000,
+            "AveragePrice": "$19.09",
+            "TotalAmount": "$95,450",
+            "SharesOwned": "220,056(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Stewart Michael G",
+                ""
+            ],
+            "Position": "Director",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-29Sale",
+            "ReportedDateTime": "2020-07-016:41 pm",
+            "Company": "Wright Medical Group N.V.",
+            "Symbol": "WMGI",
+            "InsiderRelationship": "Berry Lance ACFO",
+            "SharesTraded": 9137,
+            "AveragePrice": "$29.63",
+            "TotalAmount": "$270,732",
+            "SharesOwned": "143,981(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Berry Lance A",
+                ""
+            ],
+            "Position": "CFO",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-29Sale",
+            "ReportedDateTime": "2020-07-016:48 pm",
+            "Company": "Spartan Energy Acquisition Corp.",
+            "Symbol": "SPAQ",
+            "InsiderRelationship": "GLAZER CAPITAL LLCGLAZER PAUL J10% Owner",
+            "SharesTraded": 334842,
+            "AveragePrice": "$10.77",
+            "TotalAmount": "$3,606,700",
+            "SharesOwned": "6,590,282(Indirect)",
+            "Filing": "View",
+            "Name": [
+                "GLAZER CAPITAL LLCGLAZER PAUL J",
+                ""
+            ],
+            "Position": "10% Owner",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-29Sale",
+            "ReportedDateTime": "2020-07-016:55 pm",
+            "Company": "SPORTSMAN'S WAREHOUSE HOLDINGS Inc",
+            "Symbol": "SPWH",
+            "InsiderRelationship": "Bejar Martha HelenaDirector",
+            "SharesTraded": 7320,
+            "AveragePrice": "$13.53",
+            "TotalAmount": "$99,032",
+            "SharesOwned": "22,472(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Bejar Martha Helena",
+                ""
+            ],
+            "Position": "Director",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-30Sale",
+            "ReportedDateTime": "2020-07-017:00 pm",
+            "Company": "REPUBLIC SERVICES Inc",
+            "Symbol": "RSG",
+            "InsiderRelationship": "Collins TomagoDirector",
+            "SharesTraded": 4940,
+            "AveragePrice": "$81.58",
+            "TotalAmount": "$403,026",
+            "SharesOwned": "9,879(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Collins Tomago",
+                ""
+            ],
+            "Position": "Director",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-29Sale",
+            "ReportedDateTime": "2020-07-017:00 pm",
+            "Company": "AMICUS THERAPEUTICS Inc",
+            "Symbol": "FOLD",
+            "InsiderRelationship": "Barth JayChief Medical Officer",
+            "SharesTraded": 30000,
+            "AveragePrice": "$15.51",
+            "TotalAmount": "$465,195",
+            "SharesOwned": "163,204(IndirectDirect)",
+            "Filing": "View",
+            "Name": [
+                "Barth Jay",
+                ""
+            ],
+            "Position": "Chief Medical Officer",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-29Sale",
+            "ReportedDateTime": "2020-07-017:02 pm",
+            "Company": "iRhythm Technologies Inc.",
+            "Symbol": "IRTC",
+            "InsiderRelationship": "Vort David AVP",
+            "SharesTraded": 11264,
+            "AveragePrice": "$108.71",
+            "TotalAmount": "$1,224,489",
+            "SharesOwned": "16,003(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Vort David A",
+                ""
+            ],
+            "Position": "VP",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-29Sale",
+            "ReportedDateTime": "2020-07-017:02 pm",
+            "Company": "COMMERCIAL METALS Co",
+            "Symbol": "CMC",
+            "InsiderRelationship": "Porter Tracy LCOO",
+            "SharesTraded": 52045,
+            "AveragePrice": "$20.14",
+            "TotalAmount": "$1,048,264",
+            "SharesOwned": "76,485(IndirectDirect)",
+            "Filing": "View",
+            "Name": [
+                "Porter Tracy L",
+                ""
+            ],
+            "Position": "COO",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-29Purchase",
+            "ReportedDateTime": "2020-07-017:08 pm",
+            "Company": "BALLANTYNE STRONG Inc",
+            "Symbol": "BTN",
+            "InsiderRelationship": "Fundamental Global Investors LLCCerminara KyleJohnson Lewis MMOGLIA JOSEPH HDirector10% Owner",
+            "SharesTraded": 7100,
+            "AveragePrice": "$1.647",
+            "TotalAmount": "$11,694",
+            "SharesOwned": "130,898(Indirect)",
+            "Filing": "View",
+            "Name": [
+                "Fundamental Global Investors LLCCerminara KyleJohnson Lewis MMOGLIA JOSEPH HDirector1",
+                ""
+            ],
+            "Position": "0% Owner",
+            "Sale/Purchase?": "Purchase"
+        },
+        {
+            "TransactionDate": "2020-06-29Purchase",
+            "ReportedDateTime": "2020-07-017:10 pm",
+            "Company": "BK Technologies Corp",
+            "Symbol": "BKTI",
+            "InsiderRelationship": "Fundamental Global Investors LLCCerminara KyleJohnson Lewis MMOGLIA JOSEPH HDirector10% Owner",
+            "SharesTraded": 3964,
+            "AveragePrice": "$3.4408",
+            "TotalAmount": "$13,639",
+            "SharesOwned": "1,341,190(Indirect)",
+            "Filing": "View",
+            "Name": [
+                "Fundamental Global Investors LLCCerminara KyleJohnson Lewis MMOGLIA JOSEPH HDirector1",
+                ""
+            ],
+            "Position": "0% Owner",
+            "Sale/Purchase?": "Purchase"
+        },
+        {
+            "TransactionDate": "2020-06-29Sale",
+            "ReportedDateTime": "2020-07-017:13 pm",
+            "Company": "TRUPANION Inc",
+            "Symbol": "TRUP",
+            "InsiderRelationship": "PLOUF TRICIACFO",
+            "SharesTraded": 17000,
+            "AveragePrice": "$42.43",
+            "TotalAmount": "$721,324",
+            "SharesOwned": "6,972(Direct)",
+            "Filing": "View",
+            "Name": [
+                "PLOUF TRICIA",
+                ""
+            ],
+            "Position": "CFO",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-29Sale",
+            "ReportedDateTime": "2020-07-017:14 pm",
+            "Company": "UNITED THERAPEUTICS Corp",
+            "Symbol": "UTHR",
+            "InsiderRelationship": "ROTHBLATT MARTINE ACEOChairman",
+            "SharesTraded": 20000,
+            "AveragePrice": "$120.18",
+            "TotalAmount": "$2,403,689",
+            "SharesOwned": "140(IndirectDirect)",
+            "Filing": "View",
+            "Name": [
+                "ROTHBLATT MARTINE ACEO",
+                ""
+            ],
+            "Position": "Chairman",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-30Sale",
+            "ReportedDateTime": "2020-07-017:19 pm",
+            "Company": "Ping Identity Holding Corp.",
+            "Symbol": "PING",
+            "InsiderRelationship": "ROMER LAUREN ADRIENNEChief Legal Officer",
+            "SharesTraded": 1063,
+            "AveragePrice": "$31.92",
+            "TotalAmount": "$33,929",
+            "SharesOwned": "95,416(Direct)",
+            "Filing": "View",
+            "Name": [
+                "ROTHBLATT MARTINE ACEO",
+                ""
+            ],
+            "Position": "Chairman",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-07-01Sale",
+            "ReportedDateTime": "2020-07-017:20 pm",
+            "Company": "RAPT Therapeutics Inc.",
+            "Symbol": "RAPT",
+            "InsiderRelationship": "HO WILLIAMChief Medical Officer",
+            "SharesTraded": 1000,
+            "AveragePrice": "$28.61",
+            "TotalAmount": "$28,610",
+            "SharesOwned": "71,858(Direct)",
+            "Filing": "View",
+            "Name": [
+                "HO WILLIAM",
+                ""
+            ],
+            "Position": "Chief Medical Officer",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-29Sale",
+            "ReportedDateTime": "2020-07-017:25 pm",
+            "Company": "Stereotaxis Inc.",
+            "Symbol": "STXS",
+            "InsiderRelationship": "Isaac Paul J10% Owner",
+            "SharesTraded": 13398,
+            "AveragePrice": "$4.49",
+            "TotalAmount": "$60,157",
+            "SharesOwned": "4,397,538(IndirectDirect)",
+            "Filing": "View",
+            "Name": [
+                "Isaac Paul J",
+                ""
+            ],
+            "Position": "10% Owner",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-30Purchase",
+            "ReportedDateTime": "2020-07-017:26 pm",
+            "Company": "Global Water Resources Inc.",
+            "Symbol": "GWRS",
+            "InsiderRelationship": "Krygier Christopher DChief Strategy Officer",
+            "SharesTraded": 6,
+            "AveragePrice": "$10.49",
+            "TotalAmount": "$60",
+            "SharesOwned": "2,516(Indirect)",
+            "Filing": "View",
+            "Name": [
+                "Isaac Paul J",
+                ""
+            ],
+            "Position": "10% Owner",
+            "Sale/Purchase?": "Purchase"
+        },
+        {
+            "TransactionDate": "2020-06-29Sale",
+            "ReportedDateTime": "2020-07-017:28 pm",
+            "Company": "MyoKardia Inc.",
+            "Symbol": "MYOK",
+            "InsiderRelationship": "CRANSTON MARY BDirector",
+            "SharesTraded": 22000,
+            "AveragePrice": "$96.63",
+            "TotalAmount": "$2,125,966",
+            "SharesOwned": "0(Direct)",
+            "Filing": "View",
+            "Name": [
+                "CRANSTON MARY B",
+                ""
+            ],
+            "Position": "Director",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-07-01Purchase",
+            "ReportedDateTime": "2020-07-017:30 pm",
+            "Company": "IHS Markit Ltd.",
+            "Symbol": "INFO",
+            "InsiderRelationship": "KELLY ROBERT PDirector",
+            "SharesTraded": 2000,
+            "AveragePrice": "$75.88",
+            "TotalAmount": "$151,760",
+            "SharesOwned": "109,641(Direct)",
+            "Filing": "View",
+            "Name": [
+                "KELLY ROBERT P",
+                ""
+            ],
+            "Position": "Director",
+            "Sale/Purchase?": "Purchase"
+        },
+        {
+            "TransactionDate": "2020-06-30Sale",
+            "ReportedDateTime": "2020-07-017:31 pm",
+            "Company": "Livongo Health Inc.",
+            "Symbol": "LVGO",
+            "InsiderRelationship": "TULLMAN GLENChairman",
+            "SharesTraded": 52,
+            "AveragePrice": "$74.76",
+            "TotalAmount": "$3,888",
+            "SharesOwned": "1,289,209(IndirectDirect)",
+            "Filing": "View",
+            "Name": [
+                "TULLMAN GLEN",
+                ""
+            ],
+            "Position": "Chairman",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-30Sale",
+            "ReportedDateTime": "2020-07-017:33 pm",
+            "Company": "STANDARD MOTOR PRODUCTS Inc",
+            "Symbol": "SMP",
+            "InsiderRelationship": "SILLS PETER JSILLS ARTHUR SDirector Emeritus",
+            "SharesTraded": 6586,
+            "AveragePrice": "$40.86",
+            "TotalAmount": "$269,104",
+            "SharesOwned": "766,540(IndirectDirect)",
+            "Filing": "View",
+            "Name": [
+                "SILLS PETER JSILLS ARTHUR SDirector ",
+                ""
+            ],
+            "Position": "Emeritus",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-30Sale",
+            "ReportedDateTime": "2020-07-017:34 pm",
+            "Company": "Livongo Health Inc.",
+            "Symbol": "LVGO",
+            "InsiderRelationship": "SHAPIRO LEECFO",
+            "SharesTraded": 52,
+            "AveragePrice": "$74.76",
+            "TotalAmount": "$3,888",
+            "SharesOwned": "1,289,209(IndirectDirect)",
+            "Filing": "View",
+            "Name": [
+                "SHAPIRO LEE",
+                ""
+            ],
+            "Position": "CFO",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-29Sale",
+            "ReportedDateTime": "2020-07-017:42 pm",
+            "Company": "Wayfair Inc.",
+            "Symbol": "W",
+            "InsiderRelationship": "FLEISHER MICHAEL DCFO",
+            "SharesTraded": 5052,
+            "AveragePrice": "$199.85",
+            "TotalAmount": "$1,009,642",
+            "SharesOwned": "110,608(Direct)",
+            "Filing": "View",
+            "Name": [
+                "FLEISHER MICHAEL D",
+                ""
+            ],
+            "Position": "CFO",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-30Purchase",
+            "ReportedDateTime": "2020-07-018:03 pm",
+            "Company": "Global Water Resources Inc.",
+            "Symbol": "GWRS",
+            "InsiderRelationship": "COY DEBRADirector",
+            "SharesTraded": 38,
+            "AveragePrice": "$10.47",
+            "TotalAmount": "$394",
+            "SharesOwned": "16,390(Direct)",
+            "Filing": "View",
+            "Name": [
+                "COY DEBRA",
+                ""
+            ],
+            "Position": "Director",
+            "Sale/Purchase?": "Purchase"
+        },
+        {
+            "TransactionDate": "2020-06-29Sale",
+            "ReportedDateTime": "2020-07-018:03 pm",
+            "Company": "APPFOLIO INC",
+            "Symbol": "APPF",
+            "InsiderRelationship": "KERR JANETDirector",
+            "SharesTraded": 500,
+            "AveragePrice": "$158.34",
+            "TotalAmount": "$79,170",
+            "SharesOwned": "18,259(Indirect)",
+            "Filing": "View",
+            "Name": [
+                "KERR JANET",
+                ""
+            ],
+            "Position": "Director",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-29Sale",
+            "ReportedDateTime": "2020-07-018:04 pm",
+            "Company": "TWITTER Inc",
+            "Symbol": "TWTR",
+            "InsiderRelationship": "Derella MatthewCustomers Lead",
+            "SharesTraded": 1072,
+            "AveragePrice": "$29.56",
+            "TotalAmount": "$31,686",
+            "SharesOwned": "428,674(Direct)",
+            "Filing": "View",
+            "Name": [
+                "KERR JANET",
+                ""
+            ],
+            "Position": "Director",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-29Sale",
+            "ReportedDateTime": "2020-07-018:04 pm",
+            "Company": "Stitch Fix Inc.",
+            "Symbol": "SFIX",
+            "InsiderRelationship": "Darling ScottChief Legal Officer & Secr.",
+            "SharesTraded": 1000,
+            "AveragePrice": "$25",
+            "TotalAmount": "$25,000",
+            "SharesOwned": "87,074(Direct)",
+            "Filing": "View",
+            "Name": [
+                "KERR JANET",
+                ""
+            ],
+            "Position": "Director",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-07-01Sale",
+            "ReportedDateTime": "2020-07-018:17 pm",
+            "Company": "TrueCar Inc.",
+            "Symbol": "TRUE",
+            "InsiderRelationship": "Smith Simon EdwardVP",
+            "SharesTraded": 3457,
+            "AveragePrice": "$2.6021",
+            "TotalAmount": "$8,995",
+            "SharesOwned": "302,274(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Smith Simon Edward",
+                ""
+            ],
+            "Position": "VP",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-29Purchase",
+            "ReportedDateTime": "2020-07-018:19 pm",
+            "Company": "Stone Harbor Investment Partners LP",
+            "Symbol": "EDI",
+            "InsiderRelationship": "CRAIGE JAMES EVP",
+            "SharesTraded": 26800,
+            "AveragePrice": "$7.542",
+            "TotalAmount": "$202,126",
+            "SharesOwned": "55,455(IndirectDirect)",
+            "Filing": "View",
+            "Name": [
+                "CRAIGE JAMES E",
+                ""
+            ],
+            "Position": "VP",
+            "Sale/Purchase?": "Purchase"
+        },
+        {
+            "TransactionDate": "2020-06-30Purchase",
+            "ReportedDateTime": "2020-07-018:30 pm",
+            "Company": "Soliton Inc.",
+            "Symbol": "SOLY",
+            "InsiderRelationship": "Remeditex Ventures LLC10% Owner",
+            "SharesTraded": 120481,
+            "AveragePrice": "$8.3",
+            "TotalAmount": "$999,992",
+            "SharesOwned": "9,214,277(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Remeditex Ventures LLC",
+                ""
+            ],
+            "Position": "10% Owner",
+            "Sale/Purchase?": "Purchase"
+        },
+        {
+            "TransactionDate": "2020-06-29Sale",
+            "ReportedDateTime": "2020-07-018:40 pm",
+            "Company": "ORACLE CORP",
+            "Symbol": "ORCL",
+            "InsiderRelationship": "ELLISON LAWRENCE JOSEPHChairman10% Owner",
+            "SharesTraded": 3650000,
+            "AveragePrice": "$54.85",
+            "TotalAmount": "$200,191,300",
+            "SharesOwned": "1,138,732,416(Direct)",
+            "Filing": "View",
+            "Name": [
+                "ELLISON LAWRENCE JOSEPHChairman1",
+                ""
+            ],
+            "Position": "0% Owner",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-30Sale",
+            "ReportedDateTime": "2020-07-018:40 pm",
+            "Company": "Oportun Financial Corp",
+            "Symbol": "OPRT",
+            "InsiderRelationship": "Aristei JoanGC & Chief Compliance Officer",
+            "SharesTraded": 297,
+            "AveragePrice": "$13.27",
+            "TotalAmount": "$3,940",
+            "SharesOwned": "16,940(Direct)",
+            "Filing": "View",
+            "Name": [
+                "ELLISON LAWRENCE JOSEPHChairman1",
+                ""
+            ],
+            "Position": "0% Owner",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-30Sale",
+            "ReportedDateTime": "2020-07-018:46 pm",
+            "Company": "Oportun Financial Corp",
+            "Symbol": "OPRT",
+            "InsiderRelationship": "Needham David AnthonyCTO",
+            "SharesTraded": 41,
+            "AveragePrice": "$13.24",
+            "TotalAmount": "$543",
+            "SharesOwned": "10,961(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Needham David Anthony",
+                ""
+            ],
+            "Position": "CTO",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-07-01Purchase",
+            "ReportedDateTime": "2020-07-018:49 pm",
+            "Company": "Trinity Place Holdings Inc.",
+            "Symbol": "TPHS",
+            "InsiderRelationship": "KAHN STEVENCFO",
+            "SharesTraded": 500,
+            "AveragePrice": "$1.26",
+            "TotalAmount": "$630",
+            "SharesOwned": "75,373(Direct)",
+            "Filing": "View",
+            "Name": [
+                "KAHN STEVEN",
+                ""
+            ],
+            "Position": "CFO",
+            "Sale/Purchase?": "Purchase"
+        },
+        {
+            "TransactionDate": "2020-07-01Sale",
+            "ReportedDateTime": "2020-07-018:49 pm",
+            "Company": "SALESFORCE.COM Inc",
+            "Symbol": "CRM",
+            "InsiderRelationship": "HASSENFELD ALAN GDirector",
+            "SharesTraded": 10000,
+            "AveragePrice": "$190.41",
+            "TotalAmount": "$1,904,086",
+            "SharesOwned": "79,077(IndirectDirect)",
+            "Filing": "View",
+            "Name": [
+                "HASSENFELD ALAN G",
+                ""
+            ],
+            "Position": "Director",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-07-01Purchase",
+            "ReportedDateTime": "2020-07-018:51 pm",
+            "Company": "Trinity Place Holdings Inc.",
+            "Symbol": "TPHS",
+            "InsiderRelationship": "Messinger MatthewCEO",
+            "SharesTraded": 4000,
+            "AveragePrice": "$1.29",
+            "TotalAmount": "$5,160",
+            "SharesOwned": "1,284,756(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Messinger Matthew",
+                ""
+            ],
+            "Position": "CEO",
+            "Sale/Purchase?": "Purchase"
+        },
+        {
+            "TransactionDate": "2020-07-01Sale",
+            "ReportedDateTime": "2020-07-018:52 pm",
+            "Company": "SALESFORCE.COM Inc",
+            "Symbol": "CRM",
+            "InsiderRelationship": "Taylor Bret StevenCOO",
+            "SharesTraded": 17364,
+            "AveragePrice": "$189.9",
+            "TotalAmount": "$3,297,408",
+            "SharesOwned": "247,500(IndirectDirect)",
+            "Filing": "View",
+            "Name": [
+                "Taylor Bret Steven",
+                ""
+            ],
+            "Position": "COO",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-07-01Sale",
+            "ReportedDateTime": "2020-07-018:57 pm",
+            "Company": "SALESFORCE.COM Inc",
+            "Symbol": "CRM",
+            "InsiderRelationship": "Benioff MarcCEOChairman",
+            "SharesTraded": 15000,
+            "AveragePrice": "$190.49",
+            "TotalAmount": "$2,857,383",
+            "SharesOwned": "30,043,800(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Benioff MarcCEO",
+                ""
+            ],
+            "Position": "Chairman",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-29Purchase",
+            "ReportedDateTime": "2020-07-018:59 pm",
+            "Company": "AB INTERNATIONAL GROUP CORP.",
+            "Symbol": "ABQQ",
+            "InsiderRelationship": "Deng ChiyuanCEO",
+            "SharesTraded": 9000,
+            "AveragePrice": "$0.9389",
+            "TotalAmount": "$8,450",
+            "SharesOwned": "2,029,400(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Deng Chiyuan",
+                ""
+            ],
+            "Position": "CEO",
+            "Sale/Purchase?": "Purchase"
+        },
+        {
+            "TransactionDate": "2020-06-29Purchase",
+            "ReportedDateTime": "2020-07-019:03 pm",
+            "Company": "StarTek Inc.",
+            "Symbol": "SRT",
+            "InsiderRelationship": "CSP Management LtdCSP ALPHA HOLDINGS PARENT PTE LTDDirector10% Owner",
+            "SharesTraded": 1543210,
+            "AveragePrice": "$4.86",
+            "TotalAmount": "$7,500,001",
+            "SharesOwned": "1,543,210(Indirect)",
+            "Filing": "View",
+            "Name": [
+                "CSP Management LtdCSP ALPHA HOLDINGS PARENT PTE LTDDirector1",
+                ""
+            ],
+            "Position": "0% Owner",
+            "Sale/Purchase?": "Purchase"
+        },
+        {
+            "TransactionDate": "2020-06-30Sale",
+            "ReportedDateTime": "2020-07-019:05 pm",
+            "Company": "CASELLA WASTE SYSTEMS INC",
+            "Symbol": "CWST",
+            "InsiderRelationship": "Johnson Edwin DCOO",
+            "SharesTraded": 20000,
+            "AveragePrice": "$52.13",
+            "TotalAmount": "$1,042,588",
+            "SharesOwned": "257,947(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Johnson Edwin D",
+                ""
+            ],
+            "Position": "COO",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-29Sale",
+            "ReportedDateTime": "2020-07-019:13 pm",
+            "Company": "MOMENTA PHARMACEUTICALS INC",
+            "Symbol": "MNTA",
+            "InsiderRelationship": "WHEELER CRAIG ACEO",
+            "SharesTraded": 37575,
+            "AveragePrice": "$33.32",
+            "TotalAmount": "$1,251,999",
+            "SharesOwned": "54,664(IndirectDirect)",
+            "Filing": "View",
+            "Name": [
+                "WHEELER CRAIG A",
+                ""
+            ],
+            "Position": "CEO",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-29Sale",
+            "ReportedDateTime": "2020-07-019:14 pm",
+            "Company": "MOMENTA PHARMACEUTICALS INC",
+            "Symbol": "MNTA",
+            "InsiderRelationship": "Manning Anthony M.Chief Scientific Officer",
+            "SharesTraded": 6811,
+            "AveragePrice": "$35.1",
+            "TotalAmount": "$239,066",
+            "SharesOwned": "29,191(Direct)",
+            "Filing": "View",
+            "Name": [
+                "WHEELER CRAIG A",
+                ""
+            ],
+            "Position": "CEO",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-30Sale",
+            "ReportedDateTime": "2020-07-019:14 pm",
+            "Company": "Stereotaxis Inc.",
+            "Symbol": "STXS",
+            "InsiderRelationship": "Isaac Paul J10% Owner",
+            "SharesTraded": 13963,
+            "AveragePrice": "$4.51",
+            "TotalAmount": "$62,973",
+            "SharesOwned": "4,383,575(IndirectDirect)",
+            "Filing": "View",
+            "Name": [
+                "Isaac Paul J",
+                ""
+            ],
+            "Position": "10% Owner",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-29Sale",
+            "ReportedDateTime": "2020-07-019:14 pm",
+            "Company": "MOMENTA PHARMACEUTICALS INC",
+            "Symbol": "MNTA",
+            "InsiderRelationship": "FIER IANChief Mfg and Program Officer",
+            "SharesTraded": 6811,
+            "AveragePrice": "$35.1",
+            "TotalAmount": "$239,066",
+            "SharesOwned": "24,123(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Isaac Paul J",
+                ""
+            ],
+            "Position": "10% Owner",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-29Sale",
+            "ReportedDateTime": "2020-07-019:14 pm",
+            "Company": "MOMENTA PHARMACEUTICALS INC",
+            "Symbol": "MNTA",
+            "InsiderRelationship": "Carvajal AlejandraChief Legal Officer",
+            "SharesTraded": 6811,
+            "AveragePrice": "$35.1",
+            "TotalAmount": "$239,066",
+            "SharesOwned": "27,445(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Isaac Paul J",
+                ""
+            ],
+            "Position": "10% Owner",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-29Sale",
+            "ReportedDateTime": "2020-07-019:15 pm",
+            "Company": "MOMENTA PHARMACEUTICALS INC",
+            "Symbol": "MNTA",
+            "InsiderRelationship": "KWON YOUNGCFO",
+            "SharesTraded": 6810,
+            "AveragePrice": "$35.11",
+            "TotalAmount": "$239,099",
+            "SharesOwned": "157,936(Direct)",
+            "Filing": "View",
+            "Name": [
+                "KWON YOUNG",
+                ""
+            ],
+            "Position": "CFO",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-29Sale",
+            "ReportedDateTime": "2020-07-019:15 pm",
+            "Company": "MOMENTA PHARMACEUTICALS INC",
+            "Symbol": "MNTA",
+            "InsiderRelationship": "Cieplinska AgnieszkaCAO",
+            "SharesTraded": 947,
+            "AveragePrice": "$35.11",
+            "TotalAmount": "$33,249",
+            "SharesOwned": "7,574(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Cieplinska Agnieszka",
+                ""
+            ],
+            "Position": "CAO",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-29Sale",
+            "ReportedDateTime": "2020-07-019:15 pm",
+            "Company": "MOMENTA PHARMACEUTICALS INC",
+            "Symbol": "MNTA",
+            "InsiderRelationship": "Arroyo SantiagoSVP Chief Medical Officer",
+            "SharesTraded": 6812,
+            "AveragePrice": "$35.1",
+            "TotalAmount": "$239,101",
+            "SharesOwned": "45,538(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Arroyo SantiagoSVP Chief Medical Offic",
+                ""
+            ],
+            "Position": "er",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-29Sale",
+            "ReportedDateTime": "2020-07-019:16 pm",
+            "Company": "MOMENTA PHARMACEUTICALS INC",
+            "Symbol": "MNTA",
+            "InsiderRelationship": "BELTRAMELLO JO ANNCIO",
+            "SharesTraded": 6812,
+            "AveragePrice": "$35.1",
+            "TotalAmount": "$239,101",
+            "SharesOwned": "61,069(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Arroyo SantiagoSVP Chief Medical Offic",
+                ""
+            ],
+            "Position": "er",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-26Sale",
+            "ReportedDateTime": "2020-07-019:17 pm",
+            "Company": "FULLER H B CO",
+            "Symbol": "FUL",
+            "InsiderRelationship": "Owens JamesCEO",
+            "SharesTraded": 64079,
+            "AveragePrice": "$42.88",
+            "TotalAmount": "$2,747,487",
+            "SharesOwned": "213,481(IndirectDirect)",
+            "Filing": "View",
+            "Name": [
+                "Owens James",
+                ""
+            ],
+            "Position": "CEO",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-29Sale",
+            "ReportedDateTime": "2020-07-019:17 pm",
+            "Company": "Pacira BioSciences Inc.",
+            "Symbol": "PCRX",
+            "InsiderRelationship": "LARANJEIRA CHARLES ANTHONYVP",
+            "SharesTraded": 60101,
+            "AveragePrice": "$50.27",
+            "TotalAmount": "$3,021,314",
+            "SharesOwned": "20,250(Direct)",
+            "Filing": "View",
+            "Name": [
+                "LARANJEIRA CHARLES ANTHONY",
+                ""
+            ],
+            "Position": "VP",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-26Sale",
+            "ReportedDateTime": "2020-07-019:19 pm",
+            "Company": "BEST BUY CO INC",
+            "Symbol": "BBY",
+            "InsiderRelationship": "SCHULZE RICHARD M10% Owner",
+            "SharesTraded": 1000000,
+            "AveragePrice": "$86.29",
+            "TotalAmount": "$86,290,927",
+            "SharesOwned": "18,262,160(Indirect)",
+            "Filing": "View",
+            "Name": [
+                "SCHULZE RICHARD M",
+                ""
+            ],
+            "Position": "10% Owner",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-29Sale",
+            "ReportedDateTime": "2020-07-019:20 pm",
+            "Company": "Pacira BioSciences Inc.",
+            "Symbol": "PCRX",
+            "InsiderRelationship": "Riker Lauren BullaroVP",
+            "SharesTraded": 6000,
+            "AveragePrice": "$49.47",
+            "TotalAmount": "$296,800",
+            "SharesOwned": "12,633(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Riker Lauren Bullaro",
+                ""
+            ],
+            "Position": "VP",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-07-01Sale",
+            "ReportedDateTime": "2020-07-019:33 pm",
+            "Company": "Edwards Lifesciences Corp",
+            "Symbol": "EW",
+            "InsiderRelationship": "Wood Larry LCVP TAVR",
+            "SharesTraded": 10698,
+            "AveragePrice": "$68.9",
+            "TotalAmount": "$737,113",
+            "SharesOwned": "363,483(IndirectDirect)",
+            "Filing": "View",
+            "Name": [
+                "Wood Larry LCVP TA",
+                ""
+            ],
+            "Position": "VR",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-23Purchase",
+            "ReportedDateTime": "2020-07-019:36 pm",
+            "Company": "L Brands Inc.",
+            "Symbol": "LB",
+            "InsiderRelationship": "Sheehan AnneDirector",
+            "SharesTraded": 685,
+            "AveragePrice": "$14.64",
+            "TotalAmount": "$10,028",
+            "SharesOwned": "685(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Sheehan Anne",
+                ""
+            ],
+            "Position": "Director",
+            "Sale/Purchase?": "Purchase"
+        },
+        {
+            "TransactionDate": "2020-06-30Purchase",
+            "ReportedDateTime": "2020-07-019:36 pm",
+            "Company": "Akouos Inc.",
+            "Symbol": "AKUS",
+            "InsiderRelationship": "Sofinnova Venture Partners X L.P.Sofinnova Management X L.L.C.HEALY JAMESKatabi MahaPOWELL MICHAEL10% Owner",
+            "SharesTraded": 58823,
+            "AveragePrice": "$17",
+            "TotalAmount": "$999,991",
+            "SharesOwned": "1,515,073(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Sofinnova Venture Partners X L.P.Sofinnova Management X L.L.C.HEALY JAMESKatabi MahaPOWELL MICHAEL",
+                ""
+            ],
+            "Position": "10% Owner",
+            "Sale/Purchase?": "Purchase"
+        },
+        {
+            "TransactionDate": "2020-06-30Sale",
+            "ReportedDateTime": "2020-07-019:36 pm",
+            "Company": "HOULIHAN LOKEY Inc",
+            "Symbol": "HLI",
+            "InsiderRelationship": "GOLD IRWINChairman10% Owner",
+            "SharesTraded": 10000,
+            "AveragePrice": "$55.06",
+            "TotalAmount": "$550,600",
+            "SharesOwned": "0(Direct)",
+            "Filing": "View",
+            "Name": [
+                "GOLD IRWINChairman1",
+                ""
+            ],
+            "Position": "0% Owner",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-07-01Purchase",
+            "ReportedDateTime": "2020-07-019:37 pm",
+            "Company": "AMARILLO BIOSCIENCES INC",
+            "Symbol": "AMAR",
+            "InsiderRelationship": "CHEN STEPHEN TCFOCEOChairman10% Owner",
+            "SharesTraded": 50,
+            "AveragePrice": "$0.22",
+            "TotalAmount": "$11",
+            "SharesOwned": "777,450(IndirectDirect)",
+            "Filing": "View",
+            "Name": [
+                "CHEN STEPHEN TCFOCEOChairman1",
+                ""
+            ],
+            "Position": "0% Owner",
+            "Sale/Purchase?": "Purchase"
+        },
+        {
+            "TransactionDate": "2020-06-26Sale",
+            "ReportedDateTime": "2020-07-019:39 pm",
+            "Company": "FULLER H B CO",
+            "Symbol": "FUL",
+            "InsiderRelationship": "Owens JamesCEO",
+            "SharesTraded": 10000,
+            "AveragePrice": "$43.41",
+            "TotalAmount": "$434,079",
+            "SharesOwned": "219,229(IndirectDirect)",
+            "Filing": "View",
+            "Name": [
+                "Owens James",
+                ""
+            ],
+            "Position": "CEO",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-30Sale",
+            "ReportedDateTime": "2020-07-019:43 pm",
+            "Company": "TARGET CORP",
+            "Symbol": "TGT",
+            "InsiderRelationship": "LIU DON HExecutive Officer",
+            "SharesTraded": 4000,
+            "AveragePrice": "$120",
+            "TotalAmount": "$480,000",
+            "SharesOwned": "57,865(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Owens James",
+                ""
+            ],
+            "Position": "CEO",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-30Sale",
+            "ReportedDateTime": "2020-07-019:49 pm",
+            "Company": "BLACKSTONE MORTGAGE TRUST Inc",
+            "Symbol": "BXMT",
+            "InsiderRelationship": "Keenan Katharine APresident",
+            "SharesTraded": 2782,
+            "AveragePrice": "$24.36",
+            "TotalAmount": "$67,770",
+            "SharesOwned": "72,558(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Keenan Katharine A",
+                ""
+            ],
+            "Position": "President",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-07-01Sale",
+            "ReportedDateTime": "2020-07-0208:37 am",
+            "Company": "LIVEPERSON INC",
+            "Symbol": "LPSN",
+            "InsiderRelationship": "Wesemann WilliamDirector",
+            "SharesTraded": 1000,
+            "AveragePrice": "$41.6",
+            "TotalAmount": "$41,605",
+            "SharesOwned": "15,000(IndirectDirect)",
+            "Filing": "View",
+            "Name": [
+                "Wesemann William",
+                ""
+            ],
+            "Position": "Director",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-30Purchase",
+            "ReportedDateTime": "2020-07-0209:26 am",
+            "Company": "OLD SECOND BANCORP INC",
+            "Symbol": "OSBC",
+            "InsiderRelationship": "Eccher JamesCEO",
+            "SharesTraded": 90,
+            "AveragePrice": "$0",
+            "TotalAmount": "$0",
+            "SharesOwned": "22,159(IndirectDirect)",
+            "Filing": "View",
+            "Name": [
+                "Eccher James",
+                ""
+            ],
+            "Position": "CEO",
+            "Sale/Purchase?": "Purchase"
+        },
+        {
+            "TransactionDate": "2020-07-01Sale",
+            "ReportedDateTime": "2020-07-0209:31 am",
+            "Company": "MERCURY SYSTEMS INC",
+            "Symbol": "MRCY",
+            "InsiderRelationship": "Ruppert MichaelCFO",
+            "SharesTraded": 15000,
+            "AveragePrice": "$80",
+            "TotalAmount": "$1,200,000",
+            "SharesOwned": "107,689(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Ruppert Michael",
+                ""
+            ],
+            "Position": "CFO",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-07-01Sale",
+            "ReportedDateTime": "2020-07-0210:10 am",
+            "Company": "MCCORMICK & CO INC",
+            "Symbol": "MKC",
+            "InsiderRelationship": "Smith Michael RCFO",
+            "SharesTraded": 8400,
+            "AveragePrice": "$180.1",
+            "TotalAmount": "$1,512,847",
+            "SharesOwned": "29,577(IndirectDirect)",
+            "Filing": "View",
+            "Name": [
+                "Smith Michael R",
+                ""
+            ],
+            "Position": "CFO",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-30Sale",
+            "ReportedDateTime": "2020-07-0212:10 pm",
+            "Company": "TTM TECHNOLOGIES INC",
+            "Symbol": "TTMI",
+            "InsiderRelationship": "Zakheim Dov S.Director",
+            "SharesTraded": 20000,
+            "AveragePrice": "$11.5",
+            "TotalAmount": "$230,000",
+            "SharesOwned": "99,700(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Zakheim Dov S.",
+                ""
+            ],
+            "Position": "Director",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-29Sale",
+            "ReportedDateTime": "2020-07-021:02 pm",
+            "Company": "ENVESTNET Inc",
+            "Symbol": "ENV",
+            "InsiderRelationship": "Mayer JoshuaCOO",
+            "SharesTraded": 4418,
+            "AveragePrice": "$70.87",
+            "TotalAmount": "$313,104",
+            "SharesOwned": "19,597(IndirectDirect)",
+            "Filing": "View",
+            "Name": [
+                "Mayer Joshua",
+                ""
+            ],
+            "Position": "COO",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-30Sale",
+            "ReportedDateTime": "2020-07-021:09 pm",
+            "Company": "ESSENTIAL PROPERTIES REALTY TRUST Inc",
+            "Symbol": "EPRT",
+            "InsiderRelationship": "Mavoides Peter M.CEO",
+            "SharesTraded": 48602,
+            "AveragePrice": "$14.9",
+            "TotalAmount": "$724,374",
+            "SharesOwned": "210,235(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Mavoides Peter M.",
+                ""
+            ],
+            "Position": "CEO",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-30Sale",
+            "ReportedDateTime": "2020-07-021:11 pm",
+            "Company": "ESSENTIAL PROPERTIES REALTY TRUST Inc",
+            "Symbol": "EPRT",
+            "InsiderRelationship": "Seibert Gregg ACOO",
+            "SharesTraded": 34693,
+            "AveragePrice": "$14.91",
+            "TotalAmount": "$517,113",
+            "SharesOwned": "202,010(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Seibert Gregg A",
+                ""
+            ],
+            "Position": "COO",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-30Sale",
+            "ReportedDateTime": "2020-07-021:20 pm",
+            "Company": "AMERICAN SOFTWARE INC",
+            "Symbol": "AMSWA",
+            "InsiderRelationship": "HOGUE DENNISDirector",
+            "SharesTraded": 3000,
+            "AveragePrice": "$15.82",
+            "TotalAmount": "$47,475",
+            "SharesOwned": "12,274(Direct)",
+            "Filing": "View",
+            "Name": [
+                "HOGUE DENNIS",
+                ""
+            ],
+            "Position": "Director",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-07-01Sale",
+            "ReportedDateTime": "2020-07-021:26 pm",
+            "Company": "RELMADA THERAPEUTICS Inc",
+            "Symbol": "RLMD",
+            "InsiderRelationship": "CASAMENTO CHARLES JDirector",
+            "SharesTraded": 3000,
+            "AveragePrice": "$43.89",
+            "TotalAmount": "$131,677",
+            "SharesOwned": "37,000(IndirectDirect)",
+            "Filing": "View",
+            "Name": [
+                "CASAMENTO CHARLES J",
+                ""
+            ],
+            "Position": "Director",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-27Sale",
+            "ReportedDateTime": "2020-07-021:30 pm",
+            "Company": "BLACKBERRY Ltd",
+            "Symbol": "BB",
+            "InsiderRelationship": "Castignola DavidHead of Spark Field Ops & Mktg",
+            "SharesTraded": 2799,
+            "AveragePrice": "$4.77",
+            "TotalAmount": "$13,351",
+            "SharesOwned": "9,833(Direct)",
+            "Filing": "View",
+            "Name": [
+                "CASAMENTO CHARLES J",
+                ""
+            ],
+            "Position": "Director",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-29Purchase(A)",
+            "ReportedDateTime": "2020-07-021:33 pm",
+            "Company": "Stone Harbor Emerging Markets Total Income Fund",
+            "Symbol": "EDI",
+            "InsiderRelationship": "CRAIGE JAMES EVP",
+            "SharesTraded": 26800,
+            "AveragePrice": "$7.542",
+            "TotalAmount": "$202,126",
+            "SharesOwned": "55,455(IndirectDirect)",
+            "Filing": "View",
+            "Name": [
+                "CRAIGE JAMES E",
+                ""
+            ],
+            "Position": "VP",
+            "Sale/Purchase?": "Purchase(A)"
+        },
+        {
+            "TransactionDate": "2020-07-01Purchase",
+            "ReportedDateTime": "2020-07-021:41 pm",
+            "Company": "OMEGA HEALTHCARE INVESTORS INC",
+            "Symbol": "OHI",
+            "InsiderRelationship": "WHITMAN BURKE WDirector",
+            "SharesTraded": 500,
+            "AveragePrice": "$29.86",
+            "TotalAmount": "$14,930",
+            "SharesOwned": "14,085(Direct)",
+            "Filing": "View",
+            "Name": [
+                "WHITMAN BURKE W",
+                ""
+            ],
+            "Position": "Director",
+            "Sale/Purchase?": "Purchase"
+        },
+        {
+            "TransactionDate": "2020-06-16Sale",
+            "ReportedDateTime": "2020-07-021:46 pm",
+            "Company": "URBAN ONE Inc",
+            "Symbol": "UONE",
+            "InsiderRelationship": "MCNEILL BRIAN WDirector",
+            "SharesTraded": 607014,
+            "AveragePrice": "$4.7842",
+            "TotalAmount": "$2,904,055",
+            "SharesOwned": "358,275(Direct)",
+            "Filing": "View",
+            "Name": [
+                "MCNEILL BRIAN W",
+                ""
+            ],
+            "Position": "Director",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-30Sale",
+            "ReportedDateTime": "2020-07-021:50 pm",
+            "Company": "YUM BRANDS INC",
+            "Symbol": "YUM",
+            "InsiderRelationship": "Russell David EricVP",
+            "SharesTraded": 7356,
+            "AveragePrice": "$85.85",
+            "TotalAmount": "$631,513",
+            "SharesOwned": "8,986(IndirectDirect)",
+            "Filing": "View",
+            "Name": [
+                "Russell David Eric",
+                ""
+            ],
+            "Position": "VP",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-07-01Purchase",
+            "ReportedDateTime": "2020-07-021:51 pm",
+            "Company": "RGC RESOURCES INC",
+            "Symbol": "RGCO",
+            "InsiderRelationship": "AGEE NANCY HDirector",
+            "SharesTraded": 61,
+            "AveragePrice": "$24.5",
+            "TotalAmount": "$1,500",
+            "SharesOwned": "36,814(Indirect)",
+            "Filing": "View",
+            "Name": [
+                "AGEE NANCY H",
+                ""
+            ],
+            "Position": "Director",
+            "Sale/Purchase?": "Purchase"
+        },
+        {
+            "TransactionDate": "2020-06-30Purchase",
+            "ReportedDateTime": "2020-07-022:03 pm",
+            "Company": "MID PENN BANCORP INC",
+            "Symbol": "MPB",
+            "InsiderRelationship": "Klinger Robert EDirector",
+            "SharesTraded": 217,
+            "AveragePrice": "$18.43",
+            "TotalAmount": "$3,999",
+            "SharesOwned": "8,401(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Klinger Robert E",
+                ""
+            ],
+            "Position": "Director",
+            "Sale/Purchase?": "Purchase"
+        },
+        {
+            "TransactionDate": "2018-03-29Purchase",
+            "ReportedDateTime": "2020-07-022:05 pm",
+            "Company": "MARTIN MARIETTA MATERIALS INC",
+            "Symbol": "MLM",
+            "InsiderRelationship": "Grant Daniel L.VP",
+            "SharesTraded": 87,
+            "AveragePrice": "$229.41",
+            "TotalAmount": "$19,927",
+            "SharesOwned": "14,927(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Grant Daniel L.",
+                ""
+            ],
+            "Position": "VP",
+            "Sale/Purchase?": "Purchase"
+        },
+        {
+            "TransactionDate": "2020-07-01Sale",
+            "ReportedDateTime": "2020-07-022:06 pm",
+            "Company": "KROGER CO",
+            "Symbol": "KR",
+            "InsiderRelationship": "GRIESHABER JOSEPH A JRVP",
+            "SharesTraded": 33600,
+            "AveragePrice": "$34",
+            "TotalAmount": "$1,142,400",
+            "SharesOwned": "149,489(Direct)",
+            "Filing": "View",
+            "Name": [
+                "GRIESHABER JOSEPH A JR",
+                ""
+            ],
+            "Position": "VP",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-30Purchase",
+            "ReportedDateTime": "2020-07-022:06 pm",
+            "Company": "MID PENN BANCORP INC",
+            "Symbol": "MPB",
+            "InsiderRelationship": "Abel Robert ADirector",
+            "SharesTraded": 28,
+            "AveragePrice": "$18.43",
+            "TotalAmount": "$516",
+            "SharesOwned": "1,077(IndirectDirect)",
+            "Filing": "View",
+            "Name": [
+                "Abel Robert A",
+                ""
+            ],
+            "Position": "Director",
+            "Sale/Purchase?": "Purchase"
+        },
+        {
+            "TransactionDate": "2020-07-02Sale",
+            "ReportedDateTime": "2020-07-022:08 pm",
+            "Company": "COSTCO WHOLESALE CORP",
+            "Symbol": "COST",
+            "InsiderRelationship": "DECKER SUSAN LDirector",
+            "SharesTraded": 685,
+            "AveragePrice": "$308.5",
+            "TotalAmount": "$211,323",
+            "SharesOwned": "28,747(Direct)",
+            "Filing": "View",
+            "Name": [
+                "DECKER SUSAN L",
+                ""
+            ],
+            "Position": "Director",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-07-01Sale",
+            "ReportedDateTime": "2020-07-022:15 pm",
+            "Company": "RESMED INC",
+            "Symbol": "RMD",
+            "InsiderRelationship": "Sodhi RajwantPresident",
+            "SharesTraded": 1500,
+            "AveragePrice": "$189.49",
+            "TotalAmount": "$284,235",
+            "SharesOwned": "29,761(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Sodhi Rajwant",
+                ""
+            ],
+            "Position": "President",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-30Sale",
+            "ReportedDateTime": "2020-07-022:29 pm",
+            "Company": "Atlantic Union Bankshares Corp",
+            "Symbol": "AUB",
+            "InsiderRelationship": "Clarke Michael WDirector",
+            "SharesTraded": 6000,
+            "AveragePrice": "$22.69",
+            "TotalAmount": "$136,160",
+            "SharesOwned": "487,519(IndirectDirect)",
+            "Filing": "View",
+            "Name": [
+                "Clarke Michael W",
+                ""
+            ],
+            "Position": "Director",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-07-01Sale",
+            "ReportedDateTime": "2020-07-022:34 pm",
+            "Company": "MGP INGREDIENTS INC",
+            "Symbol": "MGPI",
+            "InsiderRelationship": "Seaberg KarenDirector",
+            "SharesTraded": 10000,
+            "AveragePrice": "$35.78",
+            "TotalAmount": "$357,755",
+            "SharesOwned": "385,584(IndirectDirect)",
+            "Filing": "View",
+            "Name": [
+                "Seaberg Karen",
+                ""
+            ],
+            "Position": "Director",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-07-01Sale",
+            "ReportedDateTime": "2020-07-022:38 pm",
+            "Company": "Alphabet Inc.",
+            "Symbol": "GOOG",
+            "InsiderRelationship": "MATHER ANNDirector",
+            "SharesTraded": 32,
+            "AveragePrice": "$1411.1",
+            "TotalAmount": "$45,155",
+            "SharesOwned": "1,119(Direct)",
+            "Filing": "View",
+            "Name": [
+                "MATHER ANN",
+                ""
+            ],
+            "Position": "Director",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-07-01Sale",
+            "ReportedDateTime": "2020-07-022:42 pm",
+            "Company": "International Seaways Inc.",
+            "Symbol": "INSW",
+            "InsiderRelationship": "Pribor JeffreyCFO",
+            "SharesTraded": 1000,
+            "AveragePrice": "$16.35",
+            "TotalAmount": "$16,350",
+            "SharesOwned": "40,886(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Pribor Jeffrey",
+                ""
+            ],
+            "Position": "CFO",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-07-01Sale",
+            "ReportedDateTime": "2020-07-022:43 pm",
+            "Company": "CITRIX SYSTEMS INC",
+            "Symbol": "CTXS",
+            "InsiderRelationship": "FERRER MARK JEVP Chief Revenue Officer",
+            "SharesTraded": 1163,
+            "AveragePrice": "$147.01",
+            "TotalAmount": "$170,973",
+            "SharesOwned": "59,362(Direct)",
+            "Filing": "View",
+            "Name": [
+                "FERRER MARK JEVP Chief Revenue Offic",
+                ""
+            ],
+            "Position": "er",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-30Sale",
+            "ReportedDateTime": "2020-07-022:45 pm",
+            "Company": "Albertsons Companies Inc.",
+            "Symbol": "ACI",
+            "InsiderRelationship": "Jubilee ABS Holding LLC10% Owner",
+            "SharesTraded": 6822467,
+            "AveragePrice": "$15.27",
+            "TotalAmount": "$104,189,985",
+            "SharesOwned": "58,128,752(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Jubilee ABS Holding LLC",
+                ""
+            ],
+            "Position": "10% Owner",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-30Sale",
+            "ReportedDateTime": "2020-07-022:45 pm",
+            "Company": "Albertsons Companies Inc.",
+            "Symbol": "ACI",
+            "InsiderRelationship": "SCHOTTENSTEIN STORES CORP10% Owner",
+            "SharesTraded": 6822467,
+            "AveragePrice": "$15.27",
+            "TotalAmount": "$104,189,985",
+            "SharesOwned": "58,128,752(Indirect)",
+            "Filing": "View",
+            "Name": [
+                "SCHOTTENSTEIN STORES CORP",
+                ""
+            ],
+            "Position": "10% Owner",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-07-01Sale",
+            "ReportedDateTime": "2020-07-022:46 pm",
+            "Company": "CITRIX SYSTEMS INC",
+            "Symbol": "CTXS",
+            "InsiderRelationship": "HENSHALL DAVID JCEO",
+            "SharesTraded": 6004,
+            "AveragePrice": "$147.01",
+            "TotalAmount": "$882,648",
+            "SharesOwned": "350,617(Direct)",
+            "Filing": "View",
+            "Name": [
+                "HENSHALL DAVID J",
+                ""
+            ],
+            "Position": "CEO",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-30Purchase",
+            "ReportedDateTime": "2020-07-023:07 pm",
+            "Company": "KINGSWAY FINANCIAL SERVICES INC",
+            "Symbol": "KFS",
+            "InsiderRelationship": "Fitzgerald John Taylor MaloneyCEO",
+            "SharesTraded": 901,
+            "AveragePrice": "$2.3124",
+            "TotalAmount": "$2,083",
+            "SharesOwned": "987,019(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Fitzgerald John Taylor Maloney",
+                ""
+            ],
+            "Position": "CEO",
+            "Sale/Purchase?": "Purchase"
+        },
+        {
+            "TransactionDate": "2020-06-30Purchase",
+            "ReportedDateTime": "2020-07-023:10 pm",
+            "Company": "FIRST FINANCIAL BANCORP",
+            "Symbol": "FFBC",
+            "InsiderRelationship": "PURKRABEK KNUST SUSAN LDirector",
+            "SharesTraded": 224,
+            "AveragePrice": "$13.89",
+            "TotalAmount": "$3,111",
+            "SharesOwned": "54,269(Direct)",
+            "Filing": "View",
+            "Name": [
+                "PURKRABEK KNUST SUSAN L",
+                ""
+            ],
+            "Position": "Director",
+            "Sale/Purchase?": "Purchase"
+        },
+        {
+            "TransactionDate": "2020-06-30Purchase",
+            "ReportedDateTime": "2020-07-023:15 pm",
+            "Company": "FIRST FINANCIAL BANCORP",
+            "Symbol": "FFBC",
+            "InsiderRelationship": "Ach J WickliffeDirector",
+            "SharesTraded": 224,
+            "AveragePrice": "$13.89",
+            "TotalAmount": "$3,111",
+            "SharesOwned": "29,146(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Ach J Wickliffe",
+                ""
+            ],
+            "Position": "Director",
+            "Sale/Purchase?": "Purchase"
+        },
+        {
+            "TransactionDate": "2020-06-30Purchase",
+            "ReportedDateTime": "2020-07-023:20 pm",
+            "Company": "FIRST FINANCIAL BANCORP",
+            "Symbol": "FFBC",
+            "InsiderRelationship": "Booth Cynthia ODirector",
+            "SharesTraded": 674,
+            "AveragePrice": "$13.89",
+            "TotalAmount": "$9,362",
+            "SharesOwned": "26,434(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Booth Cynthia O",
+                ""
+            ],
+            "Position": "Director",
+            "Sale/Purchase?": "Purchase"
+        },
+        {
+            "TransactionDate": "2020-07-01Sale",
+            "ReportedDateTime": "2020-07-023:21 pm",
+            "Company": "PROS Holdings Inc.",
+            "Symbol": "PRO",
+            "InsiderRelationship": "Schulz Stefan BCFO",
+            "SharesTraded": 2000,
+            "AveragePrice": "$44.63",
+            "TotalAmount": "$89,260",
+            "SharesOwned": "238,636(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Schulz Stefan B",
+                ""
+            ],
+            "Position": "CFO",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-07-01Sale",
+            "ReportedDateTime": "2020-07-023:24 pm",
+            "Company": "Johnson Controls International plc",
+            "Symbol": "JCI",
+            "InsiderRelationship": "Oliver GeorgeCEOChairman",
+            "SharesTraded": 22620,
+            "AveragePrice": "$34.17",
+            "TotalAmount": "$772,925",
+            "SharesOwned": "1,014,247(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Oliver GeorgeCEO",
+                ""
+            ],
+            "Position": "Chairman",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-07-01Purchase",
+            "ReportedDateTime": "2020-07-023:26 pm",
+            "Company": "RGC RESOURCES INC",
+            "Symbol": "RGCO",
+            "InsiderRelationship": "Burton Randall P. IICFO",
+            "SharesTraded": 15,
+            "AveragePrice": "$24.5",
+            "TotalAmount": "$366",
+            "SharesOwned": "1,015(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Burton Randall P. II",
+                ""
+            ],
+            "Position": "CFO",
+            "Sale/Purchase?": "Purchase"
+        },
+        {
+            "TransactionDate": "2019-07-29Sale",
+            "ReportedDateTime": "2020-07-023:34 pm",
+            "Company": "ROCKWELL MEDICAL Inc",
+            "Symbol": "RMTI",
+            "InsiderRelationship": "Richmond Brothers Inc.Richmond David S.Curfman Matthew J.See Footnotes 1 2 and 3",
+            "SharesTraded": 179,
+            "AveragePrice": "$3.12",
+            "TotalAmount": "$558",
+            "SharesOwned": "161,278(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Burton Randall P. II",
+                ""
+            ],
+            "Position": "CFO",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-30Purchase",
+            "ReportedDateTime": "2020-07-023:37 pm",
+            "Company": "ROCKWELL MEDICAL Inc",
+            "Symbol": "RMTI",
+            "InsiderRelationship": "Richmond David S.RBI Private Investment I LLCRBI Private Investment II LLCRBI OPPORTUNITIES FUND LLCRBI PI Manager LLCRichmond Brothers 401(k) Profit Sharing PlanRichmond Brothers Inc.Curfman Matthew J.RBI OPPORTUNITIES FUND II LLC10% Owner",
+            "SharesTraded": 24681,
+            "AveragePrice": "$1.9271",
+            "TotalAmount": "$47,563",
+            "SharesOwned": "103,781(IndirectDirect)",
+            "Filing": "View",
+            "Name": [
+                "Richmond David S.RBI Private Investment I LLCRBI Private Investment II LLCRBI OPPORTUNITIES FUND LLCRBI PI Manager LLCRichmond Brothers 401(k) Profit Sharing PlanRichmond Brothers Inc.Curfman Matthew J.RBI OPPORTUNITIES FUND II LLC",
+                ""
+            ],
+            "Position": "10% Owner",
+            "Sale/Purchase?": "Purchase"
+        },
+        {
+            "TransactionDate": "2020-06-30Sale",
+            "ReportedDateTime": "2020-07-023:38 pm",
+            "Company": "HUMANIGEN INC",
+            "Symbol": "HGEN",
+            "InsiderRelationship": "NOMIS BAY Ltd10% Owner",
+            "SharesTraded": 3000,
+            "AveragePrice": "$4.913",
+            "TotalAmount": "$14,739",
+            "SharesOwned": "32,989,270(Direct)",
+            "Filing": "View",
+            "Name": [
+                "NOMIS BAY Ltd",
+                ""
+            ],
+            "Position": "10% Owner",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-30Purchase",
+            "ReportedDateTime": "2020-07-023:39 pm",
+            "Company": "FIRST FINANCIAL BANCORP",
+            "Symbol": "FFBC",
+            "InsiderRelationship": "Rahe Maribeth SDirector",
+            "SharesTraded": 899,
+            "AveragePrice": "$13.89",
+            "TotalAmount": "$12,487",
+            "SharesOwned": "40,016(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Rahe Maribeth S",
+                ""
+            ],
+            "Position": "Director",
+            "Sale/Purchase?": "Purchase"
+        },
+        {
+            "TransactionDate": "2020-06-30Sale",
+            "ReportedDateTime": "2020-07-023:40 pm",
+            "Company": "SYNNEX CORP",
+            "Symbol": "SNX",
+            "InsiderRelationship": "Zulberti Andrea MDirector",
+            "SharesTraded": 700,
+            "AveragePrice": "$118.5",
+            "TotalAmount": "$82,950",
+            "SharesOwned": "15,859(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Zulberti Andrea M",
+                ""
+            ],
+            "Position": "Director",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-30Purchase",
+            "ReportedDateTime": "2020-07-023:42 pm",
+            "Company": "FIRST FINANCIAL BANCORP",
+            "Symbol": "FFBC",
+            "InsiderRelationship": "Neighbours John TDirector",
+            "SharesTraded": 449,
+            "AveragePrice": "$13.89",
+            "TotalAmount": "$6,237",
+            "SharesOwned": "14,887(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Neighbours John T",
+                ""
+            ],
+            "Position": "Director",
+            "Sale/Purchase?": "Purchase"
+        },
+        {
+            "TransactionDate": "2020-07-01Purchase",
+            "ReportedDateTime": "2020-07-023:44 pm",
+            "Company": "RGC RESOURCES INC",
+            "Symbol": "RGCO",
+            "InsiderRelationship": "Oliver Lawrence T.VP",
+            "SharesTraded": 8,
+            "AveragePrice": "$24.5",
+            "TotalAmount": "$200",
+            "SharesOwned": "1,034(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Oliver Lawrence T.",
+                ""
+            ],
+            "Position": "VP",
+            "Sale/Purchase?": "Purchase"
+        },
+        {
+            "TransactionDate": "2020-07-01Sale",
+            "ReportedDateTime": "2020-07-023:46 pm",
+            "Company": "MARVELL TECHNOLOGY GROUP LTD",
+            "Symbol": "MRVL",
+            "InsiderRelationship": "Micallef AndrewCOO",
+            "SharesTraded": 10000,
+            "AveragePrice": "$34.65",
+            "TotalAmount": "$346,500",
+            "SharesOwned": "100,621(Direct)",
+            "Filing": "View",
+            "Name": [
+                "Micallef Andrew",
+                ""
+            ],
+            "Position": "COO",
+            "Sale/Purchase?": "Sale"
+        },
+        {
+            "TransactionDate": "2020-06-30Purchase",
+            "ReportedDateTime": "2020-07-023:47 pm",
+            "Company": "FIRST FINANCIAL BANCORP",
+            "Symbol": "FFBC",
+            "InsiderRelationship": "BARRON WILLIAM GDirector",
+            "SharesTraded": 899,
+            "AveragePrice": "$13.89",
+            "TotalAmount": "$12,487",
+            "SharesOwned": "79,989(Direct)",
+            "Filing": "View",
+            "Name": [
+                "BARRON WILLIAM G",
+                ""
+            ],
+            "Position": "Director",
+            "Sale/Purchase?": "Purchase"
+        },
+        {
+            "TransactionDate": "2020-06-30Purchase",
+            "ReportedDateTime": "2020-07-023:54 pm",
+            "Company": "FIRST FINANCIAL BANCORP",
+            "Symbol": "FFBC",
+            "InsiderRelationship": "OBRIEN THOMAS MURRAYDirector",
+            "SharesTraded": 899,
+            "AveragePrice": "$13.89",
+            "TotalAmount": "$12,487",
+            "SharesOwned": "34,293(Direct)",
+            "Filing": "View",
+            "Name": [
+                "OBRIEN THOMAS MURRAY",
+                ""
+            ],
+            "Position": "Director",
+            "Sale/Purchase?": "Purchase"
+        }
+    ]
 }

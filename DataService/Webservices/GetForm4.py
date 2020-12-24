@@ -134,3 +134,10 @@ def fetchFormInsider(ticker,cik, method):
     return createJSON(responseMap,ticker,cik,method=method)
 
 
+data = {
+    'cik' : "1318605",
+    'ticker' : 'TSLA'
+}
+
+
+fetchFormInsider(data['ticker'], data['cik'], "by_latest");
