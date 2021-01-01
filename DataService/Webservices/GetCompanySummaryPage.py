@@ -40,8 +40,8 @@ class EdgarSearchHashMap:
             return self.HashMap
 
 
-def jsonMethod(response,ticker):
-    with open('{}.json'.format(ticker),'w') as outfile:
+def createJSON(response,ticker):
+    with open('/Users/taishanlin/Desktop/RootDirectory/DataService/OutputSamples/Get_Document_{}.json'.format(ticker),'w') as outfile:
         return json.dump(response, outfile,indent=4)
 
 
@@ -76,7 +76,7 @@ def extractData(soup,ticker,getRequest):
     # Left Join & Drop NaNs
     response = pd.concat([df,table],axis=1)
     response = response.dropna()
-    response.columns = ['File Name', 'File Interaction', 'File Date', 'File Desc', 'File Number','File Link']
+    response.columns = ['File Name', 'File Interaction', 'File Desc', 'File Date', 'File Number','File Link']
     print(response)
     return response
 
@@ -93,10 +93,15 @@ def fetch(ticker, method):
     data        = extractData(soup=request(getRequest[ticker]),ticker=ticker,getRequest=getRequest)
     
     if method == 'JSON':
-        data.to_dict(orient='records')
+        data = data.to_dict(orient='records')
         response = EdgarSearchHashMap(ticker).upsert(data,ticker)
-        return jsonMethod(response,ticker)
+        return createJSON(response,ticker)
     elif method == 'QUERY':
-        #print(data)
         return data
+    elif method == 'API':
+        data = data.to_dict(orient='records')
+        response = EdgarSearchHashMap(ticker).upsert(data,ticker)
+        return response
+
+
 

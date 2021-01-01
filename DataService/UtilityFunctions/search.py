@@ -1,5 +1,7 @@
+import sys 
 import UtilityFiles
 from UtilityFiles.tickers import tickers
+
 
 class Node:
     def __init__(self,ticker):
@@ -35,13 +37,16 @@ def preorder(node):
     preorder(node.left)
     preorder(node.right)
     
-tickerArray = sorted(tickers)
-array = [1, 2, 3, 4, 5, 6, 7]
 
-tree = BST(array)
-tickerTree = BST(tickerArray)
-preorder(tree)
-preorder(tickerTree)
+
+if __name__ == "__main__":
+    tickerArray = sorted(tickers)
+    array = [1, 2, 3, 4, 5, 6, 7]
+
+    tree = BST(array)
+    tickerTree = BST(tickerArray)
+    preorder(tree)
+    preorder(tickerTree)
 
 
 

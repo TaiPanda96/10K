@@ -8,6 +8,7 @@ from dotenv import load_dotenv
 # Global Variables
 load_dotenv()
 
+
 # Environment Variables
 credentials = os.getenv("credentials")
 

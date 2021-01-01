@@ -22,12 +22,11 @@ sys.path.append("..")
 
 
 # Module Imports 
-from DataService.UtilityFunctions import CheckInsiderNames
-from DataService.UtilityFunctions.CheckTransactionDate import _processTransactionDate_utility
-from DataService.UtilityFunctions.UtilityFiles import tickers
+from UtilityFunctions import CheckInsiderNames
+from UtilityFunctions import CheckTransactionDate
+from UtilityFunctions.UtilityFiles import tickers
 
 #Unit Test Modules
-
 
 class FormInsider:
     def __init__(self,ticker,cik):
@@ -83,6 +82,7 @@ def request(form4_url,method):
             return soup
         else:
             print(response.status_code)
+
     elif method == "Xpath":
         if response.status_code == 200:
             tree = html.fromstring(response.content)
@@ -92,52 +92,46 @@ def request(form4_url,method):
             print(response.status_code)
 
 
-
 def extract(page_content):
-    table = page_content.xpath('//*[@id="filing_table"]') 
+    table = page_content.xpath('//*[@id="filing_table"]')
+    keywords = CheckInsiderNames.search_keyword
     try: 
         tstring = lxml.etree.tostring(table[0], method='html')
-        # Ignore parsing InsiderRelationship
 
-        # Individually find the span class and parse position, combine dataframes.
         df = pd.read_html(tstring)[0]
         df = df.dropna()
-        try: 
-            table = CheckInsiderNames._processInsiderNames(df)
-            try:
-                table = _processTransactionDate_utility(df,search_keyword=['Sale','Purchase'])
-                data = table.to_dict(orient='records')
-                return data
-            except:
-                print(sys.exc_info(),'\n',"unable to identify sale or purchase in the table. Please check your date function")
+        try:
+            table = CheckTransactionDate._processTransactionDate_utility(df,search_keyword=['Sale','Purchase'])
+            table = CheckInsiderNames._processInsiderNames_utility(df,search_keyword=keywords)
+            data  = table.to_dict(orient='records')
+            return data
         except:
-            print(sys.exc_info(), '\n', "unable to clean process the table. Please look at your process function.")
+            print(sys.exc_info(),'\n',"unable to identify sale or purchase in the table. Please check your date function")
+
     except:
         print(sys.exc_info())
 
 
 def createJSON(response,ticker,cik,method):
     if method == "by_ticker":
-        with open('{}_{}_form4.json'.format(ticker,cik),'w') as outfile:
+        with open('/Users/taishanlin/Desktop/RootDirectory/DataService/OutputSamples/{}_{}_form4.json'.format(ticker,cik),'w') as outfile:
             json.dump(response, outfile,indent=4)
+
+
     elif method == "by_latest":
         with open('/Users/taishanlin/Desktop/RootDirectory/DataService/OutputSamples/Form4.json','w') as outfile:
             json.dump(response, outfile,indent=4)
 
 
-def fetchFormInsider(ticker,cik, method):
+
+def fetchFormInsider(ticker,cik, method, output_to):
     form4_url          = FormInsider(ticker,cik).createRequestURL(method=method)
     page               = request(form4_url,'Xpath')
     content            = extract(page)
     responseMap        = FormInsider(ticker,cik).createDataStructure(data=content,url=form4_url,method=method)
     
-    return createJSON(responseMap,ticker,cik,method=method)
+    if output_to == "json":
+        return createJSON(responseMap,ticker,cik,method=method)
+    else: 
+        return responseMap
 
-
-data = {
-    'cik' : "1318605",
-    'ticker' : 'TSLA'
-}
-
-
-fetchFormInsider(data['ticker'], data['cik'], "by_latest");

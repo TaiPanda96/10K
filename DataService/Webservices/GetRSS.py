@@ -15,9 +15,11 @@ import json
 
 print(sys.path)
 
-
+# Adds higher directory to python modules path.
+sys.path.append(".") 
 # MODULE IMPORT: CIK Hashmap
 from Webservices.GetCIK import cik_map
+# from GetCIK import cik_map
 
 
 # MAIN CLASS
@@ -70,6 +72,7 @@ def extractRSSData(soup,cikHash):
         result   = list(filter(lambda x: x != '',elements))
         
         Items.append(result)
+        #print(Items)
 
         # Remember you need to left strip CIK to remove the leading 0s
         Company            = { 'Company'  : data[0] for data in Items }
@@ -79,7 +82,6 @@ def extractRSSData(soup,cikHash):
         OperatingName      = { 'Company Operating Name'  : data[5] for data in Items }
         CIK                = { 'CIK'  : data[8].lstrip('0') for data in Items }
         PublicationDate    = { 'Publication Date'  : data[7] for data in Items }
-        AssistantDirector  = { 'Assistant Director'  : data[13] for data in Items }
 
         info = [
             Company,
@@ -88,8 +90,7 @@ def extractRSSData(soup,cikHash):
             FilingDate,
             OperatingName,
             CIK,
-            PublicationDate,
-            AssistantDirector,
+            PublicationDate
         ]
 
         # Add the ticker to the JSON.
@@ -116,6 +117,7 @@ def createJSON(response,feedname):
         json.dump(response, outfile,indent=4)
 
 
+
 ## Executable Function ##
 def fetchRSS(feedname):
     url         = RSS(feedname).getRSS(feedname)
@@ -125,5 +127,4 @@ def fetchRSS(feedname):
     response    = RSS(feedname).insertRSS(data)
     return      createJSON(response,feedname)
 
-  
 
