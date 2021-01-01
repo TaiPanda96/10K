@@ -1,37 +1,22 @@
 import sys
 import os
 
-def _processTransactionDate(df):
+def _processTransactionDate_utility(filing_table,search_keyword):
     """ 
-    This function takes an InsiderRelationship string and parses the part of a larger string that has sale
+    This function takes an Transaction Date and parses 'Sale' from the date.
     """
     TransactionType = []
-    
-
-    for date in df['TransactionDate']:
-        if "Sale" in date:
-            transaction = date[-4:]
-        elif "Purchase" in date:
-            transaction = date[-8:]
-
+    TransactionDate = []
+    for date in filing_table['TransactionDate']:
+        index_position   = _getIndex(date,search_keyword)
+        transaction      = date[index_position:]
+        transaction_date = date[:index_position]
         TransactionType.append(transaction)
+        TransactionDate.append(transaction_date)
         
-    df['Sale/Purchase?'] = TransactionType
-    return df
-
-
-def _processTransactionDate_utility(df,search_keyword):
-    """ 
-    This function takes an InsiderRelationship string and parses the part of a larger string that has sale
-    """
-    TransactionType = []
-    for date in df['TransactionDate']:
-        index_position = _getIndex(date,search_keyword)
-        transaction    = date[index_position:]
-        TransactionType.append(transaction)
-        
-    df['Sale/Purchase?'] = TransactionType
-    return df
+    filing_table['Sale/Purchase?']   = TransactionType
+    filing_table['TransactionDate'] = TransactionDate
+    return filing_table
 
 
 def _getIndex(date,search_keyword):

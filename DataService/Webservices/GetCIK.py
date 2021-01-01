@@ -4,7 +4,6 @@ from bs4 import BeautifulSoup, SoupStrainer
 import urllib3
 import json
 
-
 # OTHER IMPORT DEPENDENCIES
 import os
 import time, requests, lxml
@@ -14,9 +13,11 @@ import sys
 import datetime
 import json
 
-# MODULE IMPORTS
-sys.path.append('..')
-from DataService.UtilityFunctions import CleanCIK
+# Adds higher directory to python modules path.
+sys.path.append("..") 
+
+# Module Imports 
+from UtilityFunctions import CleanCIK
 
 def getCIK(url):
     response = requests.get(url)

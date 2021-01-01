@@ -55,6 +55,8 @@ def extraction(RSSFile):
 
 
 
+
+
 def extraction_Form4(Form4):
     updateArray = []
 
@@ -72,8 +74,3 @@ def extraction_Form4(Form4):
     return updateArray
 
 
-# if __name__ == "__main__":
-# Unit Testing Only
-# Form4   = '/Users/taishanlin/Desktop/RootDirectory/DataService/OutputSamples/Form4.json'
-#     RSSFile = '/Users/taishanlin/Desktop/RootDirectory/DataService/OutputSamples/Filings.json'
-#     extraction_RSS(RSSFile)

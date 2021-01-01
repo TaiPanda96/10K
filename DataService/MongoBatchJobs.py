@@ -1,6 +1,11 @@
 # Utilities
 import syslog
 import sys
+import datetime
+print(sys.path)
+
+sys.path.append('/Applications/anaconda3/lib/python3.7')
+sys.path.append('/Applications/anaconda3/lib/python37.zip')
 
 # Main API Modules
 import Webservices
@@ -12,11 +17,11 @@ from Webservices import GetForm4
 import MongoConnection
 from MongoConnection import connection
 
-
 # Utility Functions
 import UtilityFunctions
 from UtilityFunctions import ParseJson
 from UtilityFunctions import CheckDate
+from UtilityFunctions.UtilityFiles import tickers
 
 # Time Utilities
 import datetime 
@@ -27,14 +32,14 @@ RSSFile = '/Users/taishanlin/Desktop/RootDirectory/DataService/OutputSamples/Fil
 Form4   = '/Users/taishanlin/Desktop/RootDirectory/DataService/OutputSamples/Form4.json'
 
 
-def updateMongoDB(collection, updateArray, collection_to_update):
+def updateMongoDB(collection, updateArray, filing_type):
     """
     Depending on SEC Filings or SEC Form 4 collection:
     1. Pass update array into MongoDB upsert function, which performs the following:
         2. Query ticker, find the symbol
         3. Set update items to items within the update array. Each index represents a list of ticker info.
     """
-    if collection_to_update == "SEC Filings":
+    if filing_type == "SEC Filings":
         for items in updateArray:
             try:
                 collection.update_one(
@@ -48,7 +53,7 @@ def updateMongoDB(collection, updateArray, collection_to_update):
 
         print("Update completed")
 
-    elif collection_to_update == "SEC Form 4":
+    elif filing_type == "SEC Form 4":
         for items in updateArray:
             try:
                 collection.update_one(
@@ -120,12 +125,26 @@ def form4_job(Form4,db):
     #db = connection();
     SEC_Form4 = db['SEC Form 4'];
     try: 
-        GetForm4.fetchFormInsider('General Information','N/A',"by_latest")
+        GetForm4.fetchFormInsider('General Information','N/A',"by_latest", "json")
     except:
-        print(sys.exc_info(),syslog.openlog())
+        print(sys.exc_info(),syslog.openlog(), "failed to fetch Form 4 information. Please check GetForm4 function for issues.")
     finally:
         updateArray = ParseJson.extraction_Form4(Form4);
         updateMongoDB(SEC_Form4,updateArray,"SEC Form 4")
+        print("Full Update Procedure Completed For" + " " + str(datetime.now()))
+        db.client.close()
+
+
+def watchlist_job(Form4,db, watchlistArray):
+    insiders_watchlist = db['SEC Form 4 Watchlist']
+    try:
+        for items in watchlistArray:
+            GetForm4.fetchFormInsider(items['ticker'],items['cik'],"by_ticker","json")
+    except:
+        print(sys.exc_info(),syslog.openlog(), "failed to fetch Form 4 information. Please check GetForm4 function for issues.")
+    finally:
+        updateArray = ParseJson.extraction_Form4(Form4);
+        updateMongoDB(insiders_watchlist,updateArray,"SEC Form 4")
         print("Full Update Procedure Completed For" + " " + str(datetime.now()))
         db.client.close()
 
@@ -137,9 +156,9 @@ def main(RSSFile,Form4):
         try:
             form4_job(Form4,db)
         except:
-            print("error for Form 4 job")
+            print(str(sys.exc_info()) + " " + "error for Form 4 job")
     except:
-        print("Error for RSS job")
+        print(str(sys.exc_info()) + " " + "error for RSS job")
 
 
 # Execute # 
