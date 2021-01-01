@@ -17,7 +17,7 @@ from Webservices import GetCompanySummaryPage
 from MongoConnection import connection
 
 
-@app.route('/api/utradea/form4/', methods=['GET'])
+@app.route('/api/dataservice/form4/', methods=['GET'])
 def api_form4_by_ticker():
     tickerMap = GetCIK.cik_map()
     ticker = request.args['ticker']
@@ -29,7 +29,7 @@ def api_form4_by_ticker():
             Exception(sys.exc_info())
 
 
-@app.route('/api/utradea/filings/', methods=['GET'])
+@app.route('/api/dataservice/filings/', methods=['GET'])
 def api_getall_by_ticker():
     tickerMap = GetCIK.cik_map()
     ticker = request.args['ticker']
